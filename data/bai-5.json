@@ -1,0 +1,624 @@
+{
+ "questions": [
+  {
+   "id": "B05-001",
+   "type": "mcq",
+   "q": "Công nghệ gene là:",
+   "options": [
+    "quy trình nuôi cấy mô tế bào thực vật.",
+    "quy trình tạo ra các giống mới chỉ bằng cách lai hữu tính.",
+    "quy trình gây đột biến ngẫu nhiên bằng tia phóng xạ.",
+    "quy trình kĩ thuật thao tác trên phân tử DNA (tách chiết, nhân bản, cắt nối) làm thay đổi kiểu gene và kiểu hình của sinh vật nhằm tạo ra các sản phẩm của gene dùng trong thực tiễn."
+   ],
+   "answer": 3,
+   "explain": "Đây là định nghĩa của SGK. <b>Bẫy:</b> công nghệ gene thao tác trực tiếp trên phân tử DNA, không phải lai hay gây đột biến ngẫu nhiên."
+  },
+  {
+   "id": "B05-002",
+   "type": "mcq",
+   "q": "Công nghệ gene gồm:",
+   "options": [
+    "công nghệ lai hữu tính và công nghệ gây đột biến.",
+    "công nghệ tế bào và công nghệ vi sinh vật.",
+    "công nghệ DNA tái tổ hợp và công nghệ tạo sinh vật biến đổi gene.",
+    "công nghệ enzyme và công nghệ sinh học môi trường."
+   ],
+   "answer": 2,
+   "explain": "Đáp án đúng: công nghệ DNA tái tổ hợp và công nghệ tạo sinh vật biến đổi gene."
+  },
+  {
+   "id": "B05-003",
+   "type": "mcq",
+   "q": "Công nghệ DNA tái tổ hợp là quy trình kĩ thuật:",
+   "options": [
+    "cắt bỏ hoàn toàn gene có hại ra khỏi hệ gene.",
+    "tạo ra phân tử DNA từ hai nguồn khác nhau (thường từ hai loài) rồi chuyển vào tế bào nhận.",
+    "nhân đôi DNA trong ống nghiệm không cần enzyme.",
+    "tạo protein trực tiếp từ amino acid."
+   ],
+   "answer": 1,
+   "explain": "DNA tái tổ hợp gồm gene chuyển và DNA dùng làm vector."
+  },
+  {
+   "id": "B05-004",
+   "type": "mcq",
+   "q": "DNA tái tổ hợp gồm:",
+   "options": [
+    "một gene chuyển và một đoạn RNA.",
+    "hai gene chuyển.",
+    "gene chuyển và DNA dùng làm vector.",
+    "vector và tế bào nhận."
+   ],
+   "answer": 2,
+   "explain": "Đáp án đúng: gene chuyển và DNA dùng làm vector. <b>Bẫy:</b> tế bào nhận là nơi DNA tái tổ hợp được chuyển vào, không nằm trong DNA tái tổ hợp."
+  },
+  {
+   "id": "B05-005",
+   "type": "mcq",
+   "q": "Đoạn DNA làm vector phải có đặc điểm nào sau đây?",
+   "options": [
+    "Không được tái bản trong tế bào nhận.",
+    "Có khả năng cắt gene chuyển.",
+    "Có khả năng tái bản và đảm bảo cho gene chuyển được phiên mã, dịch mã tạo ra sản phẩm protein trong tế bào nhận.",
+    "Chỉ gồm các đoạn intron."
+   ],
+   "answer": 2,
+   "explain": "Đáp án đúng: Có khả năng tái bản và đảm bảo cho gene chuyển được phiên mã, dịch mã tạo ra sản phẩm protein trong tế bào nhận."
+  },
+  {
+   "id": "B05-006",
+   "type": "mcq",
+   "q": "Vector thường dùng để chuyển gene vào tế bào vi khuẩn là:",
+   "options": [
+    "plasmid.",
+    "ribosome.",
+    "nucleosome.",
+    "mRNA."
+   ],
+   "answer": 0,
+   "explain": "Plasmid là DNA dạng vòng nhỏ có khả năng tái bản trong tế bào vi khuẩn."
+  },
+  {
+   "id": "B05-007",
+   "type": "mcq",
+   "q": "Nguyên lí tạo DNA tái tổ hợp là sử dụng các kĩ thuật di truyền nào?",
+   "options": [
+    "Phiên mã ngược và dịch mã trong ống nghiệm.",
+    "Chỉ kĩ thuật nhân bản gene.",
+    "Tách chiết gene ra khỏi tế bào, nhân bản gene, cắt và ghép nối các đoạn DNA với nhau.",
+    "Gây đột biến rồi chọn lọc."
+   ],
+   "answer": 2,
+   "explain": "Mục đích là để gene khi đưa vào tế bào nhận có thể tạo ra được sản phẩm có chức năng."
+  },
+  {
+   "id": "B05-008",
+   "type": "mcq",
+   "q": "Enzyme restrictase (enzyme cắt giới hạn) có chức năng:",
+   "options": [
+    "cắt DNA tại những vị trí đặc hiệu, tạo ra các đầu dính.",
+    "nối các đoạn DNA lại với nhau.",
+    "tổng hợp mạch DNA mới.",
+    "tổng hợp RNA từ DNA."
+   ],
+   "answer": 0,
+   "explain": "Đáp án đúng: cắt DNA tại những vị trí đặc hiệu, tạo ra các đầu dính. <b>Bẫy:</b> restrictase CẮT, ligase NỐI."
+  },
+  {
+   "id": "B05-009",
+   "type": "mcq",
+   "q": "Để tạo ra các đầu dính phù hợp (có thể kết cặp bổ sung) giữa gene cần chuyển và plasmid, người ta thường:",
+   "options": [
+    "dùng hai loại restrictase khác nhau hoàn toàn cho hai đoạn.",
+    "dùng ligase để cắt cả hai.",
+    "dùng cùng một loại restrictase để cắt cả gene cần chuyển và plasmid.",
+    "chỉ cắt gene, không cắt plasmid."
+   ],
+   "answer": 2,
+   "explain": "Cùng một loại enzyme cắt tạo ra các đầu dính bổ sung nhau."
+  },
+  {
+   "id": "B05-010",
+   "type": "mcq",
+   "q": "Enzyme ligase trong kĩ thuật tạo DNA tái tổ hợp có vai trò:",
+   "options": [
+    "nối các đầu dính của gene chuyển và vector tạo DNA tái tổ hợp.",
+    "cắt plasmid.",
+    "tách hai mạch DNA.",
+    "tổng hợp đoạn mồi."
+   ],
+   "answer": 0,
+   "explain": "Đáp án đúng: nối các đầu dính của gene chuyển và vector tạo DNA tái tổ hợp."
+  },
+  {
+   "id": "B05-011",
+   "type": "mcq",
+   "q": "Trình tự các bước tạo DNA tái tổ hợp để chuyển vào vi khuẩn là:",
+   "options": [
+    "nối gene với plasmid → cắt bằng restrictase → tách plasmid và gene chuyển → chuyển vào vi khuẩn.",
+    "chuyển vào vi khuẩn → tách gene → cắt → nối.",
+    "cắt bằng ligase → nối bằng restrictase → tách plasmid → chuyển vào vi khuẩn.",
+    "tách plasmid và gene chuyển → cắt bằng cùng một loại restrictase tạo đầu dính → nối bằng ligase tạo DNA tái tổ hợp → chuyển vào vi khuẩn."
+   ],
+   "answer": 3,
+   "explain": "Đáp án đúng: tách plasmid và gene chuyển → cắt bằng cùng một loại restrictase tạo đầu dính → nối bằng ligase tạo DNA tái tổ hợp → chuyển vào vi khuẩn. <b>Bẫy:</b> phải cắt trước rồi mới nối; enzyme cắt là restrictase, enzyme nối là ligase."
+  },
+  {
+   "id": "B05-012",
+   "type": "mcq",
+   "q": "Năm 1979, công ty Eli Lilly đã sản xuất và bán ra thị trường loại thuốc nào được tạo ra nhờ công nghệ DNA tái tổ hợp?",
+   "options": [
+    "Insulin người.",
+    "Kháng sinh penicillin.",
+    "Vaccine bại liệt.",
+    "Hormone sinh trưởng ở cá."
+   ],
+   "answer": 0,
+   "explain": "Đáp án đúng: Insulin người."
+  },
+  {
+   "id": "B05-013",
+   "type": "mcq",
+   "q": "Trong quy trình tạo insulin người nhờ vi khuẩn, gene quy định insulin của người được:",
+   "options": [
+    "tách chiết, loại bỏ intron rồi gắn vào plasmid và chuyển vào tế bào vi khuẩn.",
+    "chuyển nguyên cả NST của người vào vi khuẩn.",
+    "tổng hợp từ mRNA vi khuẩn.",
+    "gắn vào ribosome của vi khuẩn."
+   ],
+   "answer": 0,
+   "explain": "Vi khuẩn không có khả năng cắt intron nên gene chuyển cần được loại bỏ intron."
+  },
+  {
+   "id": "B05-014",
+   "type": "mcq",
+   "q": "Ứng dụng nào sau đây thuộc ngành công nghiệp và bảo vệ môi trường của vi sinh vật biến đổi gene?",
+   "options": [
+    "Tạo lúa vàng.",
+    "Tạo cây trồng kháng sâu.",
+    "Tạo cừu sản xuất thuốc chống đông máu.",
+    "Sản xuất ethanol từ các vật liệu thực vật, xử lí nước thải, xử lí hoá chất độc hại, thu hồi dầu."
+   ],
+   "answer": 3,
+   "explain": "Đáp án đúng: Sản xuất ethanol từ các vật liệu thực vật, xử lí nước thải, xử lí hoá chất độc hại, thu hồi dầu. <b>Bẫy:</b> các phương án còn lại là thành tựu ở thực vật, động vật chuyển gene."
+  },
+  {
+   "id": "B05-015",
+   "type": "mcq",
+   "q": "Trong nông nghiệp, một số loại vi khuẩn biến đổi gene có tác dụng:",
+   "options": [
+    "làm cây giảm hấp thụ nitrogen.",
+    "giúp cây trồng tăng cường hấp thụ nitrogen, ức chế vi khuẩn và nấm gây bệnh cho cây.",
+    "gây bệnh cho cây trồng.",
+    "làm tăng lượng thuốc trừ sâu cần dùng."
+   ],
+   "answer": 1,
+   "explain": "Đáp án đúng: giúp cây trồng tăng cường hấp thụ nitrogen, ức chế vi khuẩn và nấm gây bệnh cho cây."
+  },
+  {
+   "id": "B05-016",
+   "type": "mcq",
+   "q": "Sinh vật biến đổi gene là sinh vật:",
+   "options": [
+    "được tạo ra chỉ bằng lai hữu tính.",
+    "bị mất hoàn toàn hệ gene.",
+    "có hệ gene đã được biến đổi, chủ yếu là có thêm gene mới từ loài khác.",
+    "có bộ NST tăng gấp đôi."
+   ],
+   "answer": 2,
+   "explain": "Động vật và thực vật có thêm gene từ loài khác còn gọi là động vật, thực vật chuyển gene."
+  },
+  {
+   "id": "B05-017",
+   "type": "mcq",
+   "q": "Mục đích của việc tạo thực vật và động vật biến đổi gene là:",
+   "options": [
+    "làm giảm đa dạng sinh học.",
+    "tạo ra những sinh vật có đặc điểm khác thường chưa từng tồn tại trong tự nhiên, phục vụ các nhu cầu khác nhau của con người.",
+    "chỉ để nghiên cứu cấu trúc tế bào.",
+    "thay thế hoàn toàn các giống tự nhiên."
+   ],
+   "answer": 1,
+   "explain": "Đáp án đúng: tạo ra những sinh vật có đặc điểm khác thường chưa từng tồn tại trong tự nhiên, phục vụ các nhu cầu khác nhau của con người."
+  },
+  {
+   "id": "B05-018",
+   "type": "mcq",
+   "q": "Việc tạo thực vật và động vật biến đổi gene đều dựa trên:",
+   "options": [
+    "nguyên lí đột biến nhân tạo.",
+    "nguyên lí chọn lọc tự nhiên.",
+    "nguyên lí lai xa.",
+    "nguyên lí DNA tái tổ hợp, cộng thêm các công nghệ thích hợp cho từng đối tượng."
+   ],
+   "answer": 3,
+   "explain": "Đáp án đúng: nguyên lí DNA tái tổ hợp, cộng thêm các công nghệ thích hợp cho từng đối tượng."
+  },
+  {
+   "id": "B05-019",
+   "type": "mcq",
+   "q": "Để tạo ra động vật chuyển gene, các nhà khoa học phải sử dụng tế bào nhận gene chuyển là:",
+   "options": [
+    "tế bào lông.",
+    "tế bào da trưởng thành.",
+    "tinh trùng chưa trưởng thành.",
+    "trứng vừa mới được thụ tinh."
+   ],
+   "answer": 3,
+   "explain": "Tế bào trứng đủ lớn để dùng kim tiêm bơm hàng trăm bản sao của cùng một gene chuyển."
+  },
+  {
+   "id": "B05-020",
+   "type": "mcq",
+   "q": "Thời điểm thích hợp để tiêm gene chuyển vào trứng vừa thụ tinh là:",
+   "options": [
+    "khi hợp tử đã phân chia thành nhiều tế bào.",
+    "khi nhân của tinh trùng và nhân của trứng chưa hoà nhập với nhau.",
+    "sau khi phôi đã hình thành.",
+    "trước khi trứng được thụ tinh 1 tuần."
+   ],
+   "answer": 1,
+   "explain": "Đáp án đúng: khi nhân của tinh trùng và nhân của trứng chưa hoà nhập với nhau. <b>Bẫy:</b> nếu hai nhân đã hoà nhập thì gene chuyển khó tích hợp vào một trong hai nhân."
+  },
+  {
+   "id": "B05-021",
+   "type": "mcq",
+   "q": "Vì sao các nhà khoa học thường phải tiêm gene chuyển vào rất nhiều trứng vừa mới thụ tinh?",
+   "options": [
+    "Vì gene chuyển chỉ tích hợp được vào hệ gene của một trong hai nhân hoặc tinh trùng ở một vài trứng, nên phải tiêm nhiều trứng để may mắn có trứng tích hợp.",
+    "Vì mỗi trứng chỉ cho phép tiêm một lần.",
+    "Vì gene chuyển luôn tích hợp thành công ở mọi trứng.",
+    "Vì trứng không có nhân."
+   ],
+   "answer": 0,
+   "explain": "Đáp án đúng: Vì gene chuyển chỉ tích hợp được vào hệ gene của một trong hai nhân hoặc tinh trùng ở một vài trứng, nên phải tiêm nhiều trứng để may mắn có trứng tích hợp."
+  },
+  {
+   "id": "B05-022",
+   "type": "mcq",
+   "q": "Sau khi gene chuyển tích hợp vào hợp tử, các bước tiếp theo để tạo động vật chuyển gene là:",
+   "options": [
+    "để hợp tử tự phát triển trong ống nghiệm cả đời.",
+    "tiêm tiếp gene vào các tế bào của con vật trưởng thành.",
+    "nuôi cấy hợp tử thành phôi nang rồi đưa phôi vào tử cung của \"mẹ nuôi\" mang thai và sinh ra con vật chuyển gene.",
+    "chiếu tia UV vào phôi."
+   ],
+   "answer": 2,
+   "explain": "Đáp án đúng: nuôi cấy hợp tử thành phôi nang rồi đưa phôi vào tử cung của \"mẹ nuôi\" mang thai và sinh ra con vật chuyển gene."
+  },
+  {
+   "id": "B05-023",
+   "type": "mcq",
+   "q": "Vì tế bào thực vật có thành tế bào nên việc chuyển DNA tái tổ hợp vào tế bào thực vật có thể thực hiện bằng:",
+   "options": [
+    "tiêm trực tiếp vào trứng vừa thụ tinh.",
+    "súng bắn gene (bắn các hạt vàng hoặc wolfram bọc DNA tái tổ hợp vào tế bào) hoặc dùng virus.",
+    "kim tiêm hút nhân tế bào.",
+    "chiếu tia X."
+   ],
+   "answer": 1,
+   "explain": "Tế bào chuyển gene sau đó được nuôi cấy cho tái sinh thành cây chuyển gene. <b>Bẫy:</b> tiêm vào trứng thụ tinh là kĩ thuật cho ĐỘNG VẬT."
+  },
+  {
+   "id": "B05-024",
+   "type": "mcq",
+   "q": "Giống lúa có tên \"lúa vàng\" có thêm gene tổng hợp nên:",
+   "options": [
+    "tiền chất của vitamin C.",
+    "tiền chất của vitamin A.",
+    "hormone sinh trưởng.",
+    "độc tố chống sâu hại."
+   ],
+   "answer": 1,
+   "explain": "Loại gạo này giúp con người không bị thiếu hụt vitamin A."
+  },
+  {
+   "id": "B05-025",
+   "type": "mcq",
+   "q": "Giống bông chuyển gene có được gene lấy từ vi khuẩn tạo ra độc tố chống lại sâu hại, nên khi trồng:",
+   "options": [
+    "không phải sử dụng thuốc trừ sâu hoá học.",
+    "phải dùng nhiều thuốc trừ sâu hơn.",
+    "cây bông không ra hoa.",
+    "cây bông bị sâu phá hoại nhiều hơn."
+   ],
+   "answer": 0,
+   "explain": "Đáp án đúng: không phải sử dụng thuốc trừ sâu hoá học."
+  },
+  {
+   "id": "B05-026",
+   "type": "mcq",
+   "q": "Cừu chuyển gene tạo ra protein antithrombin của người được tiết vào sữa. Vì thế:",
+   "options": [
+    "cừu cho lượng sữa nhiều gấp đôi.",
+    "sản phẩm của gene chuyển dễ dàng được tách chiết, dùng làm thuốc chống đông máu trong các ca phẫu thuật.",
+    "cừu có len màu xanh.",
+    "cừu tăng trưởng nhanh hơn."
+   ],
+   "answer": 1,
+   "explain": "Đáp án đúng: sản phẩm của gene chuyển dễ dàng được tách chiết, dùng làm thuốc chống đông máu trong các ca phẫu thuật. <b>Bẫy:</b> tăng trưởng nhanh là thành tựu của cá hồi chuyển gene hormone sinh trưởng."
+  },
+  {
+   "id": "B05-027",
+   "type": "mcq",
+   "q": "Nhiều quốc gia không cấm sử dụng thực phẩm biến đổi gene nhưng yêu cầu nhà sản xuất ghi rõ trên bao bì sản phẩm vì:",
+   "options": [
+    "vì luật quốc tế yêu cầu tiêu huỷ toàn bộ.",
+    "vì sản phẩm biến đổi gene chắc chắn có hại.",
+    "vì sản phẩm biến đổi gene không có giá trị dinh dưỡng.",
+    "để người tiêu dùng có quyền lựa chọn, do việc dùng lâu dài có thể gây vấn đề về sức khoẻ như dị ứng hay các bệnh khác."
+   ],
+   "answer": 3,
+   "explain": "Đáp án đúng: để người tiêu dùng có quyền lựa chọn, do việc dùng lâu dài có thể gây vấn đề về sức khoẻ như dị ứng hay các bệnh khác."
+  },
+  {
+   "id": "B05-028",
+   "type": "mcq",
+   "q": "Về công nghệ DNA tái tổ hợp, có bao nhiêu phát biểu đúng?<br>a. Công nghệ gene gồm công nghệ DNA tái tổ hợp và công nghệ tạo sinh vật biến đổi gene.<br>b. Đoạn DNA làm vector phải có khả năng tái bản.<br>c. Insulin người đã được sản xuất nhờ vi khuẩn chuyển gene.<br>d. Ligase là enzyme dùng để cắt gene chuyển ra khỏi DNA.",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 2,
+   "noShuffle": true,
+   "explain": "Ý đúng: a, b, c; ý sai: d. d sai: ligase nối, restrictase cắt."
+  },
+  {
+   "id": "B05-029",
+   "type": "mcq",
+   "q": "Về các enzyme và vector trong kĩ thuật tạo DNA tái tổ hợp, có bao nhiêu phát biểu SAI?<br>a. Restrictase cắt DNA tại vị trí đặc hiệu tạo đầu dính.<br>b. Thường dùng cùng một loại restrictase để cắt gene chuyển và plasmid.<br>c. Ligase gắn các đầu dính bổ sung với nhau.<br>d. Plasmid là một loại enzyme.",
+   "options": [
+    "0",
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 1,
+   "noShuffle": true,
+   "explain": "Ý sai: d. d sai: plasmid là DNA dạng vòng nhỏ, dùng làm vector."
+  },
+  {
+   "id": "B05-030",
+   "type": "mcq",
+   "q": "Có bao nhiêu phát biểu đúng?<br>a. Tạo động vật chuyển gene dùng trứng vừa mới thụ tinh làm tế bào nhận gene.<br>b. Gene chuyển được tiêm khi nhân tinh trùng và nhân trứng chưa hoà nhập.<br>c. Tạo thực vật chuyển gene chỉ bằng cách tiêm gene vào trứng thụ tinh.<br>d. Lúa vàng giúp con người không bị thiếu hụt vitamin C.",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 1,
+   "noShuffle": true,
+   "explain": "Ý đúng: a, b; ý sai: c, d. c sai: dùng súng bắn gene hoặc virus; d sai: lúa vàng giúp bổ sung tiền chất vitamin A."
+  },
+  {
+   "id": "B05-031",
+   "type": "mcq",
+   "q": "Về những quan ngại khi ứng dụng công nghệ gene, có bao nhiêu phát biểu SAI?<br>a. Cây có gene kháng thuốc diệt cỏ có thể thụ phấn với cây hoang dại và truyền gene này, tạo \"siêu cỏ dại\".<br>b. Nhiều quốc gia không cấm thực phẩm biến đổi gene nhưng yêu cầu ghi rõ trên bao bì.<br>c. Việc chỉnh sửa hệ gene người bằng công nghệ DNA tái tổ hợp được xem là phù hợp đạo đức và được khuyến khích.<br>d. Việc dùng DNA tái tổ hợp chữa bệnh di truyền gây quan ngại vì chưa thể đảm bảo gene được thay thế hoạt động bình thường.",
+   "options": [
+    "0",
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 1,
+   "noShuffle": true,
+   "explain": "Ý sai: c. c sai: chỉnh sửa hệ gene người được cho là vi phạm đạo đức và đang bị cấm nghiên cứu ở nhiều quốc gia."
+  },
+  {
+   "id": "B05-032",
+   "type": "tf",
+   "q": "Xét tính đúng/sai về DNA tái tổ hợp và vector:",
+   "items": [
+    {
+     "t": "DNA tái tổ hợp được tạo ra từ hai nguồn khác nhau, thường từ hai loài.",
+     "a": true
+    },
+    {
+     "t": "DNA tái tổ hợp gồm gene chuyển và DNA dùng làm vector.",
+     "a": true
+    },
+    {
+     "t": "Đoạn DNA làm vector không cần có khả năng tái bản vì gene chuyển tự tái bản.",
+     "a": false
+    },
+    {
+     "t": "Vector phải đảm bảo cho gene chuyển được phiên mã và dịch mã tạo sản phẩm trong tế bào nhận.",
+     "a": true
+    }
+   ],
+   "explain": "c sai: vector phải có khả năng tái bản trong tế bào nhận."
+  },
+  {
+   "id": "B05-034",
+   "type": "tf",
+   "q": "Xét tính đúng/sai về các enzyme trong tạo DNA tái tổ hợp:",
+   "items": [
+    {
+     "t": "Restrictase cắt DNA tại vị trí xác định, tạo đầu dính.",
+     "a": true
+    },
+    {
+     "t": "Ligase nối các đầu dính của gene chuyển và vector.",
+     "a": true
+    },
+    {
+     "t": "Ligase dùng để cắt plasmid.",
+     "a": false
+    },
+    {
+     "t": "Restrictase dùng để nối gene chuyển vào vector.",
+     "a": false
+    }
+   ],
+   "explain": "cắt là restrictase, nối là ligase."
+  },
+  {
+   "id": "B05-035",
+   "type": "tf",
+   "q": "Xét tính đúng/sai về việc sản xuất insulin người nhờ vi khuẩn:",
+   "items": [
+    {
+     "t": "Năm 1979, công ty Eli Lilly bán ra thị trường insulin người tạo bằng công nghệ DNA tái tổ hợp.",
+     "a": true
+    },
+    {
+     "t": "Gene quy định insulin của người được tách chiết và loại bỏ intron.",
+     "a": true
+    },
+    {
+     "t": "Gene được gắn vào plasmid rồi chuyển vào tế bào vi khuẩn.",
+     "a": true
+    },
+    {
+     "t": "Sản phẩm tách từ vi khuẩn được dùng ngay, không cần xử lí hoá học.",
+     "a": false
+    }
+   ],
+   "explain": "sản phẩm của gene được tách chiết từ vi khuẩn và xử lí hoá học để tạo insulin có chức năng."
+  },
+  {
+   "id": "B05-036",
+   "type": "tf",
+   "q": "Xét tính đúng/sai về ứng dụng của vi sinh vật biến đổi gene:",
+   "items": [
+    {
+     "t": "Sản xuất ethanol từ các vật liệu thực vật.",
+     "a": true
+    },
+    {
+     "t": "Xử lí nước thải và các hoá chất độc hại gây ô nhiễm môi trường.",
+     "a": true
+    },
+    {
+     "t": "Tăng cường thu hồi dầu.",
+     "a": true
+    },
+    {
+     "t": "Làm cây trồng giảm hấp thụ nitrogen.",
+     "a": false
+    }
+   ],
+   "explain": "một số vi khuẩn biến đổi gene giúp cây trồng TĂNG cường hấp thụ nitrogen."
+  },
+  {
+   "id": "B05-037",
+   "type": "tf",
+   "q": "Xét tính đúng/sai về cách tạo động vật chuyển gene:",
+   "items": [
+    {
+     "t": "Dùng trứng vừa mới thụ tinh làm tế bào nhận gene chuyển.",
+     "a": true
+    },
+    {
+     "t": "Tế bào trứng đủ lớn nên có thể dùng kim tiêm bơm hàng trăm bản sao của gene chuyển.",
+     "a": true
+    },
+    {
+     "t": "Chỉ cần tiêm gene vào một trứng là chắc chắn tạo được động vật chuyển gene.",
+     "a": false
+    },
+    {
+     "t": "Hợp tử chuyển gene được nuôi cấy thành phôi nang rồi đưa vào tử cung \"mẹ nuôi\".",
+     "a": true
+    }
+   ],
+   "explain": "phải tiêm vào rất nhiều trứng vì chỉ ở một vài trứng gene chuyển mới tích hợp được."
+  },
+  {
+   "id": "B05-038",
+   "type": "tf",
+   "q": "Xét tính đúng/sai về cách tạo thực vật chuyển gene:",
+   "items": [
+    {
+     "t": "Vì tế bào thực vật có thành tế bào nên có thể dùng súng bắn gene hoặc virus để chuyển gene.",
+     "a": true
+    },
+    {
+     "t": "Các hạt bắn được bọc bằng vàng hoặc wolfram chứa DNA tái tổ hợp.",
+     "a": true
+    },
+    {
+     "t": "Tế bào chuyển gene sau đó được nuôi cấy để tái sinh thành cây chuyển gene.",
+     "a": true
+    },
+    {
+     "t": "Cây chuyển gene được tạo bằng cách tiêm gene vào trứng thụ tinh.",
+     "a": false
+    }
+   ],
+   "explain": "tiêm vào trứng thụ tinh là cách tạo động vật chuyển gene."
+  },
+  {
+   "id": "B05-039",
+   "type": "tf",
+   "q": "Xét tính đúng/sai về thành tựu của công nghệ gene:",
+   "items": [
+    {
+     "t": "Lúa vàng có thêm gene tổng hợp tiền chất của vitamin A.",
+     "a": true
+    },
+    {
+     "t": "Bông chuyển gene có gene từ vi khuẩn tạo độc tố chống sâu hại, nên không phải dùng thuốc trừ sâu hoá học.",
+     "a": true
+    },
+    {
+     "t": "Cừu chuyển gene tạo antithrombin của người tiết vào sữa, dùng làm thuốc chống đông máu.",
+     "a": true
+    },
+    {
+     "t": "Cá hồi chuyển gene hormone sinh trưởng có tốc độ sinh trưởng thấp hơn cá hồi bình thường.",
+     "a": false
+    }
+   ],
+   "explain": "cá hồi chuyển gene có tốc độ sinh trưởng cao hơn nhiều."
+  },
+  {
+   "id": "B05-040",
+   "type": "tf",
+   "q": "Xét tính đúng/sai về các quan ngại của công nghệ gene:",
+   "items": [
+    {
+     "t": "Cây có gene kháng thuốc diệt cỏ có thể thụ phấn với cây hoang dại và tạo \"siêu cỏ dại\".",
+     "a": true
+    },
+    {
+     "t": "Việc dùng lâu dài sản phẩm biến đổi gene có thể gây dị ứng hoặc bệnh khác.",
+     "a": true
+    },
+    {
+     "t": "Nhiều quốc gia yêu cầu ghi rõ trên bao bì sản phẩm là thực phẩm biến đổi gene.",
+     "a": true
+    },
+    {
+     "t": "Việc chỉnh sửa hệ gene người được xem là phù hợp đạo đức và đang được khuyến khích nghiên cứu ở nhiều quốc gia.",
+     "a": false
+    }
+   ],
+   "explain": "việc này bị cho là vi phạm đạo đức và đang bị cấm nghiên cứu ở nhiều quốc gia."
+  },
+  {
+   "id": "B05-041",
+   "type": "short",
+   "q": "Một plasmid dạng vòng chỉ có một vị trí nhận biết của restrictase. Sau khi được cắt bằng enzyme này, số đầu dính tạo ra trên plasmid là bao nhiêu?",
+   "answer": "2",
+   "explain": "Cắt vòng tại một vị trí thì thành mạch thẳng có hai đầu, mỗi đầu là một đầu dính."
+  },
+  {
+   "id": "B05-042",
+   "type": "short",
+   "q": "Giả sử tiêm gene chuyển vào 400 trứng vừa mới thụ tinh và chỉ 5% số trứng tích hợp được gene. Có bao nhiêu trứng tích hợp được gene chuyển?",
+   "answer": "20",
+   "explain": "400 × 5% = 20."
+  },
+  {
+   "id": "B05-033",
+   "type": "short",
+   "q": "Trong các thành tựu sau: lúa vàng, vi khuẩn sản xuất insulin, cừu antithrombin, bông chuyển gene, cá hồi chuyển gene hormone sinh trưởng — có bao nhiêu thành tựu thuộc nhóm động vật chuyển gene?",
+   "answer": "2",
+   "explain": "Cừu antithrombin và cá hồi chuyển gene."
+  }
+ ]
+}

@@ -1,0 +1,637 @@
+{
+ "questions": [
+  {
+   "id": "B07-001",
+   "type": "mcq",
+   "q": "Nhiễm sắc thể (NST) là một cấu trúc trong nhân tế bào có đặc điểm nào sau đây?",
+   "options": [
+    "Dễ bị nhuộm màu bởi một số loại thuốc nhuộm đặc hiệu với DNA.",
+    "Không bao giờ bị nhuộm màu.",
+    "Chỉ quan sát được bằng mắt thường.",
+    "Chỉ có ở tế bào chất."
+   ],
+   "answer": 0,
+   "explain": "NST dễ bị nhuộm màu bởi thuốc nhuộm đặc hiệu với DNA (tên \"nhiễm sắc thể\" cũng từ đặc điểm này)."
+  },
+  {
+   "id": "B07-002",
+   "type": "mcq",
+   "q": "Dưới kính hiển vi quang học, hình thái NST được quan sát rõ nhất vào:",
+   "options": [
+    "kì giữa.",
+    "kì đầu.",
+    "kì trung gian.",
+    "kì cuối."
+   ],
+   "answer": 0,
+   "explain": "Ở kì giữa NST co xoắn cực đại. <b>Bẫy:</b> ở kì trung gian NST dãn xoắn, chỉ là chuỗi nucleosome mảnh nên không quan sát rõ hình thái."
+  },
+  {
+   "id": "B07-003",
+   "type": "mcq",
+   "q": "Ở kì trung gian, mỗi NST là:",
+   "options": [
+    "một vòng protein.",
+    "một chromatid dày 700 nm.",
+    "một chuỗi nucleosome.",
+    "một phân tử RNA."
+   ],
+   "answer": 2,
+   "explain": "Chuỗi các nucleosome có đường kính khoảng 10 nm."
+  },
+  {
+   "id": "B07-004",
+   "type": "mcq",
+   "q": "Mỗi nucleosome gồm:",
+   "options": [
+    "4 phân tử protein histone được quấn bởi 146 cặp nucleotide.",
+    "8 phân tử protein histone (thuộc 4 loại), bên ngoài quấn quanh bởi một đoạn DNA gồm 146 cặp nucleotide.",
+    "8 phân tử histone được quấn bởi 246 cặp nucleotide.",
+    "một phân tử DNA kết hợp với 8 phân tử RNA."
+   ],
+   "answer": 1,
+   "explain": "Đáp án đúng: 8 phân tử protein histone (thuộc 4 loại), bên ngoài quấn quanh bởi một đoạn DNA gồm 146 cặp nucleotide. <b>Bẫy:</b> đổi con số (4 histone, 246 cặp) là các nhiễu rất thường gặp."
+  },
+  {
+   "id": "B07-005",
+   "type": "mcq",
+   "q": "Chuỗi các nucleosome ở kì trung gian có đường kính khoảng:",
+   "options": [
+    "10 nm.",
+    "2 nm.",
+    "300 nm.",
+    "700 nm."
+   ],
+   "answer": 0,
+   "explain": "DNA trần là 2 nm; chromatid ở kì giữa là 700 nm."
+  },
+  {
+   "id": "B07-006",
+   "type": "mcq",
+   "q": "Vùng NST có các nucleosome nằm sát nhau được gọi là:",
+   "options": [
+    "nguyên nhiễm sắc.",
+    "dị nhiễm sắc.",
+    "tâm động.",
+    "đầu mút."
+   ],
+   "answer": 1,
+   "explain": "Vùng dị nhiễm sắc không chứa gene hoặc chứa gene bị bất hoạt. <b>Bẫy:</b> hai khái niệm \"dị nhiễm sắc\" và \"nguyên nhiễm sắc\" hay bị đảo."
+  },
+  {
+   "id": "B07-007",
+   "type": "mcq",
+   "q": "Vùng NST có các nucleosome nằm cách xa nhau, thường chứa các gene đang hoạt động, được gọi là:",
+   "options": [
+    "nguyên nhiễm sắc.",
+    "dị nhiễm sắc.",
+    "tâm động.",
+    "khung NST."
+   ],
+   "answer": 0,
+   "explain": "Đáp án đúng: nguyên nhiễm sắc."
+  },
+  {
+   "id": "B07-008",
+   "type": "mcq",
+   "q": "Các vùng như tâm động và đầu mút của NST thuộc loại vùng nào, và có đặc điểm gì?",
+   "options": [
+    "Vùng khung NST, chứa gene điều hoà.",
+    "Vùng nguyên nhiễm sắc, chứa nhiều gene đang hoạt động.",
+    "Vùng nguyên nhiễm sắc, chứa gene bất hoạt.",
+    "Vùng dị nhiễm sắc, không chứa gene."
+   ],
+   "answer": 3,
+   "explain": "Vùng dị nhiễm sắc hoặc không chứa gene (như tâm động và đầu mút) hoặc chứa các gene bị bất hoạt."
+  },
+  {
+   "id": "B07-009",
+   "type": "mcq",
+   "q": "Ở kì đầu, sợi nhiễm sắc có đường kính 10 nm co xoắn lại dưới tác động của:",
+   "options": [
+    "enzyme DNA polymerase.",
+    "các protein condensin II và condensin I.",
+    "ribosome.",
+    "enzyme ligase."
+   ],
+   "answer": 1,
+   "explain": "Đáp án đúng: các protein condensin II và condensin I."
+  },
+  {
+   "id": "B07-010",
+   "type": "mcq",
+   "q": "Các condensin là:",
+   "options": [
+    "các enzyme cắt DNA.",
+    "các phân tử DNA nối giữa hai nucleosome.",
+    "phức hệ protein có kích thước lớn, dạng vòng liên kết với nhau tạo nên bộ khung NST.",
+    "các phân tử RNA vận chuyển."
+   ],
+   "answer": 2,
+   "explain": "Đáp án đúng: phức hệ protein có kích thước lớn, dạng vòng liên kết với nhau tạo nên bộ khung NST."
+  },
+  {
+   "id": "B07-011",
+   "type": "mcq",
+   "q": "Ở kì đầu, sợi nhiễm sắc 10 nm được luồn vào các vòng protein tạo ra các vòng nhỏ ra phía ngoài khung NST làm cho:",
+   "options": [
+    "chiều dài NST giảm mạnh và tăng dần chiều rộng.",
+    "chiều dài NST tăng mạnh.",
+    "NST tách thành các nucleosome riêng lẻ.",
+    "DNA bị phân giải."
+   ],
+   "answer": 0,
+   "explain": "Đáp án đúng: chiều dài NST giảm mạnh và tăng dần chiều rộng."
+  },
+  {
+   "id": "B07-012",
+   "type": "mcq",
+   "q": "Ở kì giữa, mỗi chromatid có đường kính khoảng:",
+   "options": [
+    "30 nm.",
+    "10 nm.",
+    "2 nm.",
+    "700 nm."
+   ],
+   "answer": 3,
+   "explain": "NST co xoắn và nén lại ở mức cực đại vào kì giữa."
+  },
+  {
+   "id": "B07-011b",
+   "type": "mcq",
+   "q": "Tổng chiều dài của 46 phân tử DNA trong tế bào người khoảng 2 m nhưng vẫn nằm gọn trong nhân tế bào vì:",
+   "options": [
+    "DNA tan trong tế bào chất.",
+    "DNA bị cắt thành các đoạn rất nhỏ.",
+    "DNA chỉ nằm ngoài nhân.",
+    "DNA được quấn quanh các protein histone tạo nucleosome và co xoắn qua nhiều mức độ, thu gọn lại thành NST."
+   ],
+   "answer": 3,
+   "explain": "Đáp án đúng: DNA được quấn quanh các protein histone tạo nucleosome và co xoắn qua nhiều mức độ, thu gọn lại thành NST."
+  },
+  {
+   "id": "B07-013",
+   "type": "mcq",
+   "q": "Vị trí của gene trên NST được gọi là:",
+   "options": [
+    "locus.",
+    "allele.",
+    "chromatid.",
+    "nucleosome."
+   ],
+   "answer": 0,
+   "explain": "Đáp án đúng: locus. <b>Bẫy:</b> allele là các dạng khác nhau của một gene."
+  },
+  {
+   "id": "B07-014",
+   "type": "mcq",
+   "q": "Allele là:",
+   "options": [
+    "các gene nằm ở hai NST khác cặp.",
+    "các vị trí khác nhau trên cùng một NST.",
+    "các trình tự nucleotide khác nhau tại cùng một locus trên cặp NST tương đồng.",
+    "các chromatid chị em."
+   ],
+   "answer": 2,
+   "explain": "Đáp án đúng: các trình tự nucleotide khác nhau tại cùng một locus trên cặp NST tương đồng."
+  },
+  {
+   "id": "B07-015",
+   "type": "mcq",
+   "q": "Ở sinh vật lưỡng bội, hai allele của một gene nằm ở:",
+   "options": [
+    "hai NST không tương đồng.",
+    "hai locus khác nhau trên cùng một NST.",
+    "cùng một locus trên hai NST của cặp tương đồng.",
+    "cùng một chromatid."
+   ],
+   "answer": 2,
+   "explain": "Đáp án đúng: cùng một locus trên hai NST của cặp tương đồng."
+  },
+  {
+   "id": "B07-016",
+   "type": "mcq",
+   "q": "Phát biểu nào về gene và NST là đúng?",
+   "options": [
+    "Số lượng gene trên mọi NST của một bộ NST bằng nhau.",
+    "Mỗi NST chỉ chứa đúng một gene.",
+    "Các gene nằm kế tiếp nhau dọc theo chiều dài NST.",
+    "Các gene nằm ngoài NST."
+   ],
+   "answer": 2,
+   "explain": "Số lượng gene và sự phân bố các gene trên NST rất khác nhau: có NST chứa nhiều gene, mật độ dày; NST khác ít gene, nằm xa nhau."
+  },
+  {
+   "id": "B07-017",
+   "type": "mcq",
+   "q": "Trình tự nucleotide ở đầu mút NST có chức năng:",
+   "options": [
+    "quy định tính trạng chiều cao.",
+    "gắn với thoi phân bào.",
+    "bảo vệ NST.",
+    "xúc tác phản ứng sinh hoá."
+   ],
+   "answer": 2,
+   "explain": "Đáp án đúng: bảo vệ NST. <b>Bẫy:</b> gắn với thoi phân bào là chức năng của tâm động."
+  },
+  {
+   "id": "B07-018",
+   "type": "mcq",
+   "q": "Trình tự nucleotide ở tâm động của NST có chức năng:",
+   "options": [
+    "tổng hợp protein histone.",
+    "bảo vệ đầu mút NST.",
+    "gắn với thoi phân bào, đảm bảo cho NST di chuyển được khi phân chia tế bào.",
+    "nhân đôi DNA."
+   ],
+   "answer": 2,
+   "explain": "Đáp án đúng: gắn với thoi phân bào, đảm bảo cho NST di chuyển được khi phân chia tế bào."
+  },
+  {
+   "id": "B07-019",
+   "type": "mcq",
+   "q": "Trong nguyên phân, NST được nhân đôi và phân chia đồng đều về hai tế bào con nên:",
+   "options": [
+    "thông tin di truyền được truyền đạt nguyên vẹn qua các thế hệ tế bào.",
+    "hai tế bào con luôn khác nhau về kiểu gene.",
+    "bộ NST của tế bào con giảm một nửa.",
+    "thông tin di truyền bị thay đổi hoàn toàn."
+   ],
+   "answer": 0,
+   "explain": "Đáp án đúng: thông tin di truyền được truyền đạt nguyên vẹn qua các thế hệ tế bào."
+  },
+  {
+   "id": "B07-020",
+   "type": "mcq",
+   "q": "Ở các sinh vật đa bào có hình thức sinh sản hữu tính, nguyên phân đảm bảo cho:",
+   "options": [
+    "mỗi tế bào con có số NST giảm một nửa.",
+    "giao tử có bộ NST đơn bội.",
+    "hợp tử có bộ NST tam bội.",
+    "các tế bào của cơ thể có bộ NST lưỡng bội như nhau."
+   ],
+   "answer": 3,
+   "explain": "Mỗi gene có hai bản sao nên một bản sao bị đột biến cũng ít gây hại cho thể."
+  },
+  {
+   "id": "B07-021",
+   "type": "mcq",
+   "q": "Nhờ sự vận động của NST trong nguyên phân và giảm phân nên các gene được truyền nguyên vẹn nhưng dưới dạng:",
+   "options": [
+    "các NST bị mất tâm động.",
+    "các tổ hợp gene giống hệt nhau qua mọi thế hệ.",
+    "các gene bị đột biến hoàn toàn.",
+    "các tổ hợp gene khác nhau từ thế hệ này sang thế hệ khác."
+   ],
+   "answer": 3,
+   "explain": "Do vậy, sinh vật ở các thế hệ sau có thể thích nghi với các điều kiện môi trường khác nhau."
+  },
+  {
+   "id": "B07-022",
+   "type": "mcq",
+   "q": "Giảm phân và thụ tinh có ý nghĩa quan trọng vì chúng:",
+   "options": [
+    "luôn tạo ra các cá thể giống hệt bố mẹ.",
+    "tạo nên nhiều biến dị tổ hợp và biến dị số lượng NST ở đời con.",
+    "giữ nguyên bộ NST 2n ở giao tử.",
+    "chỉ tạo ra các đột biến gene."
+   ],
+   "answer": 1,
+   "explain": "Đáp án đúng: tạo nên nhiều biến dị tổ hợp và biến dị số lượng NST ở đời con."
+  },
+  {
+   "id": "B07-023",
+   "type": "mcq",
+   "q": "Quá trình nào sau đây khôi phục bộ NST lưỡng bội của loài?",
+   "options": [
+    "Giảm phân.",
+    "Thụ tinh.",
+    "Nguyên phân ở giao tử.",
+    "Nhân đôi DNA."
+   ],
+   "answer": 1,
+   "explain": "Giảm phân tạo giao tử đơn bội (n); thụ tinh kết hợp giao tử tạo hợp tử 2n. <b>Bẫy:</b> giảm phân làm giảm một nửa số NST."
+  },
+  {
+   "id": "B07-024",
+   "type": "mcq",
+   "q": "Hai chromatid chị em trong một NST kép có đặc điểm nào sau đây?",
+   "options": [
+    "Chỉ chứa các gene điều hoà.",
+    "Chứa các allele khác nhau tại mỗi locus.",
+    "Là hai NST thuộc hai cặp khác nhau.",
+    "Chứa các allele giống hệt nhau tại mỗi locus (nếu không có đột biến)."
+   ],
+   "answer": 3,
+   "explain": "Hai chromatid chị em được tạo ra từ nhân đôi một NST nên giống hệt nhau."
+  },
+  {
+   "id": "B07-025",
+   "type": "mcq",
+   "q": "Vì sao ở kì trung gian NST cần dãn xoắn tối đa tạo ra các vùng nguyên nhiễm sắc có các nucleosome tách rời nhau?",
+   "options": [
+    "Để NST dễ phân li về hai cực tế bào.",
+    "Để các gene tiếp xúc được với enzyme phiên mã và được phiên mã.",
+    "Để NST được nhìn thấy rõ bằng kính hiển vi quang học.",
+    "Để DNA ngừng tái bản."
+   ],
+   "answer": 1,
+   "explain": "Ở vùng nguyên nhiễm sắc các gene hoạt động, phiên mã tạo mRNA. <b>Bẫy:</b> co xoắn tối đa ở kì giữa là để phân li; dãn xoắn ở kì trung gian là để phiên mã."
+  },
+  {
+   "id": "B07-026",
+   "type": "mcq",
+   "q": "Vì sao NST cần được co xoắn tối đa ở kì giữa của nguyên phân và giảm phân?",
+   "options": [
+    "Để gene phiên mã mạnh nhất.",
+    "Để NST nén gọn, dễ phân li đồng đều và không bị rối hoặc đứt gãy khi phân chia.",
+    "Để DNA tái bản.",
+    "Để tạo nucleosome mới."
+   ],
+   "answer": 1,
+   "explain": "Đáp án đúng: Để NST nén gọn, dễ phân li đồng đều và không bị rối hoặc đứt gãy khi phân chia."
+  },
+  {
+   "id": "B07-027",
+   "type": "mcq",
+   "q": "Phát biểu nào về nucleosome là đúng?",
+   "options": [
+    "Nucleosome được cấu tạo hoàn toàn từ RNA.",
+    "Mỗi nucleosome chỉ có 1 phân tử histone.",
+    "Nucleosome chỉ có ở kì giữa.",
+    "Nucleosome là đơn vị cấu trúc cơ bản của NST."
+   ],
+   "answer": 3,
+   "explain": "Đáp án đúng: Nucleosome là đơn vị cấu trúc cơ bản của NST."
+  },
+  {
+   "id": "B07-028",
+   "type": "mcq",
+   "q": "Về nucleosome và chuỗi nucleosome, có bao nhiêu phát biểu đúng?<br>a. Mỗi nucleosome gồm 8 phân tử histone.<br>b. Đoạn DNA quấn quanh mỗi nucleosome gồm 146 cặp nucleotide.<br>c. Chuỗi nucleosome ở kì trung gian có đường kính khoảng 10 nm.<br>d. Nguyên nhiễm sắc là vùng có các nucleosome nằm sát nhau.",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 2,
+   "noShuffle": true,
+   "explain": "Ý đúng: a, b, c; ý sai: d. d sai: vùng có nucleosome sát nhau là dị nhiễm sắc."
+  },
+  {
+   "id": "B07-029",
+   "type": "mcq",
+   "q": "Về cấu trúc và chức năng của NST, có bao nhiêu phát biểu SAI?<br>a. Vùng dị nhiễm sắc có các nucleosome nằm sát nhau.<br>b. Vùng dị nhiễm sắc có thể chứa gene bị bất hoạt.<br>c. Tâm động gắn với thoi phân bào.<br>d. Đầu mút NST giúp NST di chuyển về cực tế bào.",
+   "options": [
+    "0",
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 1,
+   "noShuffle": true,
+   "explain": "Ý sai: d. d sai: di chuyển về cực nhờ tâm động gắn thoi phân bào; đầu mút bảo vệ NST."
+  },
+  {
+   "id": "B07-030",
+   "type": "mcq",
+   "q": "Về locus và allele, có bao nhiêu phát biểu đúng?<br>a. Mỗi gene chiếm một vị trí xác định trên NST gọi là locus.<br>b. Allele là các trình tự nucleotide khác nhau tại cùng một locus.<br>c. Ở sinh vật lưỡng bội, gene tồn tại thành từng cặp allele.<br>d. Hai allele của một gene nằm ở hai locus khác nhau.",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 2,
+   "noShuffle": true,
+   "explain": "Ý đúng: a, b, c; ý sai: d. d sai: hai allele của một gene nằm ở cùng một locus trên cặp NST tương đồng."
+  },
+  {
+   "id": "B07-031",
+   "type": "mcq",
+   "q": "Về vai trò của nguyên phân, giảm phân, thụ tinh, có bao nhiêu phát biểu SAI?<br>a. Nguyên phân: NST nhân đôi và phân chia đồng đều về hai tế bào con.<br>b. Giảm phân và thụ tinh tạo tổ hợp gene khác nhau, giúp sinh vật thích nghi.<br>c. Nguyên phân làm cho hai tế bào con có tổ hợp gene khác nhau.<br>d. Giảm phân tạo ra giao tử có bộ NST lưỡng bội 2n.",
+   "options": [
+    "0",
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 2,
+   "noShuffle": true,
+   "explain": "Ý sai: c, d. c sai: tế bào con giống nhau; d sai: giao tử đơn bội n."
+  },
+  {
+   "id": "B07-032",
+   "type": "tf",
+   "q": "Xét tính đúng/sai về NST:",
+   "items": [
+    {
+     "t": "NST dễ bị nhuộm màu bởi một số loại thuốc nhuộm đặc hiệu với DNA.",
+     "a": true
+    },
+    {
+     "t": "Hình thái NST được quan sát rõ nhất vào kì giữa.",
+     "a": true
+    },
+    {
+     "t": "Hình thái NST được quan sát rõ nhất vào kì trung gian.",
+     "a": false
+    },
+    {
+     "t": "Tuỳ vị trí tâm động mà NST có thể là dạng tâm mút, tâm lệch hoặc tâm giữa.",
+     "a": true
+    }
+   ],
+   "explain": "ở kì trung gian NST dãn xoắn, không quan sát rõ hình thái."
+  },
+  {
+   "id": "B07-033",
+   "type": "tf",
+   "q": "Xét tính đúng/sai về nucleosome:",
+   "items": [
+    {
+     "t": "Mỗi nucleosome gồm 8 phân tử protein histone.",
+     "a": true
+    },
+    {
+     "t": "Protein histone thuộc 4 loại khác nhau.",
+     "a": true
+    },
+    {
+     "t": "Đoạn DNA quấn quanh nucleosome gồm 246 cặp nucleotide.",
+     "a": false
+    },
+    {
+     "t": "Chuỗi nucleosome có đường kính khoảng 10 nm.",
+     "a": true
+    }
+   ],
+   "explain": "đoạn DNA quấn quanh nucleosome gồm 146 cặp nucleotide."
+  },
+  {
+   "id": "B07-034",
+   "type": "tf",
+   "q": "Xét tính đúng/sai về vùng nguyên nhiễm sắc và dị nhiễm sắc:",
+   "items": [
+    {
+     "t": "Vùng nguyên nhiễm sắc có các nucleosome nằm cách xa nhau và thường chứa các gene đang hoạt động.",
+     "a": true
+    },
+    {
+     "t": "Vùng dị nhiễm sắc có các nucleosome nằm sát nhau.",
+     "a": true
+    },
+    {
+     "t": "Tâm động và đầu mút thuộc vùng dị nhiễm sắc, không chứa gene.",
+     "a": true
+    },
+    {
+     "t": "Vùng nguyên nhiễm sắc thường chứa các gene bị bất hoạt.",
+     "a": false
+    }
+   ],
+   "explain": "gene bị bất hoạt thường nằm ở vùng dị nhiễm sắc."
+  },
+  {
+   "id": "B07-035",
+   "type": "tf",
+   "q": "Xét tính đúng/sai về cấu trúc siêu hiển vi của NST:",
+   "items": [
+    {
+     "t": "Ở kì đầu, sợi nhiễm sắc 10 nm co xoắn nhờ các protein condensin I và condensin II.",
+     "a": true
+    },
+    {
+     "t": "Các condensin tạo nên bộ khung NST.",
+     "a": true
+    },
+    {
+     "t": "Ở kì giữa, mỗi chromatid có đường kính khoảng 700 nm.",
+     "a": true
+    },
+    {
+     "t": "Ở kì giữa, NST ở dạng chuỗi nucleosome 10 nm dãn xoắn.",
+     "a": false
+    }
+   ],
+   "explain": "ở kì giữa NST co xoắn cực đại; chuỗi nucleosome 10 nm là dạng ở kì trung gian."
+  },
+  {
+   "id": "B07-036",
+   "type": "tf",
+   "q": "Xét tính đúng/sai về chức năng của NST:",
+   "items": [
+    {
+     "t": "NST mang thông tin di truyền (các gene).",
+     "a": true
+    },
+    {
+     "t": "Trình tự nucleotide ở đầu mút bảo vệ NST.",
+     "a": true
+    },
+    {
+     "t": "Trình tự ở tâm động gắn với thoi phân bào, giúp NST di chuyển khi phân chia.",
+     "a": true
+    },
+    {
+     "t": "Số lượng gene trên tất cả các NST của một bộ NST là như nhau.",
+     "a": false
+    }
+   ],
+   "explain": "số lượng gene và sự phân bố gene trên các NST rất khác nhau."
+  },
+  {
+   "id": "B07-037",
+   "type": "tf",
+   "q": "Xét tính đúng/sai về locus và allele:",
+   "items": [
+    {
+     "t": "Vị trí xác định của gene trên NST gọi là locus.",
+     "a": true
+    },
+    {
+     "t": "Cùng một locus trên cặp NST tương đồng có thể chứa các trình tự nucleotide khác nhau, gọi là allele.",
+     "a": true
+    },
+    {
+     "t": "Ở sinh vật lưỡng bội, gene cũng tồn tại thành từng cặp allele.",
+     "a": true
+    },
+    {
+     "t": "Hai chromatid chị em của cùng một NST kép chứa các allele khác nhau của một gene (không có đột biến).",
+     "a": false
+    }
+   ],
+   "explain": "hai chromatid chị em được tạo từ nhân đôi một NST nên giống hệt nhau."
+  },
+  {
+   "id": "B07-038",
+   "type": "tf",
+   "q": "Xét tính đúng/sai về nguyên phân, giảm phân, thụ tinh:",
+   "items": [
+    {
+     "t": "Trong nguyên phân, NST nhân đôi và phân chia đồng đều về hai tế bào con.",
+     "a": true
+    },
+    {
+     "t": "Nguyên phân đảm bảo các tế bào của cơ thể có bộ NST lưỡng bội như nhau.",
+     "a": true
+    },
+    {
+     "t": "Giảm phân và thụ tinh tạo nên các tổ hợp gene khác nhau, giúp sinh vật thích nghi với nhiều điều kiện môi trường.",
+     "a": true
+    },
+    {
+     "t": "Nhờ nguyên phân mà các tế bào con luôn có tổ hợp gene khác nhau.",
+     "a": false
+    }
+   ],
+   "explain": "tế bào con trong nguyên phân giống nhau; biến dị tổ hợp phát sinh do giảm phân và thụ tinh."
+  },
+  {
+   "id": "B07-039",
+   "type": "tf",
+   "q": "Tổng chiều dài 46 phân tử DNA trong tế bào người khoảng 2 m. Xét tính đúng/sai:",
+   "items": [
+    {
+     "t": "DNA được quấn quanh các histone tạo nucleosome rồi co xoắn nhiều mức độ.",
+     "a": true
+    },
+    {
+     "t": "Cấu trúc này giúp DNA nằm gọn trong nhân tế bào.",
+     "a": true
+    },
+    {
+     "t": "Vẫn đảm bảo cho gene phiên mã nhờ vùng nguyên nhiễm sắc có nucleosome nằm cách xa nhau.",
+     "a": true
+    },
+    {
+     "t": "Để các gene phiên mã được, toàn bộ NST phải ở trạng thái xoắn cực đại.",
+     "a": false
+    }
+   ],
+   "explain": "gene chỉ phiên mã được ở vùng dãn xoắn (nguyên nhiễm sắc), không phải ở trạng thái xoắn cực đại."
+  },
+  {
+   "id": "B07-040",
+   "type": "short",
+   "q": "Một đoạn DNA quấn quanh 100 nucleosome. Số phân tử protein histone có trong 100 nucleosome đó là bao nhiêu?",
+   "answer": "800",
+   "explain": "Mỗi nucleosome có 8 histone: 100 × 8 = 800."
+  },
+  {
+   "id": "B07-041",
+   "type": "short",
+   "q": "Tế bào người có bộ NST 2n = 46. Ở kì giữa của nguyên phân, tế bào có bao nhiêu chromatid?",
+   "answer": "92",
+   "explain": "Ở kì giữa có 46 NST kép, mỗi NST kép gồm 2 chromatid: 46 × 2 = 92."
+  },
+  {
+   "id": "B07-042",
+   "type": "short",
+   "q": "Tế bào người có bộ NST 2n = 46. Ở kì giữa của giảm phân II, mỗi tế bào có bao nhiêu NST kép?",
+   "answer": "23",
+   "explain": "Sau giảm phân I, mỗi tế bào con có n = 23 NST kép; ở kì giữa giảm phân II các NST kép này xếp thành một hàng."
+  }
+ ]
+}

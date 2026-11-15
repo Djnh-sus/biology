@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="vi"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Kiểm tra dữ liệu</title><link rel="stylesheet" href="style.css"></head>
+<body><div class="wrap nw"><h1>Kiểm tra dữ liệu câu hỏi</h1><p class="intro" id="sum" style="margin-bottom:20px">Đang quét...</p><div id="out" class="rvs"></div></div>
+<script src="validate.js"></script>
+<script>
+/* Trang kiểm tra: mở /kiem-tra.html (Live Server hoặc GitHub Pages). Quét mọi bài trong data/lessons.json,
+ * báo lỗi theo từng file + số câu (lỗi = câu bị web ẩn) và cảnh báo (thiếu explain, nhắc nhãn A-D, nhắc "Hình", câu đếm cần noShuffle, đáp án lệch vị trí, câu trùng; xem warnQ trong validate.js). Soạn xong chạy 1 lần trước khi đưa lên GitHub. */
+const esc = s => String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+const J = async u => { const r = await fetch(u, { cache: "no-cache" }); if (r.status === 404) return null; if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); };
+(async () => {
+  const out = document.getElementById("out"), sum = document.getElementById("sum"); let bad = 0, total = 0, files = 0;
+  try {
+    const m = await J("data/lessons.json"); if (!m) throw new Error("Không thấy data/lessons.json");
+    for (const l of m.lessons) {
+      let ok = 0, errs = [], warns = [], note = ""; const seen = new Set(), pos = [0, 0, 0, 0, 0, 0, 0, 0];   // pos: đếm vị trí đáp án mcq
+      try {
+        const d = await J(`data/${l.id}.json`);
+        if (!d) note = "chưa có file (bình thường nếu bài chưa soạn)";
+        else if (!Array.isArray(d.questions)) errs.push('thiếu mảng "questions"');
+        else d.questions.forEach((q, i) => {
+          const e = checkQ(q); if (e) { errs.push(`câu ${i + 1}: ${e}`); return; } ok++;
+          if (q.type === "mcq") pos[q.answer]++; warnQ(q).forEach(m => warns.push(`câu ${i + 1}: ${m}`));
+          const k = String(q.q).replace(/\s+/g, "").toLowerCase(); if (seen.has(k)) warns.push(`câu ${i + 1}: trùng nội dung với câu trước`); seen.add(k);
+        });
+      } catch (x) { errs.push("file không đọc được: " + x.message); }
+      const nm = pos.reduce((a, b) => a + b, 0), mx = Math.max(...pos);   // 1 vị trí chiếm quá nửa câu mcq => lộ quy luật khi tắt xáo
+      if (nm >= 10 && mx / nm > .5) warns.push(`vị trí đáp án ${"ABCDEFGH"[pos.indexOf(mx)]} chiếm ${Math.round(mx / nm * 100)}% câu mcq (${mx}/${nm}), nên rải đều`);
+      if (!note) files++; bad += errs.length; total += ok;
+      out.insertAdjacentHTML("beforeend", `<article class="rv ${errs.length ? "bad" : warns.length ? "part" : "ok"}"><div class="rh"><b>${l.id}.json</b><span class="tag">${note || ok + " câu hợp lệ" + (errs.length ? " · " + errs.length + " lỗi" : "")}</span></div>` +
+        errs.map(e => `<p class="hint" style="color:var(--bad)">Lỗi: ${esc(e)}</p>`).join("") + warns.map(e => `<p class="hint" style="color:var(--warn)">Cảnh báo: ${esc(e)}</p>`).join("") + `</article>`);
+    }
+    sum.textContent = `${files} file đã soạn · ${total} câu hợp lệ · ${bad} lỗi (câu lỗi sẽ bị web ẩn)`;
+  } catch (x) { sum.textContent = "Không đọc được dữ liệu: " + x.message + (location.protocol === "file:" ? " (đang mở bằng file://, hãy dùng Live Server)" : ""); }
+})();
+</script></body></html>

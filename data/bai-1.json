@@ -1,0 +1,601 @@
+{
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "Chức năng nào sau đây KHÔNG phải là chức năng của DNA?",
+   "options": [
+    "Trực tiếp xúc tác các phản ứng sinh hoá trong tế bào.",
+    "Bảo quản thông tin di truyền.",
+    "Truyền đạt thông tin di truyền.",
+    "Mang thông tin di truyền."
+   ],
+   "answer": 0,
+   "explain": "Xúc tác phản ứng sinh hoá là việc của enzyme (protein). DNA chỉ mang, bảo quản, truyền đạt thông tin. <b>Bẫy:</b> chữ \"KHÔNG phải\": đọc sót thì sẽ chọn nhầm một chức năng đúng của DNA (mang, bảo quản, truyền đạt thông tin).",
+   "id": "B01-001"
+  },
+  {
+   "type": "mcq",
+   "q": "Loại nucleotide nào sau đây KHÔNG phải là đơn phân cấu tạo nên phân tử DNA?",
+   "options": [
+    "Adenine.",
+    "Thymine.",
+    "Cytosine.",
+    "Uracil."
+   ],
+   "answer": 3,
+   "explain": "DNA có A, T, G, C; Uracil chỉ có ở RNA (thay cho T). <b>Bẫy:</b> Uracil và Thymine hay bị lẫn.",
+   "id": "B01-002"
+  },
+  {
+   "type": "mcq",
+   "q": "Đặc điểm cấu trúc nào giúp DNA có thể \"ghi mã\" được mọi thông tin di truyền về cấu trúc và chức năng của tế bào?",
+   "options": [
+    "Chuỗi xoắn kép.",
+    "Nguyên tắc bổ sung giữa hai mạch.",
+    "Cấu trúc đa phân gồm 4 loại nucleotide A, T, G, C sắp xếp theo trình tự khác nhau.",
+    "Liên kết phosphodiester giữa các nucleotide."
+   ],
+   "answer": 2,
+   "explain": "4 loại nucleotide như 4 \"chữ cái\", thứ tự sắp xếp khác nhau tạo ra lượng thông tin rất lớn và đa dạng. <b>Bẫy:</b> mỗi đặc điểm cấu trúc ứng với MỘT chức năng riêng: đa phân → mang/ghi mã; xoắn kép → bảo quản; NTBS → truyền đạt.",
+   "id": "B01-003"
+  },
+  {
+   "type": "mcq",
+   "q": "DNA có cấu trúc kiểu chuỗi xoắn kép nên:",
+   "options": [
+    "có cấu trúc bền vững, thông tin di truyền được bảo quản ít bị hư hỏng.",
+    "ghi mã được mọi thông tin di truyền của tế bào.",
+    "thông tin được truyền đạt sang mRNA qua phiên mã.",
+    "tự tái bản mà không cần enzyme."
+   ],
+   "answer": 0,
+   "explain": "Chuỗi xoắn kép giúp DNA có cấu trúc bền vững, đảm bảo thông tin di truyền được bảo quản ít bị hư hỏng. <b>Bẫy:</b> ý \"thông tin được truyền đạt sang mRNA qua phiên mã\" là hệ quả của nguyên tắc bổ sung, không phải của chuỗi xoắn kép.",
+   "id": "B01-004"
+  },
+  {
+   "type": "mcq",
+   "q": "Nhờ sự kết hợp đặc hiệu A–T và G–C (nguyên tắc bổ sung) nên:",
+   "options": [
+    "DNA có cấu trúc bền vững hơn mọi phân tử khác.",
+    "DNA ghi mã được nhiều loại thông tin.",
+    "DNA không bao giờ bị đột biến.",
+    "thông tin di truyền được truyền đạt gần như nguyên vẹn qua các thế hệ tế bào và truyền sang mRNA qua phiên mã."
+   ],
+   "answer": 3,
+   "explain": "Sự kết hợp đặc hiệu A–T, G–C đảm bảo thông tin trong DNA được truyền đạt gần như nguyên vẹn qua các thế hệ tế bào và truyền sang mRNA qua phiên mã. <b>Bẫy:</b> ý \"DNA không bao giờ bị đột biến\" dùng từ \"không bao giờ\" — tuyệt đối hoá, gần như luôn sai trong Sinh học. SGK nói \"gần như nguyên vẹn\".",
+   "id": "B01-005"
+  },
+  {
+   "type": "mcq",
+   "q": "Số liên kết hydrogen giữa cặp A–T và giữa cặp G–C lần lượt là:",
+   "options": [
+    "2 và 3.",
+    "3 và 2.",
+    "2 và 2.",
+    "3 và 3."
+   ],
+   "answer": 0,
+   "explain": "Cặp A–T có 2 liên kết hydrogen, cặp G–C có 3 liên kết hydrogen. <b>Bẫy:</b> đảo thứ tự (3 và 2). Nhớ: G–C \"nhiều chữ\" hơn thì nhiều liên kết hơn (3).",
+   "id": "B01-006"
+  },
+  {
+   "type": "mcq",
+   "q": "Các nucleotide kế tiếp nhau trên cùng một mạch đơn của DNA liên kết với nhau bằng liên kết:",
+   "options": [
+    "phosphodiester (cộng hoá trị).",
+    "hydrogen.",
+    "peptide.",
+    "ion."
+   ],
+   "answer": 0,
+   "explain": "Các nucleotide trên cùng một mạch liên kết với nhau bằng liên kết phosphodiester (liên kết cộng hoá trị); liên kết hydrogen nối các base của hai mạch. <b>Bẫy:</b> hydrogen nối hai MẠCH với nhau (giữa các base); phosphodiester nối các nucleotide TRÊN CÙNG MỘT MẠCH.",
+   "id": "B01-007"
+  },
+  {
+   "type": "mcq",
+   "q": "Hai đoạn DNA có cùng chiều dài. Đoạn 1 có G chiếm 30% số nucleotide, đoạn 2 có G chiếm 20%. Phát biểu nào đúng?",
+   "options": [
+    "Hai đoạn bền vững như nhau vì cùng chiều dài.",
+    "Đoạn 2 bền vững hơn vì có nhiều cặp A–T hơn, mỗi cặp có 3 liên kết hydrogen.",
+    "Đoạn 1 bền vững hơn vì có nhiều cặp G–C hơn, mỗi cặp có 3 liên kết hydrogen.",
+    "Đoạn 2 bền vững hơn vì ít cặp G–C hơn."
+   ],
+   "answer": 2,
+   "explain": "Tỉ lệ G–C càng cao thì tổng số liên kết hydrogen càng lớn, DNA càng bền. <b>Bẫy:</b> gán nhầm \"3 liên kết\" cho A–T.",
+   "id": "B01-008"
+  },
+  {
+   "type": "mcq",
+   "q": "Tái bản DNA được bắt đầu từ:",
+   "options": [
+    "điểm kết thúc của gene.",
+    "một đầu mút của DNA và tiến hành theo một hướng.",
+    "vị trí bất kì trên DNA, hoàn toàn ngẫu nhiên.",
+    "một điểm nhất định gọi là điểm khởi đầu sao chép (Ori) và tiến hành theo hai hướng ngược nhau."
+   ],
+   "answer": 3,
+   "explain": "Theo SGK, tái bản bắt đầu từ điểm khởi đầu sao chép (Ori) và tiến hành theo hai hướng ngược nhau, tạo nên một đơn vị tái bản. <b>Bẫy:</b> \"một hướng\" thay cho \"hai hướng ngược nhau\".",
+   "id": "B01-009"
+  },
+  {
+   "type": "mcq",
+   "q": "Phát biểu nào đúng về điểm khởi đầu sao chép (Ori)?",
+   "options": [
+    "Sinh vật nhân sơ có nhiều Ori trên mỗi phân tử DNA, sinh vật nhân thực chỉ có một.",
+    "Cả hai nhóm sinh vật đều chỉ có một Ori.",
+    "Sinh vật nhân sơ chỉ có một Ori duy nhất, sinh vật nhân thực có nhiều Ori trên một phân tử DNA.",
+    "Cả hai nhóm sinh vật đều có nhiều Ori."
+   ],
+   "answer": 2,
+   "explain": "SGK: ở sinh vật nhân sơ, mỗi phân tử DNA chỉ có một điểm khởi đầu sao chép duy nhất, còn DNA ở sinh vật nhân thực có nhiều điểm khởi đầu sao chép. <b>Bẫy:</b> đảo ngược nhân sơ ↔ nhân thực (nói nhân sơ có nhiều Ori, nhân thực chỉ một). DNA nhân thực rất dài nên cần nhiều Ori để sao chép nhanh.",
+   "id": "B01-010"
+  },
+  {
+   "type": "mcq",
+   "q": "Chạc sao chép hình chữ Y được tạo thành khi:",
+   "options": [
+    "enzyme ligase nối các đoạn Okazaki lại với nhau.",
+    "hai mạch DNA xoắn chặt vào nhau.",
+    "RNA polymerase tổng hợp mRNA.",
+    "một số protein và enzyme liên kết vào Ori và tách DNA thành hai mạch đơn ở cả hai phía của điểm khởi đầu."
+   ],
+   "answer": 3,
+   "explain": "Một số protein và enzyme liên kết vào Ori, tách DNA thành hai mạch đơn ở cả hai phía của Ori nên tạo chạc sao chép hình chữ Y. Ligase nối các đoạn Okazaki, RNA polymerase tổng hợp mồi hoặc mRNA, nên các phương án còn lại sai.",
+   "id": "B01-011"
+  },
+  {
+   "type": "mcq",
+   "q": "Đoạn mồi trong tái bản DNA có bản chất và enzyme tổng hợp là:",
+   "options": [
+    "DNA ngắn; do DNA polymerase tổng hợp.",
+    "RNA ngắn; do RNA polymerase tổng hợp.",
+    "RNA ngắn; do DNA polymerase tổng hợp.",
+    "DNA ngắn; do RNA polymerase tổng hợp."
+   ],
+   "answer": 1,
+   "explain": "Theo SGK, enzyme RNA polymerase dùng mạch DNA làm khuôn tổng hợp đoạn RNA ngắn gọi là đoạn mồi. <b>Bẫy:</b> ghép chéo bản chất và enzyme. Mồi là RNA, enzyme tổng hợp là RNA polymerase.",
+   "id": "B01-012"
+  },
+  {
+   "type": "mcq",
+   "q": "Vì sao tái bản DNA cần có đoạn mồi?",
+   "options": [
+    "Vì RNA polymerase cần mồi để tách hai mạch DNA.",
+    "Vì ligase chỉ nối được các đoạn có mồi.",
+    "Vì DNA polymerase không tự khởi đầu được, chỉ gắn thêm nucleotide vào đầu 3'–OH có sẵn.",
+    "Vì mồi giúp hai mạch DNA bắt cặp bổ sung."
+   ],
+   "answer": 2,
+   "explain": "Đoạn mồi cung cấp đầu 3'–OH cho DNA polymerase.",
+   "id": "B01-013"
+  },
+  {
+   "type": "mcq",
+   "q": "Trong tái bản DNA, mạch mới được tổng hợp liên tục trên mạch khuôn có chiều nào, và đoạn Okazaki được tổng hợp trên mạch khuôn có chiều nào?",
+   "options": [
+    "Liên tục: khuôn 3' → 5'; Okazaki: khuôn 5' → 3'.",
+    "Liên tục: khuôn 5' → 3'; Okazaki: khuôn 3' → 5'.",
+    "Cả hai đều trên khuôn 3' → 5'.",
+    "Cả hai đều trên khuôn 5' → 3'."
+   ],
+   "answer": 0,
+   "explain": "Mạch mới luôn đi 5'→3' nên \"đi cùng chiều tháo xoắn\" được khi khuôn là 3'→5' (liên tục); khuôn 5'→3' thì phải làm từng đoạn ngắn (gián đoạn). <b>Bẫy:</b> đảo hai vế (liên tục trên khuôn 5' → 3', Okazaki trên khuôn 3' → 5').",
+   "id": "B01-015"
+  },
+  {
+   "type": "mcq",
+   "q": "Các đoạn Okazaki được tổng hợp theo chiều:",
+   "options": [
+    "3' → 5'.",
+    "5' → 3'.",
+    "5' → 5'.",
+    "không có chiều nhất định."
+   ],
+   "answer": 1,
+   "explain": "DNA polymerase chỉ tổng hợp theo chiều 5' → 3' nên các đoạn Okazaki cũng được tổng hợp theo chiều 5' → 3'. <b>Bẫy:</b> nhiều bạn nghĩ mạch gián đoạn \"đi ngược\" nên chọn 3'→5'. Thực tế mọi mạch DNA mới đều tổng hợp 5'→3'.",
+   "id": "B01-016"
+  },
+  {
+   "type": "mcq",
+   "q": "Enzyme nào nối các đoạn Okazaki lại thành mạch DNA hoàn chỉnh?",
+   "options": [
+    "DNA polymerase.",
+    "RNA polymerase.",
+    "Restrictase.",
+    "Ligase."
+   ],
+   "answer": 3,
+   "explain": "Theo SGK, sau khi các đoạn Okazaki được tổng hợp và đoạn mồi được thay thế, enzyme ligase gắn các đoạn Okazaki lại với nhau. <b>Bẫy:</b> restrictase là enzyme CẮT (Bài 5), ligase là enzyme NỐI.",
+   "id": "B01-017"
+  },
+  {
+   "type": "mcq",
+   "q": "Sau khi các đoạn Okazaki được tổng hợp, DNA polymerase thực hiện nhiệm vụ nào?",
+   "options": [
+    "Loại bỏ đoạn mồi và tổng hợp đoạn DNA thay thế.",
+    "Tách hai mạch DNA ở chạc chữ Y.",
+    "Nối các đoạn Okazaki với nhau.",
+    "Tổng hợp thêm đoạn mồi mới."
+   ],
+   "answer": 0,
+   "explain": "Sau khi các đoạn Okazaki được tổng hợp, DNA polymerase loại bỏ đoạn mồi và tổng hợp đoạn DNA thay thế; sau đó ligase mới nối các đoạn lại. <b>Bẫy:</b> \"nối\" là việc của ligase, không phải DNA polymerase.",
+   "id": "B01-018"
+  },
+  {
+   "type": "mcq",
+   "q": "Nguyên tắc bán bảo toàn trong tái bản DNA có nghĩa là:",
+   "options": [
+    "hai DNA con đều gồm hai mạch mới hoàn toàn.",
+    "một DNA con mới hoàn toàn, một DNA con là DNA mẹ nguyên vẹn.",
+    "hai DNA con giữ nguyên hai mạch của DNA mẹ.",
+    "mỗi DNA con gồm một mạch cũ của DNA mẹ và một mạch mới được tổng hợp."
+   ],
+   "answer": 3,
+   "explain": "Theo nguyên tắc bán bảo toàn, mỗi phân tử DNA con giữ lại một mạch của DNA mẹ và có một mạch mới được tổng hợp. <b>Bẫy:</b> ý \"một DNA con mới hoàn toàn, một DNA con là DNA mẹ nguyên vẹn\" mô tả kiểu \"bảo toàn\" — không có trong thực tế.",
+   "id": "B01-019"
+  },
+  {
+   "type": "mcq",
+   "q": "Trong quá trình nhân đôi DNA, nucleotide loại G của môi trường nội bào liên kết bổ sung với nucleotide nào của mạch khuôn?",
+   "options": [
+    "Adenine.",
+    "Cytosine.",
+    "Guanine.",
+    "Thymine."
+   ],
+   "answer": 1,
+   "explain": "Theo nguyên tắc bổ sung A–T, G–C, nucleotide G của môi trường liên kết với C của mạch khuôn. <b>Bẫy:</b> G–C. Đừng nhầm với \"G bắt cặp với G\".",
+   "id": "B01-020"
+  },
+  {
+   "type": "mcq",
+   "q": "Cặp nucleotide nào KHÔNG xuất hiện giữa mạch mới và mạch khuôn trong tái bản DNA (không tính đoạn mồi)?",
+   "options": [
+    "A–T.",
+    "A–U.",
+    "G–C.",
+    "C–G."
+   ],
+   "answer": 1,
+   "explain": "A–U chỉ có khi tổng hợp RNA (phiên mã, đoạn mồi, dịch mã). <b>Bẫy:</b> Uracil.",
+   "id": "B01-021"
+  },
+  {
+   "type": "mcq",
+   "q": "Trình tự nucleotide của mạch DNA mới được quyết định bởi nguyên tắc nào?",
+   "options": [
+    "Nguyên tắc bổ sung với mạch khuôn.",
+    "Nguyên tắc bảo toàn.",
+    "Nguyên tắc đa phân.",
+    "Nguyên tắc bổ sung với mạch mới cùng chiều."
+   ],
+   "answer": 0,
+   "explain": "Mạch mới được tổng hợp theo nguyên tắc bổ sung (A–T, G–C) với mạch khuôn; toàn bộ quá trình tái bản theo nguyên tắc bán bảo toàn. <b>Bẫy:</b> \"bảo toàn\" thay cho \"bán bảo toàn\".",
+   "id": "B01-022"
+  },
+  {
+   "type": "mcq",
+   "q": "Khi nói về mỗi chạc sao chép hình chữ Y, phát biểu nào đúng?",
+   "options": [
+    "Cả hai mạch mới đều được tổng hợp liên tục.",
+    "Một mạch mới tổng hợp liên tục, mạch mới còn lại tổng hợp gián đoạn thành các đoạn Okazaki.",
+    "Cả hai mạch mới đều được tổng hợp gián đoạn.",
+    "Một mạch mới tổng hợp liên tục, mạch còn lại là mạch cũ."
+   ],
+   "answer": 1,
+   "explain": "DNA gồm hai mạch ngược chiều mà DNA polymerase chỉ tổng hợp theo chiều 5' → 3', nên trên chạc chữ Y một mạch mới tổng hợp liên tục và mạch còn lại tổng hợp gián đoạn. <b>Bẫy:</b> \"đối xứng\" — hai mạch KHÔNG được tổng hợp giống nhau.",
+   "id": "B01-023"
+  },
+  {
+   "type": "mcq",
+   "q": "Điểm khác biệt trong tái bản DNA giữa sinh vật nhân thực và nhân sơ là:",
+   "options": [
+    "nhân thực chỉ có một Ori, nhân sơ có nhiều Ori.",
+    "nhân thực tái bản theo nguyên tắc bảo toàn, nhân sơ theo bán bảo toàn.",
+    "nhân thực có nhiều Ori nên tái bản đồng thời tại nhiều vùng của phân tử DNA và có nhiều loại DNA polymerase hơn nhân sơ.",
+    "nhân thực không cần đoạn mồi."
+   ],
+   "answer": 2,
+   "explain": "SGK: sinh vật nhân thực có nhiều điểm khởi đầu sao chép nên tái bản xảy ra đồng thời tại nhiều vùng của phân tử DNA và có nhiều loại DNA polymerase hơn sinh vật nhân sơ. Cả hai nhóm đều tái bản theo nguyên tắc bán bảo toàn và đều cần đoạn mồi.",
+   "id": "B01-024"
+  },
+  {
+   "type": "mcq",
+   "q": "Một mạch khuôn có trình tự 5'–ATGCCG–3'. Trình tự mạch mới được tổng hợp trên khuôn này, viết theo chiều 5' → 3', là:",
+   "options": [
+    "5'–TACGGC–3'.",
+    "5'–GCCGTA–3'.",
+    "5'–CGGCAT–3'.",
+    "5'–ATGCCG–3'."
+   ],
+   "answer": 2,
+   "explain": "Bổ sung của 5'–ATGCCG–3' là 3'–TACGGC–5', viết ngược lại theo 5' → 3' được 5'–CGGCAT–3'. <b>Bẫy:</b> chỉ lấy bổ sung mà quên đảo chiều (5'–TACGGC–3') hoặc chỉ đảo chiều mà quên bổ sung (5'–GCCGTA–3').",
+   "id": "B01-026"
+  },
+  {
+   "type": "mcq",
+   "q": "Vì sao thuốc kháng sinh ức chế bộ máy tái bản DNA của vi khuẩn gây bệnh thường ít ảnh hưởng tới tế bào người?",
+   "options": [
+    "Vì tế bào người không tái bản DNA.",
+    "Vì nhiều enzyme và protein của bộ máy tái bản ở vi khuẩn khác với enzyme, protein cùng loại ở tế bào người.",
+    "Vì DNA của người có cấu trúc khác DNA của vi khuẩn.",
+    "Vì tế bào người có đoạn mồi bền hơn vi khuẩn."
+   ],
+   "answer": 1,
+   "explain": "(SGK, bài luyện tập: đề xuất hướng sản xuất thuốc trị bệnh nhiễm khuẩn ít tác dụng không mong muốn.)",
+   "id": "B01-027"
+  },
+  {
+   "type": "tf",
+   "q": "Xét tính đúng/sai của mỗi nhận định sau về đặc điểm cấu trúc của DNA phù hợp với chức năng.",
+   "items": [
+    {
+     "t": "Cấu trúc đa phân gồm 4 loại nucleotide giúp ghi mã được lượng thông tin lớn.",
+     "a": true
+    },
+    {
+     "t": "Chuỗi xoắn kép giúp thông tin được bảo quản bền vững.",
+     "a": true
+    },
+    {
+     "t": "Sự kết hợp đặc hiệu A–T, G–C giúp thông tin truyền đạt gần như nguyên vẹn qua các thế hệ tế bào.",
+     "a": true
+    },
+    {
+     "t": "Chuỗi đơn giúp DNA tái bản nhanh hơn.",
+     "a": false
+    }
+   ],
+   "explain": "Ý đúng: a, b, c. Ý sai: d. d sai: DNA có cấu trúc xoắn kép (hai mạch), không phải chuỗi đơn.",
+   "id": "B01-028"
+  },
+  {
+   "type": "tf",
+   "q": "Mỗi thành phần sau có tham gia TRỰC TIẾP vào tái bản DNA ở sinh vật nhân sơ hay không? (Đúng = có tham gia)",
+   "items": [
+    {
+     "t": "RNA polymerase (tổng hợp đoạn mồi).",
+     "a": true
+    },
+    {
+     "t": "DNA polymerase.",
+     "a": true
+    },
+    {
+     "t": "Ligase.",
+     "a": true
+    },
+    {
+     "t": "Ribosome.",
+     "a": false
+    }
+   ],
+   "explain": "Ý đúng: a, b, c. Ý sai: d. Ribosome tham gia dịch mã.",
+   "id": "B01-029"
+  },
+  {
+   "type": "tf",
+   "q": "Xét tính đúng/sai của mỗi phát biểu sau về mạch mới được tổng hợp ở một chạc chữ Y.",
+   "items": [
+    {
+     "t": "Mạch tổng hợp liên tục có chiều tổng hợp cùng chiều tháo xoắn.",
+     "a": true
+    },
+    {
+     "t": "Mạch tổng hợp gián đoạn gồm nhiều đoạn Okazaki.",
+     "a": true
+    },
+    {
+     "t": "Các đoạn Okazaki sau đó được nối lại nhờ ligase.",
+     "a": true
+    },
+    {
+     "t": "Mạch gián đoạn được tổng hợp theo chiều 3' → 5'.",
+     "a": false
+    }
+   ],
+   "explain": "Ý đúng: a, b, c. Ý sai: d. d sai: mọi mạch mới đều tổng hợp 5' → 3'.",
+   "id": "B01-030"
+  },
+  {
+   "type": "tf",
+   "q": "Xét tính đúng/sai của mỗi phát biểu sau khi so sánh tái bản DNA ở sinh vật nhân sơ và nhân thực.",
+   "items": [
+    {
+     "t": "Cả hai đều theo nguyên tắc bổ sung và bán bảo toàn.",
+     "a": true
+    },
+    {
+     "t": "Ở nhân thực mỗi phân tử DNA có nhiều Ori.",
+     "a": true
+    },
+    {
+     "t": "Ở nhân sơ mỗi phân tử DNA chỉ có một Ori.",
+     "a": true
+    },
+    {
+     "t": "Nhân thực chỉ cần một loại DNA polymerase.",
+     "a": false
+    }
+   ],
+   "explain": "Cả hai nhóm đều tái bản theo nguyên tắc bổ sung và bán bảo toàn; nhân sơ chỉ có một Ori, nhân thực có nhiều Ori; nhân thực có nhiều loại DNA polymerase hơn nhân sơ nên ý d sai. Ý đúng: a, b, c. Ý sai: d.",
+   "id": "B01-031"
+  },
+  {
+   "type": "mcq",
+   "q": "Khi nói về cấu trúc và chức năng của DNA, có bao nhiêu phát biểu đúng?<br>a. DNA có chức năng mang, bảo quản và truyền đạt thông tin di truyền.<br>b. Chuỗi xoắn kép giúp thông tin di truyền được bảo quản ít bị hư hỏng.<br>c. Nguyên tắc bổ sung A–T, G–C chỉ có tác dụng trong tái bản, không liên quan đến phiên mã.<br>d. Cấu trúc đa phân với 4 loại nucleotide cho phép DNA \"ghi mã\" lượng thông tin lớn.",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 2,
+   "explain": "Xét từng phát biểu: a, b, d đúng; c sai. c sai: NTBS cũng giúp truyền thông tin từ DNA sang mRNA qua phiên mã. <b>Bẫy:</b> chữ \"chỉ ... không liên quan\".",
+   "id": "B01-032",
+   "noShuffle": true
+  },
+  {
+   "type": "mcq",
+   "q": "Khi nói về tái bản DNA ở sinh vật nhân sơ, có bao nhiêu phát biểu SAI?<br>a. DNA polymerase tổng hợp mạch mới theo chiều 3' → 5'.<br>b. Một mạch mới được tổng hợp liên tục, mạch còn lại tổng hợp gián đoạn.<br>c. DNA polymerase có thể tự khởi đầu tổng hợp mạch mới mà không cần đoạn mồi.<br>d. Mỗi DNA con có một mạch cũ và một mạch mới.",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 1,
+   "explain": "Xét từng phát biểu: a, c sai. a: chiều 5'→3'. c: cần mồi có đầu 3'–OH.",
+   "id": "B01-033",
+   "noShuffle": true
+  },
+  {
+   "type": "mcq",
+   "q": "Có bao nhiêu phát biểu đúng về các đoạn Okazaki?<br>a. Là các đoạn DNA ngắn được tổng hợp trên mạch khuôn 5' → 3'.<br>b. Được tổng hợp theo chiều 5' → 3'.<br>c. Được nối với nhau nhờ enzyme ligase.<br>d. Mỗi đoạn Okazaki bắt đầu bằng một đoạn mồi RNA.",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 3,
+   "explain": "a đúng: mạch khuôn 5' → 3' thì mạch mới tổng hợp gián đoạn; b đúng: chiều 5' → 3'; c đúng: ligase nối các đoạn; d đúng: mỗi đoạn Okazaki cần mồi RNA để DNA polymerase khởi đầu. Xét từng phát biểu: cả 4 đúng. <b>Bẫy:</b> đáp án \"không có phát biểu sai\" cũng cần được kiểm từng ý.",
+   "id": "B01-034",
+   "noShuffle": true
+  },
+  {
+   "type": "mcq",
+   "q": "Có bao nhiêu phát biểu SAI về nguyên tắc bán bảo toàn?<br>a. Hai DNA con đều giống nhau.<br>b. Hai DNA con giống DNA mẹ (nếu không có sai sót).<br>c. Hai DNA con đều là DNA hoàn toàn mới.<br>d. Mỗi DNA con có một mạch của DNA mẹ.",
+   "options": [
+    "0",
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 1,
+   "explain": "a, b, d đúng theo nguyên tắc bán bảo toàn; c sai vì mỗi DNA con giữ lại một mạch cũ của DNA mẹ. Xét từng phát biểu: chỉ c sai. <b>Bẫy:</b> phương án đếm có cả số 0.",
+   "id": "B01-035",
+   "noShuffle": true
+  },
+  {
+   "type": "tf",
+   "q": "Xét một đơn vị tái bản hình chữ Y: có điểm Ori, hai chạc chữ Y mở rộng ngược hướng nhau, trên mỗi chạc có một mạch liên tục và một mạch gián đoạn. Xét tính đúng/sai của mỗi ý:",
+   "items": [
+    {
+     "t": "Đơn vị tái bản tiến hành theo hai hướng ngược nhau từ điểm Ori.",
+     "a": true
+    },
+    {
+     "t": "Trên mỗi chạc chữ Y, hai mạch mới đều được tổng hợp liên tục.",
+     "a": false
+    },
+    {
+     "t": "Mạch gián đoạn gồm các đoạn Okazaki và được nối bởi ligase.",
+     "a": true
+    },
+    {
+     "t": "Enzyme DNA polymerase tổng hợp mạch mới theo chiều 3' → 5'.",
+     "a": false
+    }
+   ],
+   "explain": "Ý đúng: a, c. Ý sai: b, d. b sai vì chỉ một mạch liên tục; d sai vì chiều 5' → 3'.",
+   "id": "B01-036"
+  },
+  {
+   "type": "tf",
+   "q": "Khi nói về chức năng của DNA, xét tính đúng/sai:",
+   "items": [
+    {
+     "t": "Thông tin di truyền trong DNA ở dạng trình tự các nucleotide.",
+     "a": true
+    },
+    {
+     "t": "Chỉ riêng chuỗi xoắn kép là đủ để DNA ghi mã thông tin.",
+     "a": false
+    },
+    {
+     "t": "Nhờ NTBS, thông tin từ DNA truyền sang mRNA qua phiên mã rồi mRNA được dịch mã thành protein.",
+     "a": true
+    },
+    {
+     "t": "Protein đảm nhận được chức năng vật chất di truyền vì protein tạo nên tính trạng.",
+     "a": false
+    }
+   ],
+   "explain": "Ý đúng: a, c. Ý sai: b, d. b sai vì ghi mã nhờ đa phân 4 loại nucleotide. d sai vì protein tạo nên tính trạng nhưng không tự tái bản để truyền thông tin cho thế hệ sau.",
+   "id": "B01-037"
+  },
+  {
+   "type": "tf",
+   "q": "Khi nói về các enzyme trong tái bản DNA, xét tính đúng/sai:",
+   "items": [
+    {
+     "t": "RNA polymerase tổng hợp đoạn mồi.",
+     "a": true
+    },
+    {
+     "t": "DNA polymerase gắn nucleotide vào đầu 3'–OH của đoạn mồi.",
+     "a": true
+    },
+    {
+     "t": "Ligase nối các đoạn Okazaki.",
+     "a": true
+    },
+    {
+     "t": "DNA polymerase có chức năng nối các đoạn Okazaki.",
+     "a": false
+    }
+   ],
+   "explain": "Ý đúng: a, b, c. Ý sai: d. DNA polymerase kéo dài mạch và thay mồi bằng DNA; nối là việc của ligase.",
+   "id": "B01-038"
+  },
+  {
+   "type": "tf",
+   "q": "Một phân tử DNA nhân sơ tái bản trong môi trường chứa toàn nucleotide đánh dấu phóng xạ. Xét tính đúng/sai (không có đột biến):",
+   "items": [
+    {
+     "t": "Sau 1 lần tái bản, mỗi DNA con có đúng một mạch được tổng hợp từ nguyên liệu có phóng xạ.",
+     "a": true
+    },
+    {
+     "t": "Sau 1 lần tái bản, chỉ một DNA con có phóng xạ.",
+     "a": false
+    },
+    {
+     "t": "Sau 2 lần tái bản, có 2 DNA chứa phóng xạ ở cả hai mạch.",
+     "a": true
+    },
+    {
+     "t": "Sau mỗi lần tái bản, số DNA tăng gấp đôi.",
+     "a": true
+    }
+   ],
+   "explain": "Ý đúng: a, c, d. Ý sai: b. bán bảo toàn nên sau lần 1 cả hai DNA con đều có 1 mạch mới phóng xạ. Sau lần 2 có 4 DNA: 2 DNA có cả hai mạch phóng xạ, 2 DNA có một mạch cũ + một mạch phóng xạ.",
+   "id": "B01-039"
+  },
+  {
+   "type": "short",
+   "q": "Theo mô hình DNA, khoảng cách giữa hai cặp nucleotide kế tiếp là 0,34 nm, mỗi chu kì xoắn dài 3,4 nm. Mỗi chu kì xoắn có bao nhiêu cặp nucleotide?",
+   "answer": "10",
+   "explain": "Số cặp nucleotide mỗi chu kì xoắn = 3,4 nm : 0,34 nm = 10. (3,4 : 0,34 = 10)",
+   "id": "B01-040"
+  },
+  {
+   "type": "short",
+   "q": "Một đoạn DNA có 3000 nucleotide, trong đó A chiếm 20%. Số liên kết hydrogen của đoạn DNA là bao nhiêu?",
+   "answer": [
+    "3900",
+    "3 900"
+   ],
+   "explain": "A = T = 600; G = C = 900. Số liên kết hydrogen = 2A + 3G = 1200 + 2700 = 3900.",
+   "id": "B01-041"
+  },
+  {
+   "type": "short",
+   "q": "Một phân tử DNA tái bản 3 lần liên tiếp trong môi trường nguyên liệu mới (không đánh dấu). Có bao nhiêu mạch đơn được tổng hợp hoàn toàn từ nguyên liệu của môi trường?",
+   "answer": "14",
+   "explain": "Sau 3 lần có 2<sup>3</sup> = 8 DNA = 16 mạch; trừ 2 mạch gốc của DNA mẹ còn lại 16 − 2 = 14 mạch mới hoàn toàn. <b>Bẫy:</b> đừng nhầm với \"số DNA mới hoàn toàn\" (8 − 2 = 6).",
+   "id": "B01-042"
+  }
+ ]
+}

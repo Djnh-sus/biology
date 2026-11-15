@@ -1,0 +1,624 @@
+{
+ "questions": [
+  {
+   "id": "B04-001",
+   "type": "mcq",
+   "q": "Đột biến gene là:",
+   "options": [
+    "sự thay đổi kiểu hình của sinh vật do môi trường.",
+    "sự thay đổi số lượng nhiễm sắc thể trong tế bào.",
+    "sự thay đổi cấu trúc của nhiều gene cùng lúc trên NST.",
+    "sự thay đổi trong cấu trúc của gene, có liên quan đến một hay một số cặp nucleotide."
+   ],
+   "answer": 3,
+   "explain": "Đột biến gene là thay đổi cấu trúc của gene, liên quan đến một hay một số cặp nucleotide. <b>Bẫy:</b> thay đổi kiểu hình do môi trường (thường biến) không phải là đột biến."
+  },
+  {
+   "id": "B04-002",
+   "type": "mcq",
+   "q": "Đột biến làm thay đổi MỘT cặp nucleotide trong gene được gọi là:",
+   "options": [
+    "đột biến dị bội.",
+    "đột biến NST.",
+    "đột biến điểm.",
+    "đột biến đoạn."
+   ],
+   "answer": 2,
+   "explain": "Đột biến điểm là đột biến làm thay đổi một cặp nucleotide trong gene."
+  },
+  {
+   "id": "B04-003",
+   "type": "mcq",
+   "q": "Thể đột biến là:",
+   "options": [
+    "mọi cá thể có mang gene đột biến.",
+    "cá thể có số lượng NST bất thường.",
+    "cá thể mang gene đột biến đã biểu hiện thành kiểu hình khác thường.",
+    "cá thể được tạo ra bằng công nghệ DNA tái tổ hợp."
+   ],
+   "answer": 2,
+   "explain": "Khi sinh vật mang gene đột biến biểu hiện kiểu hình khác thường thì được gọi là thể đột biến. <b>Bẫy:</b> gene đột biến chưa biểu hiện ra kiểu hình (ví dụ allele lặn ở thể dị hợp) thì chưa phải thể đột biến."
+  },
+  {
+   "id": "B04-004",
+   "type": "mcq",
+   "q": "Phát biểu nào sau đây về đột biến gene là đúng?",
+   "options": [
+    "Đột biến gene luôn làm thay đổi kiểu hình của sinh vật.",
+    "Đột biến gene chỉ xảy ra ở sinh vật nhân thực.",
+    "Đột biến gene không bao giờ làm thay đổi kiểu hình.",
+    "Đột biến gene có thể làm thay đổi kiểu hình hoặc không."
+   ],
+   "answer": 3,
+   "explain": "Đột biến gene có thể làm thay đổi kiểu hình hoặc không làm thay đổi kiểu hình. <b>Bẫy:</b> các từ tuyệt đối \"luôn\", \"không bao giờ\" thường là phương án sai."
+  },
+  {
+   "id": "B04-005",
+   "type": "mcq",
+   "q": "Các dạng đột biến điểm là:",
+   "options": [
+    "mất đoạn, lặp đoạn, đảo đoạn.",
+    "chuyển đoạn, đảo đoạn.",
+    "dị bội, đa bội.",
+    "thay thế một cặp nucleotide, thêm một cặp nucleotide, mất một cặp nucleotide."
+   ],
+   "answer": 3,
+   "explain": "Dựa trên cơ chế phát sinh, đột biến điểm gồm thay thế, thêm và mất một cặp nucleotide."
+  },
+  {
+   "id": "B04-006",
+   "type": "mcq",
+   "q": "Đột biến gene còn có thể được phân loại theo các tiêu chí nào sau đây?",
+   "options": [
+    "Chỉ theo số lượng cặp nucleotide bị thay đổi.",
+    "Chỉ theo tác nhân gây đột biến.",
+    "Đột biến trội hay lặn, có lợi/có hại hay trung tính, có làm thay đổi trình tự amino acid hay không.",
+    "Chỉ theo vị trí trên NST."
+   ],
+   "answer": 2,
+   "explain": "SGK nêu các tiêu chí phân loại khác như trội/lặn, lợi/hại/trung tính, có hay không làm thay đổi trình tự amino acid."
+  },
+  {
+   "id": "B04-007",
+   "type": "mcq",
+   "q": "Đột biến tự phát xảy ra trong tế bào phần nhiều là do:",
+   "options": [
+    "sai sót trong quá trình tái bản DNA.",
+    "tác động của tia tử ngoại.",
+    "tác động của chất hoá học 5-BrU.",
+    "nhiễm virus."
+   ],
+   "answer": 0,
+   "explain": "Đáp án đúng: sai sót trong quá trình tái bản DNA. <b>Bẫy:</b> tia tử ngoại và 5-BrU là tác nhân bên ngoài (đột biến cảm ứng), không phải đột biến tự phát."
+  },
+  {
+   "id": "B04-008",
+   "type": "mcq",
+   "q": "Tác nhân nào sau đây là tác nhân VẬT LÍ gây đột biến gene?",
+   "options": [
+    "5-bromouracil.",
+    "Ethyl methane sulfonate (EMS).",
+    "Tia tử ngoại (UV).",
+    "HNO<sub>2</sub>."
+   ],
+   "answer": 2,
+   "explain": "Tia UV là tác nhân vật lí; 5-BrU, EMS và HNO<sub>2</sub> là các chất hoá học."
+  },
+  {
+   "id": "B04-009",
+   "type": "mcq",
+   "q": "Tác nhân nào sau đây là chất hoá học gây đột biến gene?",
+   "options": [
+    "5-bromouracil (5-BrU).",
+    "Tia UV.",
+    "Tia X.",
+    "Nhiệt độ cao."
+   ],
+   "answer": 0,
+   "explain": "Các chất hoá học gây đột biến gồm 5-BrU, HNO<sub>2</sub>, EMS,..."
+  },
+  {
+   "id": "B04-010",
+   "type": "mcq",
+   "q": "Trong quá trình tái bản DNA, nếu một nucleotide được sử dụng làm khuôn hai lần thì:",
+   "options": [
+    "mạch mới tổng hợp bị mất một nucleotide.",
+    "mạch mới tổng hợp có thêm một nucleotide.",
+    "mạch khuôn bị đứt.",
+    "không có thay đổi nào."
+   ],
+   "answer": 1,
+   "explain": "Sau lần tái bản kế tiếp, đột biến này dẫn đến thêm một cặp nucleotide. <b>Bẫy:</b> làm khuôn hai lần → THÊM; không được làm khuôn → MẤT."
+  },
+  {
+   "id": "B04-011",
+   "type": "mcq",
+   "q": "Khi một nucleotide trên mạch khuôn KHÔNG được sử dụng làm khuôn trong tái bản thì:",
+   "options": [
+    "mạch mới tổng hợp bị mất một nucleotide.",
+    "mạch mới tổng hợp có thêm một nucleotide.",
+    "mạch mới tổng hợp thay một nucleotide bằng nucleotide khác.",
+    "mạch mới không được tổng hợp."
+   ],
+   "answer": 0,
+   "explain": "Sau lần tái bản kế tiếp, đột biến này dẫn đến mất một cặp nucleotide."
+  },
+  {
+   "id": "B04-012",
+   "type": "mcq",
+   "q": "Tia UV có thể gây ra đột biến gene theo cách nào?",
+   "options": [
+    "Làm hai nucleotide T trên cùng một mạch liên kết với nhau; khi tế bào sửa chữa thường dẫn đến đột biến thêm hoặc mất một cặp nucleotide.",
+    "Làm hai nucleotide T trên hai mạch liên kết với nhau và luôn gây đột biến thay thế.",
+    "Chèn vào giữa hai mạch DNA như một base hiếm.",
+    "Làm tăng tốc độ tái bản."
+   ],
+   "answer": 0,
+   "explain": "Đáp án đúng: Làm hai nucleotide T trên cùng một mạch liên kết với nhau; khi tế bào sửa chữa thường dẫn đến đột biến thêm hoặc mất một cặp nucleotide. <b>Bẫy:</b> hai T phải nằm trên CÙNG MỘT mạch; kết quả thường là thêm hoặc mất, không phải thay thế."
+  },
+  {
+   "id": "B04-013",
+   "type": "mcq",
+   "q": "Chất độc màu da cam (acridine orange) và dioxin có thể gây đột biến gene bằng cách nào?",
+   "options": [
+    "Thay thế A–T bằng G–C.",
+    "Chèn vào DNA, gây nên đột biến thêm hoặc mất cặp nucleotide.",
+    "Làm đứt gãy NST.",
+    "Làm mất tâm động."
+   ],
+   "answer": 1,
+   "explain": "Đáp án đúng: Chèn vào DNA, gây nên đột biến thêm hoặc mất cặp nucleotide."
+  },
+  {
+   "id": "B04-014",
+   "type": "mcq",
+   "q": "Chất 5-bromouracil (5-BrU) có thể bắt cặp với adenine, dẫn đến đột biến:",
+   "options": [
+    "thêm một cặp A–T.",
+    "thay thế cặp A–T bằng cặp G–C.",
+    "mất một cặp G–C.",
+    "thay thế cặp G–C bằng cặp C–G."
+   ],
+   "answer": 1,
+   "explain": "5-BrU có cấu trúc giống base bình thường; khi gắn vào mạch mới và bắt cặp sai, nó gây thay thế A–T bằng G–C (hoặc ngược lại)."
+  },
+  {
+   "id": "B04-015",
+   "type": "mcq",
+   "q": "Đặc điểm nào của 5-bromouracil giúp nó gây đột biến thay thế cặp nucleotide?",
+   "options": [
+    "Làm DNA polymerase ngừng hoạt động.",
+    "Có khả năng cắt DNA.",
+    "Có cấu trúc giống với base bình thường nên được gắn vào mạch mới tổng hợp.",
+    "Làm DNA chuyển thành RNA."
+   ],
+   "answer": 2,
+   "explain": "Đáp án đúng: Có cấu trúc giống với base bình thường nên được gắn vào mạch mới tổng hợp."
+  },
+  {
+   "id": "B04-016",
+   "type": "mcq",
+   "q": "Một gene bị đột biến thay thế một cặp A–T bằng một cặp G–C. Số liên kết hydrogen của gene sau đột biến so với trước đột biến:",
+   "options": [
+    "tăng 1.",
+    "giảm 1.",
+    "tăng 2.",
+    "không thay đổi."
+   ],
+   "answer": 0,
+   "explain": "A–T có 2 liên kết hydrogen, G–C có 3, nên số liên kết hydrogen tăng 3 − 2 = 1. <b>Bẫy:</b> nhiều bạn nhầm là \"không đổi\" vì tổng số nucleotide không đổi."
+  },
+  {
+   "id": "B04-017",
+   "type": "mcq",
+   "q": "Một gene bị đột biến mất một cặp A–T. Số liên kết hydrogen của gene sau đột biến so với trước đột biến:",
+   "options": [
+    "giảm 3.",
+    "giảm 2.",
+    "giảm 1.",
+    "tăng 2."
+   ],
+   "answer": 1,
+   "explain": "Mỗi cặp A–T có 2 liên kết hydrogen; mất 1 cặp A–T thì mất 2 liên kết hydrogen. <b>Bẫy:</b> mất cặp G–C mới giảm 3."
+  },
+  {
+   "id": "B04-018",
+   "type": "mcq",
+   "q": "Một gene bị đột biến thêm một cặp G–C. Số liên kết hydrogen của gene sau đột biến so với trước đột biến:",
+   "options": [
+    "tăng 2.",
+    "tăng 1.",
+    "tăng 3.",
+    "giảm 3."
+   ],
+   "answer": 2,
+   "explain": "Mỗi cặp G–C có 3 liên kết hydrogen nên thêm một cặp G–C làm tăng 3 liên kết."
+  },
+  {
+   "id": "B04-019",
+   "type": "mcq",
+   "q": "Dạng đột biến điểm nào sau đây làm dịch khung đọc mã di truyền?",
+   "options": [
+    "Thêm hoặc mất một cặp nucleotide.",
+    "Thay thế một cặp nucleotide này bằng cặp nucleotide khác.",
+    "Thay thế cặp A–T bằng cặp T–A.",
+    "Thay thế cặp G–C bằng cặp C–G."
+   ],
+   "answer": 0,
+   "explain": "Thêm hoặc mất một cặp nucleotide làm thay đổi cách chia bộ ba từ vị trí đột biến trở đi; thay thế không làm dịch khung."
+  },
+  {
+   "id": "B04-020",
+   "type": "mcq",
+   "q": "Trong phạm vi Bài 4, loại đột biến gene được xem xét là:",
+   "options": [
+    "đột biến số lượng NST.",
+    "đột biến cấu trúc NST.",
+    "đột biến điểm.",
+    "đột biến chuyển đoạn lớn."
+   ],
+   "answer": 2,
+   "explain": "Đáp án đúng: đột biến điểm. <b>Bẫy:</b> đột biến NST (cấu trúc, số lượng) không thuộc phạm vi bài này."
+  },
+  {
+   "id": "B04-021",
+   "type": "mcq",
+   "q": "Vai trò của đột biến gene trong nghiên cứu di truyền là:",
+   "options": [
+    "lai các dòng đột biến với nhau, theo dõi kết quả để tìm ra kiểu hình trội/lặn hoặc xác định các đột biến thuộc cùng một gene hay hai gene khác nhau.",
+    "làm giảm số lượng gene trong tế bào.",
+    "chỉ giúp nhận biết bệnh di truyền.",
+    "thay thế hoàn toàn các phương pháp lai."
+   ],
+   "answer": 0,
+   "explain": "Đáp án đúng: lai các dòng đột biến với nhau, theo dõi kết quả để tìm ra kiểu hình trội/lặn hoặc xác định các đột biến thuộc cùng một gene hay hai gene khác nhau."
+  },
+  {
+   "id": "B04-022",
+   "type": "mcq",
+   "q": "Cả bố và mẹ đều bị bệnh điếc bẩm sinh do đột biến gene lặn nhưng sinh ra tất cả các con đều có thính lực bình thường (mẹ AAbb × bố aaBB). Điều này chứng tỏ:",
+   "options": [
+    "đột biến lặn ở bố và mẹ thuộc cùng một gene.",
+    "đột biến lặn ở bố và mẹ thuộc hai gene khác nhau.",
+    "bệnh điếc do đột biến trội.",
+    "bệnh điếc không di truyền."
+   ],
+   "answer": 1,
+   "explain": "Con có kiểu gene AaBb nên có cả allele trội A và B, thính lực bình thường: hai đột biến lặn nằm ở hai gene khác nhau. <b>Bẫy:</b> nếu thuộc cùng một gene (aa × aa) thì tất cả con đều bị điếc."
+  },
+  {
+   "id": "B04-023",
+   "type": "mcq",
+   "q": "Trong chọn giống, ví dụ nào cho thấy vai trò của đột biến gene?",
+   "options": [
+    "Lai xa giữa hai loài tạo con lai bất thụ.",
+    "Đột biến làm xuất hiện bộ ba kết thúc sớm khiến chồi cây cải phân nhánh mạnh, được chọn tạo ra súp lơ trắng và súp lơ xanh.",
+    "Nuôi cấy mô tạo cây con sạch bệnh.",
+    "Chuyển gene từ vi khuẩn vào cây bông."
+   ],
+   "answer": 1,
+   "explain": "Đáp án đúng: Đột biến làm xuất hiện bộ ba kết thúc sớm khiến chồi cây cải phân nhánh mạnh, được chọn tạo ra súp lơ trắng và súp lơ xanh. <b>Bẫy:</b> phương án chuyển gene vào cây bông là công nghệ gene (Bài 5), không phải đột biến."
+  },
+  {
+   "id": "B04-024",
+   "type": "mcq",
+   "q": "Giống lợn có thịt siêu nạc được tạo ra nhờ:",
+   "options": [
+    "nuôi cấy mô tế bào gốc.",
+    "chuyển gene hormone sinh trưởng vào lợn.",
+    "xử lí hormone sinh dục đực.",
+    "đột biến ở gene điều hoà làm tăng lượng cơ bắp, được phát hiện ở lợn và chọn lọc."
+   ],
+   "answer": 3,
+   "explain": "Đáp án đúng: đột biến ở gene điều hoà làm tăng lượng cơ bắp, được phát hiện ở lợn và chọn lọc."
+  },
+  {
+   "id": "B04-025",
+   "type": "mcq",
+   "q": "Ví dụ gene FOX2 cho thấy vai trò của đột biến gene trong tiến hoá là:",
+   "options": [
+    "FOX2 làm người có bộ NST khác linh trưởng.",
+    "FOX2 của người và linh trưởng hoàn toàn giống nhau.",
+    "FOX2 khác nhau ở hầu hết amino acid.",
+    "đột biến gene làm thay đổi chỉ 2 trong số 715 amino acid của gene FOX2 so với linh trưởng, làm xuất hiện tiếng nói đặc trưng của loài người."
+   ],
+   "answer": 3,
+   "explain": "Đáp án đúng: đột biến gene làm thay đổi chỉ 2 trong số 715 amino acid của gene FOX2 so với linh trưởng, làm xuất hiện tiếng nói đặc trưng của loài người."
+  },
+  {
+   "id": "B04-026",
+   "type": "mcq",
+   "q": "Ở chi ốc Bradybaena, đột biến làm thay đổi chiều xoắn của vỏ ốc dẫn đến:",
+   "options": [
+    "ốc đột biến mất khả năng sinh sản vô tính.",
+    "ốc đột biến chết hàng loạt.",
+    "ốc đột biến giao phối bình thường với ốc thường.",
+    "ốc đột biến không thể giao phối với ốc bình thường, dẫn đến cách li sinh sản và hình thành loài mới."
+   ],
+   "answer": 3,
+   "explain": "Đáp án đúng: ốc đột biến không thể giao phối với ốc bình thường, dẫn đến cách li sinh sản và hình thành loài mới."
+  },
+  {
+   "id": "B04-027",
+   "type": "mcq",
+   "q": "Mức độ gây hại của allele đột biến đối với thể đột biến phụ thuộc vào:",
+   "options": [
+    "chỉ tác nhân gây đột biến.",
+    "cả điều kiện môi trường sống và tổ hợp gene mang đột biến.",
+    "chỉ tổ hợp gene mang đột biến.",
+    "chỉ điều kiện môi trường."
+   ],
+   "answer": 1,
+   "explain": "Cùng một allele đột biến có thể có hại, có lợi hoặc trung tính tuỳ môi trường và tổ hợp gene. <b>Bẫy:</b> phương án chỉ nêu một yếu tố là chưa đủ."
+  },
+  {
+   "id": "B04-028",
+   "type": "mcq",
+   "q": "Về đột biến gene, có bao nhiêu phát biểu đúng?<br>a. Thể đột biến là cá thể mang gene đột biến đã biểu hiện kiểu hình khác thường.<br>b. Tia UV có thể làm hai T trên cùng một mạch liên kết với nhau.<br>c. Đột biến gene luôn làm thay đổi kiểu hình của sinh vật.<br>d. Đột biến điểm là đột biến làm thay đổi một cặp nucleotide.",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 2,
+   "noShuffle": true,
+   "explain": "Ý đúng: a, b, d; ý sai: c. c sai: đột biến gene có thể làm thay đổi kiểu hình hoặc không."
+  },
+  {
+   "id": "B04-029",
+   "type": "mcq",
+   "q": "Về cơ chế phát sinh đột biến gene, có bao nhiêu phát biểu SAI?<br>a. Đột biến tự phát chủ yếu do sai sót trong quá trình tái bản DNA.<br>b. 5-BrU có thể gây đột biến thay thế cặp A–T bằng cặp G–C.<br>c. Nucleotide được dùng làm khuôn hai lần thì mạch mới bị mất một nucleotide.<br>d. Acridine orange có thể chèn vào DNA gây đột biến thêm hoặc mất cặp nucleotide.",
+   "options": [
+    "0",
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 1,
+   "noShuffle": true,
+   "explain": "Ý sai: c. c sai: làm khuôn hai lần thì mạch mới có THÊM một nucleotide."
+  },
+  {
+   "id": "B04-030",
+   "type": "mcq",
+   "q": "Có bao nhiêu phát biểu đúng?<br>a. Các dạng đột biến điểm gồm thay thế, thêm và mất một cặp nucleotide.<br>b. Thêm hoặc mất một cặp nucleotide làm dịch khung đọc mã di truyền.<br>c. Thay thế một cặp nucleotide luôn làm dịch khung đọc mã.<br>d. Đột biến gene là nguồn nguyên liệu cho quá trình tiến hoá và chọn giống.",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 2,
+   "noShuffle": true,
+   "explain": "Ý đúng: a, b, d; ý sai: c. c sai: đột biến thay thế không làm dịch khung."
+  },
+  {
+   "id": "B04-031",
+   "type": "mcq",
+   "q": "Có bao nhiêu phát biểu SAI?<br>a. Chỉ 2 trong số 715 amino acid của gene FOX2 khác nhau giữa người và các loài linh trưởng.<br>b. Đột biến làm thay đổi chiều xoắn vỏ ốc Bradybaena có thể dẫn đến hình thành loài mới.<br>c. Mọi đột biến gene đều có hại cho thể đột biến.<br>d. Đột biến gene chỉ xảy ra khi có tác nhân gây đột biến từ môi trường.",
+   "options": [
+    "0",
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 2,
+   "noShuffle": true,
+   "explain": "Ý sai: c, d. c sai: đột biến có thể có lợi, có hại hoặc trung tính; d sai: còn có đột biến tự phát do sai sót tái bản."
+  },
+  {
+   "id": "B04-032",
+   "type": "tf",
+   "q": "Xét tính đúng/sai về cơ chế phát sinh đột biến thêm/mất cặp nucleotide:",
+   "items": [
+    {
+     "t": "Nucleotide được dùng làm khuôn hai lần thì mạch mới tổng hợp có thêm một nucleotide.",
+     "a": true
+    },
+    {
+     "t": "Nucleotide không được dùng làm khuôn thì mạch mới tổng hợp bị mất một nucleotide.",
+     "a": true
+    },
+    {
+     "t": "Đột biến thêm hoặc mất xuất hiện ngay ở lần tái bản đầu tiên thành cặp nucleotide ở cả hai DNA con.",
+     "a": false
+    },
+    {
+     "t": "Acridine orange và dioxin có thể chèn vào DNA gây đột biến thêm hoặc mất cặp nucleotide.",
+     "a": true
+    }
+   ],
+   "explain": "c sai vì thêm hoặc mất một nucleotide ở mạch mới; đến lần tái bản kế tiếp mới dẫn đến thêm hoặc mất một CẶP nucleotide."
+  },
+  {
+   "id": "B04-033",
+   "type": "tf",
+   "q": "Xét tính đúng/sai về chất 5-bromouracil (5-BrU):",
+   "items": [
+    {
+     "t": "5-BrU có cấu trúc giống với base bình thường.",
+     "a": true
+    },
+    {
+     "t": "5-BrU có thể bắt cặp với adenine.",
+     "a": true
+    },
+    {
+     "t": "5-BrU gây đột biến thay thế cặp A–T bằng cặp G–C.",
+     "a": true
+    },
+    {
+     "t": "5-BrU gây đột biến mất một cặp A–T.",
+     "a": false
+    }
+   ],
+   "explain": "5-BrU gây đột biến thay thế (A–T thành G–C), không gây đột biến mất cặp."
+  },
+  {
+   "id": "B04-034",
+   "type": "tf",
+   "q": "Xét tính đúng/sai về nguyên nhân gây đột biến gene:",
+   "items": [
+    {
+     "t": "Đột biến tự phát xảy ra phần nhiều do sai sót trong quá trình tái bản DNA.",
+     "a": true
+    },
+    {
+     "t": "Tia tử ngoại là tác nhân vật lí gây đột biến.",
+     "a": true
+    },
+    {
+     "t": "HNO<sub>2</sub> là tác nhân vật lí gây đột biến.",
+     "a": false
+    },
+    {
+     "t": "Ethyl methane sulfonate (EMS) là chất hoá học gây đột biến.",
+     "a": true
+    }
+   ],
+   "explain": "HNO<sub>2</sub> là chất hoá học, không phải tác nhân vật lí."
+  },
+  {
+   "id": "B04-035",
+   "type": "tf",
+   "q": "Xét tính đúng/sai về khái niệm đột biến gene:",
+   "items": [
+    {
+     "t": "Đột biến gene là thay đổi trong cấu trúc gene, liên quan đến một hay một số cặp nucleotide.",
+     "a": true
+    },
+    {
+     "t": "Mọi đột biến gene đều làm thay đổi kiểu hình của sinh vật.",
+     "a": false
+    },
+    {
+     "t": "Cá thể mang gene đột biến biểu hiện kiểu hình khác thường được gọi là thể đột biến.",
+     "a": true
+    },
+    {
+     "t": "Đột biến điểm gồm thay thế, thêm và mất một cặp nucleotide.",
+     "a": true
+    }
+   ],
+   "explain": "đột biến gene có thể làm thay đổi kiểu hình hoặc không."
+  },
+  {
+   "id": "B04-036",
+   "type": "tf",
+   "q": "Cả bố và mẹ đều bị bệnh điếc bẩm sinh do đột biến gene lặn nhưng sinh ra tất cả các con đều có thính lực bình thường (mẹ AAbb × bố aaBB). Xét tính đúng/sai:",
+   "items": [
+    {
+     "t": "Kiểu gene của các con là AaBb.",
+     "a": true
+    },
+    {
+     "t": "Các con có thính lực bình thường vì mang cả allele trội A và allele trội B.",
+     "a": true
+    },
+    {
+     "t": "Đột biến lặn ở bố và ở mẹ thuộc cùng một gene.",
+     "a": false
+    },
+    {
+     "t": "Việc lai các dòng đột biến với nhau giúp xác định các đột biến thuộc cùng một gene hay hai gene khác nhau.",
+     "a": true
+    }
+   ],
+   "explain": "nếu cùng một gene thì tất cả các con đều bị điếc; kết quả cho thấy hai đột biến thuộc hai gene khác nhau."
+  },
+  {
+   "id": "B04-037",
+   "type": "tf",
+   "q": "Xét tính đúng/sai về vai trò của đột biến gene trong chọn giống và tiến hoá:",
+   "items": [
+    {
+     "t": "Con người chọn lọc các thể đột biến tự nhiên ở cây trồng, vật nuôi để tạo giống mới.",
+     "a": true
+    },
+    {
+     "t": "Bộ ba kết thúc xuất hiện sớm làm chồi cây cải phân nhánh mạnh, được chọn tạo súp lơ trắng và súp lơ xanh.",
+     "a": true
+    },
+    {
+     "t": "Đột biến ở gene điều hoà làm tăng lượng cơ bắp đã được dùng để chọn tạo giống lợn thịt siêu nạc.",
+     "a": true
+    },
+    {
+     "t": "Chỉ những đột biến do con người gây ra mới có thể dùng trong chọn giống.",
+     "a": false
+    }
+   ],
+   "explain": "từ xa xưa con người đã chọn lọc các thể đột biến tự nhiên."
+  },
+  {
+   "id": "B04-038",
+   "type": "tf",
+   "q": "Xét tính đúng/sai về vai trò của đột biến gene trong tiến hoá:",
+   "items": [
+    {
+     "t": "Đột biến cung cấp các allele mới là nguồn nguyên liệu cho tiến hoá.",
+     "a": true
+    },
+    {
+     "t": "Gene FOX2 của người khác gene này ở linh trưởng ở 2 trong số 715 amino acid.",
+     "a": true
+    },
+    {
+     "t": "Đột biến làm thay đổi chiều xoắn vỏ ốc Bradybaena khiến ốc đột biến không giao phối được với ốc bình thường, dẫn đến hình thành loài mới.",
+     "a": true
+    },
+    {
+     "t": "Đột biến gene không bao giờ có thể dẫn đến hình thành loài mới.",
+     "a": false
+    }
+   ],
+   "explain": "đột biến ở một số gene thậm chí có thể dẫn đến hình thành loài mới."
+  },
+  {
+   "id": "B04-039",
+   "type": "tf",
+   "q": "Một gene bị đột biến thay thế một cặp A–T bằng một cặp G–C. Xét tính đúng/sai:",
+   "items": [
+    {
+     "t": "Số liên kết hydrogen của gene tăng 1.",
+     "a": true
+    },
+    {
+     "t": "Tổng số nucleotide của gene không thay đổi.",
+     "a": true
+    },
+    {
+     "t": "Chiều dài của gene giảm đi.",
+     "a": false
+    },
+    {
+     "t": "Đột biến này làm dịch khung đọc mã di truyền.",
+     "a": false
+    }
+   ],
+   "explain": "đột biến thay thế không làm thay đổi số cặp nucleotide nên chiều dài không đổi và không dịch khung."
+  },
+  {
+   "id": "B04-040",
+   "type": "short",
+   "q": "Một gene có 3000 nucleotide, trong đó G chiếm 30%. Sau đột biến thay thế một cặp A–T bằng một cặp G–C, số liên kết hydrogen của gene là bao nhiêu?",
+   "answer": "3901",
+   "explain": "G = C = 900, A = T = 600 → số liên kết hydrogen ban đầu = 2 × 600 + 3 × 900 = 3900; thay A–T bằng G–C làm tăng 1, thành 3901."
+  },
+  {
+   "id": "B04-041",
+   "type": "short",
+   "q": "Một gene dài 510 nm (mỗi cặp nucleotide dài 0,34 nm) bị đột biến mất 2 cặp nucleotide. Gene sau đột biến có bao nhiêu nucleotide (tính cả hai mạch)?",
+   "answer": "2996",
+   "explain": "510 : 0,34 = 1500 cặp; mất 2 cặp còn 1498 cặp = 2996 nucleotide."
+  },
+  {
+   "id": "B04-042",
+   "type": "short",
+   "q": "Một mRNA có trình tự 5'–AUG GCU CCA AAA GUU GGC UAA–3'. Một đột biến thay thế làm bộ ba AAA (Lys) thành UAA. Chuỗi polypeptide được tổng hợp từ mRNA đột biến có bao nhiêu amino acid (tính cả amino acid mở đầu)?",
+   "answer": "3",
+   "explain": "Đọc AUG, GCU, CCA rồi gặp UAA là bộ ba kết thúc nên dịch mã dừng: chuỗi có 3 amino acid."
+  }
+ ]
+}

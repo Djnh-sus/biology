@@ -1,0 +1,624 @@
+{
+ "questions": [
+  {
+   "id": "B03-001",
+   "type": "mcq",
+   "q": "Sự biểu hiện gene được hiểu là:",
+   "options": [
+    "gene được tái bản để tạo ra bản sao.",
+    "gene chỉ được phiên mã tạo ra RNA.",
+    "gene được phiên mã và dịch mã tạo ra sản phẩm.",
+    "gene bị đột biến tạo ra allele mới."
+   ],
+   "answer": 2,
+   "explain": "Sự biểu hiện gene gồm cả phiên mã và dịch mã để tạo sản phẩm của gene. <b>Bẫy:</b> biểu hiện gene không dừng ở phiên mã."
+  },
+  {
+   "id": "B03-002",
+   "type": "mcq",
+   "q": "Quá trình điều hoà biểu hiện gene ở tế bào chủ yếu xảy ra ở khâu nào?",
+   "options": [
+    "Tái bản DNA.",
+    "Dịch mã.",
+    "Hoàn thiện protein sau dịch mã.",
+    "Điều hoà phiên mã (gene có được phiên mã hay không)."
+   ],
+   "answer": 3,
+   "explain": "Theo SGK, điều hoà biểu hiện gene chủ yếu xảy ra ở khâu điều hoà phiên mã."
+  },
+  {
+   "id": "B03-003",
+   "type": "mcq",
+   "q": "Người đi tiên phong trong lĩnh vực nghiên cứu điều hoà biểu hiện gene, phát hiện cơ chế điều hoà operon lac ở E. coli là:",
+   "options": [
+    "Watson và Crick.",
+    "Mendel và Morgan.",
+    "Monod và Jacob.",
+    "Hershey và Chase."
+   ],
+   "answer": 2,
+   "explain": "Monod và Jacob nghiên cứu từ những năm 1950. <b>Bẫy:</b> các cặp tên còn lại đều nổi tiếng nhưng gắn với DNA, quy luật di truyền, thí nghiệm virus."
+  },
+  {
+   "id": "B03-004",
+   "type": "mcq",
+   "q": "Monod và Jacob đã nuôi cấy các dòng vi khuẩn E. coli đột biến gene trong điều kiện nào để nghiên cứu?",
+   "options": [
+    "Chỉ trong môi trường có lactose.",
+    "Chỉ trong môi trường không có lactose.",
+    "Môi trường có lactose và môi trường không có lactose.",
+    "Môi trường có glucose và không có oxygen."
+   ],
+   "answer": 2,
+   "explain": "Hai điều kiện được so sánh với nhau: có lactose (lô thí nghiệm) và không có lactose (lô đối chứng)."
+  },
+  {
+   "id": "B03-005",
+   "type": "mcq",
+   "q": "Trong thí nghiệm của Monod và Jacob, lô đối chứng được nuôi trong môi trường:",
+   "options": [
+    "có lactose và có amino acid đánh dấu phóng xạ.",
+    "không có lactose và có amino acid đánh dấu phóng xạ.",
+    "không có lactose và không có amino acid đánh dấu phóng xạ.",
+    "có lactose và không có amino acid đánh dấu phóng xạ."
+   ],
+   "answer": 1,
+   "explain": "Lô đối chứng không có lactose; lô thí nghiệm có lactose; cả hai đều có amino acid đánh dấu phóng xạ để theo dõi sự tổng hợp enzyme. <b>Bẫy:</b> đảo \"có lactose\" cho lô đối chứng."
+  },
+  {
+   "id": "B03-006",
+   "type": "mcq",
+   "q": "Kết quả của thí nghiệm Monod – Jacob là:",
+   "options": [
+    "lô đối chứng có lượng enzyme đánh dấu không đáng kể, lô thí nghiệm tăng mạnh.",
+    "cả hai lô đều có lượng enzyme đánh dấu tăng mạnh như nhau.",
+    "cả hai lô đều không có enzyme đánh dấu.",
+    "lô đối chứng có lượng enzyme đánh dấu tăng mạnh hơn lô thí nghiệm."
+   ],
+   "answer": 0,
+   "explain": "Lactose kích hoạt tế bào tổng hợp enzyme."
+  },
+  {
+   "id": "B03-007",
+   "type": "mcq",
+   "q": "Kết luận rút ra từ thí nghiệm của Monod và Jacob là:",
+   "options": [
+    "lactose kích hoạt tế bào tổng hợp đồng thời cả ba enzyme β-galactosidase, permease và transacetylase.",
+    "lactose chỉ kích hoạt tổng hợp enzyme β-galactosidase.",
+    "lactose là enzyme xúc tác phân giải glucose.",
+    "mỗi enzyme do một operon khác nhau quy định."
+   ],
+   "answer": 0,
+   "explain": "Đáp án đúng: lactose kích hoạt tế bào tổng hợp đồng thời cả ba enzyme β-galactosidase, permease và transacetylase. <b>Bẫy:</b> từ \"đồng thời\" và \"ba enzyme\" là mấu chốt."
+  },
+  {
+   "id": "B03-008",
+   "type": "mcq",
+   "q": "Enzyme β-galactosidase có chức năng:",
+   "options": [
+    "phân giải lactose.",
+    "khử các chất độc đi vào tế bào.",
+    "vận chuyển lactose vào tế bào.",
+    "tổng hợp RNA."
+   ],
+   "answer": 0,
+   "explain": "Đáp án đúng: phân giải lactose. <b>Bẫy:</b> vận chuyển lactose là permease; khử chất độc là transacetylase."
+  },
+  {
+   "id": "B03-009",
+   "type": "mcq",
+   "q": "Permease là enzyme có chức năng:",
+   "options": [
+    "phân giải lactose.",
+    "vận chuyển lactose vào tế bào.",
+    "khử các chất độc vào tế bào.",
+    "liên kết với operator."
+   ],
+   "answer": 1,
+   "explain": "Đáp án đúng: vận chuyển lactose vào tế bào."
+  },
+  {
+   "id": "B03-010",
+   "type": "mcq",
+   "q": "Operon lac ở E. coli gồm:",
+   "options": [
+    "vùng điều hoà (P, O) và ba gene cấu trúc lacZ, lacY, lacA.",
+    "gene điều hoà lacI và ba gene cấu trúc.",
+    "chỉ ba gene cấu trúc lacZ, lacY, lacA.",
+    "vùng điều hoà, ba gene cấu trúc và gene lacI."
+   ],
+   "answer": 0,
+   "explain": "Đáp án đúng: vùng điều hoà (P, O) và ba gene cấu trúc lacZ, lacY, lacA. <b>Bẫy:</b> gene lacI điều hoà operon lac nhưng KHÔNG thuộc operon lac."
+  },
+  {
+   "id": "B03-011",
+   "type": "mcq",
+   "q": "Gene lacI có đặc điểm nào sau đây?",
+   "options": [
+    "Quy định enzyme permease và nằm trong operon lac.",
+    "Quy định protein ức chế và nằm ngoài operon lac.",
+    "Là trình tự nơi RNA polymerase bám vào.",
+    "Là trình tự nơi protein ức chế liên kết."
+   ],
+   "answer": 1,
+   "explain": "lacI là gene điều hoà, quy định protein ức chế (LacI), không thuộc operon lac."
+  },
+  {
+   "id": "B03-012",
+   "type": "mcq",
+   "q": "Trình tự O (operator) của operon lac là nơi:",
+   "options": [
+    "enzyme RNA polymerase khởi động phiên mã.",
+    "protein ức chế liên kết, ngăn cản quá trình phiên mã.",
+    "kết thúc phiên mã.",
+    "allolactose liên kết trực tiếp."
+   ],
+   "answer": 1,
+   "explain": "Đáp án đúng: protein ức chế liên kết, ngăn cản quá trình phiên mã. <b>Bẫy:</b> nơi RNA polymerase bám vào là promoter (P)."
+  },
+  {
+   "id": "B03-013",
+   "type": "mcq",
+   "q": "Khi môi trường không có lactose, hoạt động nào sau đây xảy ra ở operon lac?",
+   "options": [
+    "Các gene cấu trúc được dịch mã tạo enzyme phân giải lactose.",
+    "Protein ức chế bị biến đổi cấu hình nên không liên kết được với operator.",
+    "RNA polymerase liên kết với promoter và phiên mã các gene cấu trúc.",
+    "Protein ức chế liên kết với operator, ngăn cản RNA polymerase phiên mã các gene cấu trúc."
+   ],
+   "answer": 3,
+   "explain": "Hai ý kia thuộc trường hợp có lactose."
+  },
+  {
+   "id": "B03-014",
+   "type": "mcq",
+   "q": "Khi môi trường có lactose, một lượng nhỏ lactose chuyển thành đồng phân của nó (allolactose). Chất này:",
+   "options": [
+    "liên kết với protein ức chế làm protein này thay đổi cấu hình và không liên kết được với operator.",
+    "liên kết với operator làm mất chức năng của promoter.",
+    "liên kết với RNA polymerase để kích hoạt enzyme này.",
+    "bị phân giải ngay thành glucose, không có tác dụng điều hoà."
+   ],
+   "answer": 0,
+   "explain": "Đáp án đúng: liên kết với protein ức chế làm protein này thay đổi cấu hình và không liên kết được với operator. <b>Bẫy:</b> allolactose gắn vào PROTEIN ỨC CHẾ chứ không gắn vào operator."
+  },
+  {
+   "id": "B03-015",
+   "type": "mcq",
+   "q": "Ở vi khuẩn, các gene cấu trúc phiên mã đến đâu thì được dịch mã đến đó vì:",
+   "options": [
+    "vi khuẩn có màng nhân và gene phân mảnh.",
+    "ribosome ở vi khuẩn chỉ hoạt động trong nhân.",
+    "mRNA của vi khuẩn phải trải qua quá trình cắt intron.",
+    "vi khuẩn không có màng nhân và gene không phân mảnh."
+   ],
+   "answer": 3,
+   "explain": "Đáp án đúng: vi khuẩn không có màng nhân và gene không phân mảnh. <b>Bẫy:</b> đây là đặc điểm của nhân sơ; nhân thực thì phiên mã trong nhân, hoàn thiện mRNA rồi mới dịch mã ở tế bào chất."
+  },
+  {
+   "id": "B03-016",
+   "type": "mcq",
+   "q": "Theo quy ước, tên gene được viết như thế nào còn sản phẩm của gene là protein được kí hiệu ra sao?",
+   "options": [
+    "Cả gene và protein đều in nghiêng.",
+    "Tên gene không in nghiêng; protein kí hiệu bằng tên gene in nghiêng.",
+    "Tên gene in nghiêng; protein kí hiệu bằng tên gene nhưng không in nghiêng.",
+    "Cả gene và protein đều không in nghiêng."
+   ],
+   "answer": 2,
+   "explain": "Đáp án đúng: Tên gene in nghiêng; protein kí hiệu bằng tên gene nhưng không in nghiêng."
+  },
+  {
+   "id": "B03-017",
+   "type": "mcq",
+   "q": "Vì sao tế bào cần điều hoà biểu hiện gene để tiết kiệm năng lượng?",
+   "options": [
+    "Vì tế bào tiêu tốn rất ít năng lượng cho tổng hợp protein.",
+    "Vì tế bào không thể tổng hợp protein khi có ATP.",
+    "Vì tế bào tiêu tốn rất nhiều năng lượng cho tổng hợp protein (E. coli dùng tới 90% lượng ATP tạo ra), nên chỉ tổng hợp sản phẩm khi cần với lượng phù hợp.",
+    "Vì tổng hợp protein không cần ATP."
+   ],
+   "answer": 2,
+   "explain": "Đáp án đúng: Vì tế bào tiêu tốn rất nhiều năng lượng cho tổng hợp protein (E. coli dùng tới 90% lượng ATP tạo ra), nên chỉ tổng hợp sản phẩm khi cần với lượng phù hợp."
+  },
+  {
+   "id": "B03-018",
+   "type": "mcq",
+   "q": "Ví dụ nào cho thấy điều hoà biểu hiện gene giúp tế bào thích nghi với sự thay đổi của môi trường?",
+   "options": [
+    "Khi nhiệt độ môi trường cao bất thường, một số gene được kích hoạt tạo ra các protein chống sốc nhiệt.",
+    "Tế bào E. coli tổng hợp insulin của người.",
+    "Nhân đôi DNA tạo hai DNA con giống nhau.",
+    "Đột biến làm xuất hiện allele mới."
+   ],
+   "answer": 0,
+   "explain": "Đáp án đúng: Khi nhiệt độ môi trường cao bất thường, một số gene được kích hoạt tạo ra các protein chống sốc nhiệt."
+  },
+  {
+   "id": "B03-019",
+   "type": "mcq",
+   "q": "Tế bào miễn dịch chỉ kích hoạt các gene tổng hợp kháng thể khi tiếp xúc với tác nhân gây bệnh. Ví dụ này minh hoạ:",
+   "options": [
+    "điều hoà biểu hiện gene giúp tế bào chỉ tổng hợp sản phẩm khi cần thiết.",
+    "gene luôn luôn được biểu hiện ở mức tối đa.",
+    "đột biến gene tạo ra kháng thể.",
+    "gene kháng thể không phiên mã."
+   ],
+   "answer": 0,
+   "explain": "Đáp án đúng: điều hoà biểu hiện gene giúp tế bào chỉ tổng hợp sản phẩm khi cần thiết."
+  },
+  {
+   "id": "B03-020",
+   "type": "mcq",
+   "q": "Các tế bào sinh ra từ một hợp tử có cùng hệ gene nhưng lại chuyên hoá thành các loại tế bào khác nhau vì:",
+   "options": [
+    "chúng chứa các gene khác nhau.",
+    "chúng nhận các tín hiệu điều hoà khác nhau nên đóng, mở các nhóm gene khác nhau.",
+    "chúng bị mất một số gene trong quá trình phát triển.",
+    "chúng có số lượng NST khác nhau."
+   ],
+   "answer": 1,
+   "explain": "Đáp án đúng: chúng nhận các tín hiệu điều hoà khác nhau nên đóng, mở các nhóm gene khác nhau. <b>Bẫy:</b> cùng hệ gene nhưng KHÁC nhau ở những gene được biểu hiện."
+  },
+  {
+   "id": "B03-021",
+   "type": "mcq",
+   "q": "Nếu quá trình điều hoà biểu hiện gene trong quá trình phát triển cá thể bị trục trặc thì:",
+   "options": [
+    "không ảnh hưởng gì đến cơ thể.",
+    "phôi thai có thể bị chết hoặc cá thể sinh ra bị dị dạng.",
+    "cơ thể luôn phát triển nhanh hơn bình thường.",
+    "chỉ gây ra thay đổi số lượng NST."
+   ],
+   "answer": 1,
+   "explain": "Đáp án đúng: phôi thai có thể bị chết hoặc cá thể sinh ra bị dị dạng."
+  },
+  {
+   "id": "B03-022",
+   "type": "mcq",
+   "q": "Ở người, proto-oncogene thường tạo ra lượng sản phẩm vừa đủ. Khi gene này hoạt động quá mức thì:",
+   "options": [
+    "ngừng phiên mã hoàn toàn.",
+    "trở thành gene điều hoà operon.",
+    "trở thành gene gây ung thư (oncogene), kích hoạt tế bào phân chia không kiểm soát.",
+    "tạo ra hormone tăng trưởng giúp cơ thể phát triển bình thường."
+   ],
+   "answer": 2,
+   "explain": "Đáp án đúng: trở thành gene gây ung thư (oncogene), kích hoạt tế bào phân chia không kiểm soát."
+  },
+  {
+   "id": "B03-023",
+   "type": "mcq",
+   "q": "Tamoxifen là chất ức chế đặc hiệu thụ thể ERα, dùng để chữa trị cho những bệnh nhân bị ung thư vú do:",
+   "options": [
+    "thiếu estrogen.",
+    "gene ERα bị mất hoàn toàn.",
+    "gene ERα biểu hiện quá mức.",
+    "nhiễm virus."
+   ],
+   "answer": 2,
+   "explain": "Tamoxifen ức chế sản phẩm (thụ thể) của gene ERα hoạt động quá mức."
+  },
+  {
+   "id": "B03-024",
+   "type": "mcq",
+   "q": "Ứng dụng điều hoà biểu hiện gene trong trồng trọt là:",
+   "options": [
+    "nhân đôi DNA trong ống nghiệm.",
+    "lai các cây khác loài để tạo giống mới.",
+    "chọn lọc tự nhiên những cây có đột biến.",
+    "chủ động đóng, mở một số gene nhất định ở cây trồng cho phù hợp với nhu cầu sản xuất (ví dụ dùng chế độ chiếu sáng để cây ra hoa đúng mùa)."
+   ],
+   "answer": 3,
+   "explain": "Đáp án đúng: chủ động đóng, mở một số gene nhất định ở cây trồng cho phù hợp với nhu cầu sản xuất (ví dụ dùng chế độ chiếu sáng để cây ra hoa đúng mùa)."
+  },
+  {
+   "id": "B03-025",
+   "type": "mcq",
+   "q": "Trong chăn nuôi, khi dùng hormone sinh dục đực (testosterone) xử lí trứng cá rô phi đã thụ tinh thì:",
+   "options": [
+    "trứng không phát triển.",
+    "100% hợp tử phát triển thành cá cái.",
+    "tỉ lệ đực : cái là 1 : 1.",
+    "100% hợp tử phát triển thành cá đực."
+   ],
+   "answer": 3,
+   "explain": "Hormone đi vào hợp tử, hoạt hoá các gene làm hợp tử phát triển thành cá đực; cá đực cho nhiều thịt và lớn nhanh hơn cá cái. <b>Bẫy:</b> hormone ĐỰC cho 100% cá ĐỰC."
+  },
+  {
+   "id": "B03-026",
+   "type": "mcq",
+   "q": "Nuôi cấy vi khuẩn E. coli trong môi trường KHÔNG có lactose nhưng operon lac vẫn hoạt động. Có thể dự đoán vi khuẩn bị hỏng ở:",
+   "options": [
+    "trình tự promoter (P) bị mất.",
+    "gene lacI hoặc trình tự operator (O), khiến protein ức chế không ngăn được phiên mã.",
+    "gene lacZ bị mất.",
+    "gene lacA bị mất."
+   ],
+   "answer": 1,
+   "explain": "Khi protein ức chế không tạo ra được hoặc không liên kết được với operator thì RNA polymerase vẫn phiên mã dù không có lactose. Mất promoter thì không phiên mã được; mất một gene cấu trúc không làm operon hoạt động khi không có lactose."
+  },
+  {
+   "id": "B03-027",
+   "type": "mcq",
+   "q": "Vi khuẩn Streptococcus pneumoniae khi gặp thuốc kháng sinh thì gene CSP được kích hoạt, tạo protein CSP giúp tế bào dễ nhận gene từ môi trường ngoài, nhờ đó nhanh chóng trở nên kháng thuốc. Điều này cho thấy:",
+   "options": [
+    "gene CSP luôn biểu hiện, bất kể môi trường.",
+    "vi khuẩn không có điều hoà biểu hiện gene.",
+    "thuốc kháng sinh gây đột biến gene CSP.",
+    "gene CSP được điều hoà biểu hiện, chỉ hoạt động khi môi trường có thuốc kháng sinh."
+   ],
+   "answer": 3,
+   "explain": "Đáp án đúng: gene CSP được điều hoà biểu hiện, chỉ hoạt động khi môi trường có thuốc kháng sinh."
+  },
+  {
+   "id": "B03-028",
+   "type": "mcq",
+   "q": "Về điều hoà biểu hiện gene, có bao nhiêu phát biểu đúng?<br>a. Điều hoà biểu hiện gene chủ yếu xảy ra ở khâu điều hoà phiên mã.<br>b. Vi khuẩn không có màng nhân và gene không phân mảnh nên phiên mã đến đâu dịch mã đến đó.<br>c. Gene lacI nằm trong operon lac.<br>d. Allolactose liên kết trực tiếp với operator.",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 1,
+   "noShuffle": true,
+   "explain": "Ý đúng: a, b; ý sai: c, d. c sai: lacI nằm ngoài operon; d sai: allolactose gắn vào protein ức chế."
+  },
+  {
+   "id": "B03-029",
+   "type": "mcq",
+   "q": "Về các gene cấu trúc của operon lac, có bao nhiêu phát biểu SAI?<br>a. lacZ quy định enzyme β-galactosidase.<br>b. lacY quy định enzyme permease.<br>c. lacA quy định enzyme transacetylase.<br>d. lacY quy định enzyme transacetylase.",
+   "options": [
+    "0",
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 1,
+   "noShuffle": true,
+   "explain": "Ý sai: d. transacetylase do lacA quy định."
+  },
+  {
+   "id": "B03-030",
+   "type": "mcq",
+   "q": "Về ý nghĩa của điều hoà biểu hiện gene, có bao nhiêu phát biểu đúng?<br>a. Giúp tế bào chỉ tổng hợp sản phẩm của gene khi cần thiết, với lượng phù hợp, nên tiết kiệm năng lượng.<br>b. Giúp tế bào thích nghi với sự thay đổi của môi trường.<br>c. Chỉ có ở sinh vật nhân sơ.<br>d. Có vai trò quan trọng trong quá trình phát triển cá thể của sinh vật đa bào nhân thực.",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 2,
+   "noShuffle": true,
+   "explain": "Ý đúng: a, b, d; ý sai: c. Điều hoà biểu hiện gene có ở cả nhân sơ và nhân thực."
+  },
+  {
+   "id": "B03-031",
+   "type": "mcq",
+   "q": "Về ứng dụng của điều hoà biểu hiện gene, có bao nhiêu phát biểu SAI?<br>a. Tamoxifen ức chế thụ thể ERα, dùng chữa ung thư vú do gene ERα biểu hiện quá mức.<br>b. Có thể chủ động đóng, mở một số gene ở cây trồng cho phù hợp với nhu cầu sản xuất.<br>c. Hormone sinh dục đực xử lí trứng cá rô phi thụ tinh làm tăng số cá cái.<br>d. Điều hoà biểu hiện gene chỉ được ứng dụng trong y dược.",
+   "options": [
+    "0",
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 2,
+   "noShuffle": true,
+   "explain": "Ý sai: c, d. c sai: được 100% cá đực. d sai: còn ứng dụng trong trồng trọt, chăn nuôi."
+  },
+  {
+   "id": "B03-032",
+   "type": "tf",
+   "q": "Monod và Jacob nghiên cứu sự tổng hợp enzyme ở E. coli bằng cách nuôi vi khuẩn trong môi trường có amino acid đánh dấu phóng xạ. Xét tính đúng/sai:",
+   "items": [
+    {
+     "t": "Lô đối chứng được nuôi trong môi trường không có lactose.",
+     "a": true
+    },
+    {
+     "t": "Ở lô đối chứng, các enzyme đánh dấu phóng xạ xuất hiện với lượng lớn.",
+     "a": false
+    },
+    {
+     "t": "Ở lô thí nghiệm có lactose, lượng enzyme đánh dấu tăng mạnh so với lô đối chứng.",
+     "a": true
+    },
+    {
+     "t": "Kết quả cho thấy lactose chỉ kích hoạt tổng hợp β-galactosidase, không ảnh hưởng permease và transacetylase.",
+     "a": false
+    }
+   ],
+   "explain": "b sai vì lượng enzyme ở lô đối chứng không đáng kể; d sai vì lactose kích hoạt tổng hợp đồng thời cả ba enzyme."
+  },
+  {
+   "id": "B03-033",
+   "type": "tf",
+   "q": "Xét tính đúng/sai về cấu trúc operon lac:",
+   "items": [
+    {
+     "t": "Vùng điều hoà của operon lac gồm trình tự P và trình tự O.",
+     "a": true
+    },
+    {
+     "t": "Gene lacI nằm trong operon lac.",
+     "a": false
+    },
+    {
+     "t": "Promoter là nơi RNA polymerase khởi động phiên mã.",
+     "a": true
+    },
+    {
+     "t": "Protein ức chế liên kết với promoter để ngăn cản phiên mã.",
+     "a": false
+    }
+   ],
+   "explain": "b sai: lacI nằm ngoài operon; d sai: protein ức chế liên kết với operator (O), không phải promoter."
+  },
+  {
+   "id": "B03-034",
+   "type": "tf",
+   "q": "Khi môi trường KHÔNG có lactose, xét tính đúng/sai:",
+   "items": [
+    {
+     "t": "Protein ức chế liên kết với operator.",
+     "a": true
+    },
+    {
+     "t": "RNA polymerase vẫn phiên mã bình thường các gene cấu trúc nhưng sản phẩm bị phân giải ngay.",
+     "a": false
+    },
+    {
+     "t": "Các gene lacZ, lacY, lacA không được phiên mã.",
+     "a": true
+    },
+    {
+     "t": "Gene điều hoà lacI vẫn tạo ra protein ức chế.",
+     "a": true
+    }
+   ],
+   "explain": "b sai: protein ức chế ngăn RNA polymerase phiên mã các gene cấu trúc; d đúng vì protein ức chế vẫn được tạo ra để liên kết operator."
+  },
+  {
+   "id": "B03-035",
+   "type": "tf",
+   "q": "Khi môi trường CÓ lactose, xét tính đúng/sai:",
+   "items": [
+    {
+     "t": "Một lượng nhỏ lactose chuyển thành đồng phân allolactose.",
+     "a": true
+    },
+    {
+     "t": "Allolactose liên kết với operator.",
+     "a": false
+    },
+    {
+     "t": "Protein ức chế bị biến đổi cấu hình, không liên kết được với operator.",
+     "a": true
+    },
+    {
+     "t": "RNA polymerase liên kết với promoter và phiên mã các gene cấu trúc.",
+     "a": true
+    }
+   ],
+   "explain": "b sai vì allolactose liên kết với protein ức chế, không liên kết với operator."
+  },
+  {
+   "id": "B03-036",
+   "type": "tf",
+   "q": "Xét tính đúng/sai về ý nghĩa của điều hoà biểu hiện gene:",
+   "items": [
+    {
+     "t": "Điều hoà giúp tế bào tiết kiệm năng lượng vì chỉ tổng hợp sản phẩm khi cần với lượng phù hợp.",
+     "a": true
+    },
+    {
+     "t": "E. coli chỉ dùng khoảng 9% ATP cho tổng hợp protein nên điều hoà không quan trọng.",
+     "a": false
+    },
+    {
+     "t": "Khi gặp nhiệt độ cao bất thường, một số gene được kích hoạt tạo protein chống sốc nhiệt.",
+     "a": true
+    },
+    {
+     "t": "Tế bào miễn dịch luôn tổng hợp kháng thể với lượng tối đa để sẵn sàng.",
+     "a": false
+    }
+   ],
+   "explain": "b sai: E. coli dùng tới 90% ATP; d sai: tế bào miễn dịch chỉ kích hoạt gene kháng thể khi tiếp xúc tác nhân gây bệnh."
+  },
+  {
+   "id": "B03-037",
+   "type": "tf",
+   "q": "Xét tính đúng/sai về điều hoà biểu hiện gene trong phát triển cá thể:",
+   "items": [
+    {
+     "t": "Các tế bào sinh ra từ một hợp tử có cùng hệ gene nhưng chuyên hoá khác nhau.",
+     "a": true
+    },
+    {
+     "t": "Các tế bào nhận tín hiệu điều hoà khác nhau nên đóng, mở các nhóm gene khác nhau.",
+     "a": true
+    },
+    {
+     "t": "Nếu điều hoà bị trục trặc, phôi thai có thể chết hoặc cá thể bị dị dạng.",
+     "a": true
+    },
+    {
+     "t": "Các tế bào chuyên hoá khác nhau vì chứa các gene khác nhau.",
+     "a": false
+    }
+   ],
+   "explain": "d sai: các tế bào có cùng hệ gene, chỉ khác nhau ở các gene được biểu hiện."
+  },
+  {
+   "id": "B03-038",
+   "type": "tf",
+   "q": "Xét tính đúng/sai về ứng dụng của điều hoà biểu hiện gene:",
+   "items": [
+    {
+     "t": "Tamoxifen ức chế đặc hiệu thụ thể ERα, dùng chữa ung thư vú do gene ERα biểu hiện quá mức.",
+     "a": true
+    },
+    {
+     "t": "Gene ung thư (oncogene) là gene hoạt động quá mức tạo ra sản phẩm dư thừa.",
+     "a": true
+    },
+    {
+     "t": "Xử lí trứng cá rô phi đã thụ tinh bằng testosterone làm 100% cá thể phát triển thành cá cái.",
+     "a": false
+    },
+    {
+     "t": "Dùng chế độ chiếu sáng thích hợp có thể điều khiển các gene để cây ra hoa đúng mùa.",
+     "a": true
+    }
+   ],
+   "explain": "c sai: testosterone (hormone đực) tạo 100% cá đực."
+  },
+  {
+   "id": "B03-039",
+   "type": "tf",
+   "q": "Một số dòng E. coli đột biến về operon lac được nuôi trong môi trường KHÔNG có lactose. Xét tính đúng/sai:",
+   "items": [
+    {
+     "t": "Dòng mất chức năng gene lacI vẫn phiên mã các gene cấu trúc.",
+     "a": true
+    },
+    {
+     "t": "Dòng có operator bị đột biến làm protein ức chế không liên kết được vẫn phiên mã các gene cấu trúc.",
+     "a": true
+    },
+    {
+     "t": "Dòng bị mất promoter (P) vẫn phiên mã mạnh vì không bị protein ức chế cản trở.",
+     "a": false
+    },
+    {
+     "t": "Dòng đột biến điểm ở gene lacA (operator bình thường) vẫn bị protein ức chế ngăn phiên mã.",
+     "a": true
+    }
+   ],
+   "explain": "không có promoter thì RNA polymerase không bám vào để khởi động phiên mã; ở dòng lacA hỏng, protein ức chế vẫn liên kết operator bình thường."
+  },
+  {
+   "id": "B03-040",
+   "type": "short",
+   "q": "Trong các thành phần: gene lacI, trình tự P, trình tự O, gene lacZ, gene lacY, gene lacA, có bao nhiêu thành phần thuộc operon lac?",
+   "answer": "5",
+   "explain": "Thuộc operon lac: P, O, lacZ, lacY, lacA. Gene lacI không thuộc operon lac."
+  },
+  {
+   "id": "B03-041",
+   "type": "short",
+   "q": "Tế bào E. coli tạo ra 200 đơn vị ATP. Theo SGK, tế bào dùng tới 90% lượng ATP tạo ra để tổng hợp protein. Lượng ATP tối đa dùng cho tổng hợp protein là bao nhiêu đơn vị?",
+   "answer": "180",
+   "explain": "200 × 90% = 180."
+  },
+  {
+   "id": "B03-042",
+   "type": "short",
+   "q": "Bốn dòng E. coli đột biến được nuôi trong môi trường KHÔNG có lactose. Dòng 1 mất promoter của operon lac; dòng 2 có operator bị đột biến làm protein ức chế không liên kết được; dòng 3 mất chức năng gene lacI; dòng 4 có đột biến điểm ở gene lacA (các thành phần khác bình thường). Có bao nhiêu dòng vẫn phiên mã các gene cấu trúc của operon lac?",
+   "answer": "2",
+   "explain": "Dòng 2 (operator không liên kết được protein ức chế) và dòng 3 (không có protein ức chế). Dòng 1 không có promoter nên không phiên mã; dòng 4 vẫn bị protein ức chế ngăn phiên mã."
+  }
+ ]
+}

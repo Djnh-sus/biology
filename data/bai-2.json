@@ -1,0 +1,624 @@
+{
+ "questions": [
+  {
+   "type": "mcq",
+   "q": "Gene là:",
+   "options": [
+    "toàn bộ các phân tử DNA trong tế bào của một sinh vật.",
+    "một đoạn của phân tử DNA mang thông tin quy định sản phẩm là chuỗi polypeptide hoặc RNA.",
+    "một đoạn của phân tử protein quy định tính trạng.",
+    "một đoạn RNA chỉ quy định sản phẩm là protein."
+   ],
+   "answer": 1,
+   "explain": "Gene là một đoạn của phân tử DNA mang thông tin quy định sản phẩm là chuỗi polypeptide hoặc RNA. <b>Bẫy:</b> ý \"toàn bộ các phân tử DNA trong tế bào\" là khái niệm HỆ GENE; gene quy định cả polypeptide LẪN RNA (không chỉ protein).",
+   "id": "B02-001"
+  },
+  {
+   "type": "mcq",
+   "q": "Mỗi gene được cấu tạo từ hai mạch polynucleotide nhưng chỉ một mạch được dùng làm khuôn tổng hợp mRNA. Mạch còn lại gọi là:",
+   "options": [
+    "mạch khuôn.",
+    "mạch mồi.",
+    "mạch mã hoá.",
+    "mạch gián đoạn."
+   ],
+   "answer": 2,
+   "explain": "Mạch dùng làm khuôn tổng hợp mRNA là mạch khuôn; mạch polynucleotide còn lại gọi là mạch mã hoá. <b>Bẫy:</b> \"mạch khuôn\" ≠ \"mạch mã hoá\". Trình tự mRNA giống mạch mã hoá (chỉ khác T thành U).",
+   "id": "B02-002"
+  },
+  {
+   "type": "mcq",
+   "q": "Vùng điều hoà của gene nằm ở:",
+   "options": [
+    "đầu 5' trên mạch khuôn của gene, mang tín hiệu kết thúc phiên mã.",
+    "đầu 3' trên mạch khuôn của gene, chứa promoter.",
+    "đầu 5' trên mạch khuôn của gene, chứa promoter.",
+    "giữa vùng mã hoá và vùng kết thúc."
+   ],
+   "answer": 1,
+   "explain": "SGK: vùng điều hoà nằm ở đầu 3' trên mạch khuôn của gene, có trình tự nucleotide gọi là promoter. <b>Bẫy:</b> đảo đầu 3' ↔ 5' (nói vùng điều hoà ở đầu 5'), hoặc ghép chức năng sai (mang tín hiệu kết thúc phiên mã là việc của vùng kết thúc).",
+   "id": "B02-003"
+  },
+  {
+   "type": "mcq",
+   "q": "Vùng kết thúc của gene nằm ở:",
+   "options": [
+    "đầu 3' trên mạch khuôn, mang tín hiệu kết thúc phiên mã.",
+    "đầu 3' trên mạch mã hoá, mang bộ ba mở đầu.",
+    "đầu 5' trên mạch khuôn, nơi enzyme phiên mã bám vào.",
+    "đầu 5' trên mạch khuôn, mang tín hiệu kết thúc phiên mã."
+   ],
+   "answer": 3,
+   "explain": "SGK: vùng kết thúc nằm ở đầu 5' trên mạch khuôn của gene, mang tín hiệu kết thúc phiên mã; vùng điều hoà nằm ở đầu 3'.",
+   "id": "B02-004"
+  },
+  {
+   "type": "mcq",
+   "q": "Promoter là trình tự nucleotide nằm trong vùng điều hoà, có chức năng:",
+   "options": [
+    "quy định trình tự amino acid của chuỗi polypeptide.",
+    "là nơi enzyme phiên mã có thể liên kết và tiến hành phiên mã.",
+    "mang tín hiệu kết thúc phiên mã.",
+    "là nơi protein ức chế liên kết để ngăn cản phiên mã."
+   ],
+   "answer": 1,
+   "explain": "Promoter là trình tự nucleotide nơi enzyme phiên mã có thể liên kết và tiến hành phiên mã. <b>Bẫy:</b> ý \"là nơi protein ức chế liên kết để ngăn cản phiên mã\" là chức năng của operator (Bài 3), không phải promoter.",
+   "id": "B02-005"
+  },
+  {
+   "type": "mcq",
+   "q": "Phát biểu nào đúng về cấu trúc gene mã hoá protein ở sinh vật nhân sơ so với sinh vật nhân thực?",
+   "options": [
+    "Gene nhân sơ có vùng mã hoá chia thành exon và intron.",
+    "Gene nhân thực không có vùng điều hoà.",
+    "Ở nhân sơ, các gene có liên quan về chức năng thường tồn tại thành nhóm với các vùng mã hoá liền kề nhau, chung một vùng điều hoà và một vùng kết thúc; phần lớn gene nhân thực có vùng mã hoá chia thành exon và intron.",
+    "Ở nhân thực, các gene luôn xếp thành nhóm chung một vùng điều hoà."
+   ],
+   "answer": 2,
+   "explain": "Theo SGK: ở sinh vật nhân sơ, các gene liên quan về chức năng thường tồn tại thành nhóm, chung một vùng điều hoà và một vùng kết thúc; ở sinh vật nhân thực, phần lớn gene có vùng mã hoá chia thành exon (được dịch mã) và intron (không được dịch mã).",
+   "id": "B02-006"
+  },
+  {
+   "type": "mcq",
+   "q": "Theo chức năng, gene điều hoà là gene:",
+   "options": [
+    "mã hoá các sản phẩm cấu tạo nên thành phần của tế bào.",
+    "chỉ có ở sinh vật nhân thực.",
+    "tạo ra sản phẩm điều hoà sự biểu hiện của các gene khác.",
+    "không phiên mã."
+   ],
+   "answer": 2,
+   "explain": "Theo chức năng, gene gồm gene cấu trúc (tạo sản phẩm cấu tạo nên thành phần của tế bào) và gene điều hoà (tạo sản phẩm điều hoà sự biểu hiện của các gene khác). <b>Bẫy:</b> ý \"mã hoá các sản phẩm cấu tạo nên thành phần của tế bào\" là gene cấu trúc.",
+   "id": "B02-007"
+  },
+  {
+   "type": "mcq",
+   "q": "Tập hợp tất cả các gene trong tế bào của một sinh vật có được gọi là hệ gene hay không?",
+   "options": [
+    "Có, vì hệ gene chỉ gồm các gene.",
+    "Không, vì hệ gene là tập hợp tất cả vật chất di truyền (DNA) trong tế bào, gồm cả gene và các trình tự DNA không phải gene.",
+    "Có, vì mọi trình tự DNA đều là gene.",
+    "Không, vì hệ gene chỉ gồm DNA ở NST."
+   ],
+   "answer": 1,
+   "explain": "Hệ gene là tập hợp tất cả vật chất di truyền (DNA) trong tế bào của một sinh vật, nên bao gồm cả gene và các trình tự không phải gene. <b>Bẫy:</b> gene chỉ là một phần của hệ gene.",
+   "id": "B02-008"
+  },
+  {
+   "type": "mcq",
+   "q": "Ở người, hệ gene được giải trình tự năm 2004 (còn một số vùng nhỏ chưa giải xong). Phát biểu nào đúng?",
+   "options": [
+    "Hệ gene người gồm hơn 3,2 tỉ cặp nucleotide trên 23 cặp NST.",
+    "Hệ gene người gồm hơn 3,2 triệu cặp nucleotide trên 46 cặp NST.",
+    "Tổng số nucleotide trong các intron chiếm khoảng 5% hệ gene.",
+    "Số gene mã hoá protein ước tính khoảng 2 130 gene."
+   ],
+   "answer": 0,
+   "explain": "SGK: năm 2004 đã giải trình tự hệ gene người gồm hơn 3,2 tỉ cặp nucleotide trên 23 cặp NST, độ chính xác 99,999%; số gene mã hoá protein ước tính khoảng 21 300; intron chiếm xấp xỉ 20% hệ gene. <b>Bẫy:</b> đổi đơn vị (tỉ → triệu), đổi số NST, đổi con số (21 300 → 2 130), đổi % (intron ≈ 20%, vùng điều hoà ≈ 5%).",
+   "id": "B02-009"
+  },
+  {
+   "type": "mcq",
+   "q": "Trong hệ gene người, tổng số nucleotide trong tất cả các intron chiếm xấp xỉ:",
+   "options": [
+    "1,5% hệ gene.",
+    "5% hệ gene.",
+    "50% hệ gene.",
+    "20% hệ gene."
+   ],
+   "answer": 3,
+   "explain": "Tổng số nucleotide trong tất cả các intron chiếm xấp xỉ 20% hệ gene người. <b>Bẫy:</b> 1,5% là exon + vùng mã hoá rRNA, tRNA; 5% là vùng điều hoà.",
+   "id": "B02-010"
+  },
+  {
+   "type": "mcq",
+   "q": "Khi so sánh hệ gene người với hệ gene các loài linh trưởng, loài có quan hệ họ hàng gần gũi nhất với người là:",
+   "options": [
+    "khỉ rhesus.",
+    "đười ươi.",
+    "tinh tinh.",
+    "vượn."
+   ],
+   "answer": 2,
+   "explain": "SGK: khi so sánh hệ gene người với hệ gene các loài linh trưởng, tinh tinh có quan hệ họ hàng gần gũi nhất với loài người. <b>Bẫy:</b> hệ gene càng giống nhau thì quan hệ họ hàng càng gần.",
+   "id": "B02-011"
+  },
+  {
+   "type": "mcq",
+   "q": "Phiên mã là quá trình:",
+   "options": [
+    "tổng hợp RNA dựa trên mạch khuôn của gene.",
+    "tổng hợp chuỗi polypeptide dựa trên trình tự nucleotide của mRNA.",
+    "nhân đôi DNA.",
+    "tổng hợp DNA dựa trên mạch khuôn RNA."
+   ],
+   "answer": 0,
+   "explain": "Phiên mã là quá trình tổng hợp RNA dựa trên mạch khuôn của gene. <b>Bẫy:</b> tổng hợp chuỗi polypeptide từ mRNA là dịch mã; tổng hợp DNA trên khuôn RNA là phiên mã ngược.",
+   "id": "B02-012"
+  },
+  {
+   "type": "mcq",
+   "q": "Trong phiên mã, nucleotide loại A trên mạch khuôn của gene liên kết bổ sung với nucleotide nào của môi trường nội bào?",
+   "options": [
+    "U.",
+    "T.",
+    "G.",
+    "A."
+   ],
+   "answer": 0,
+   "explain": "Khi phiên mã, A của mạch khuôn liên kết với U, T với A, G với C, C với G (A–U, T–A, G–C, C–G). <b>Bẫy:</b> A khuôn → U; còn khi tái bản thì A khuôn → T.",
+   "id": "B02-013"
+  },
+  {
+   "type": "mcq",
+   "q": "Enzyme RNA polymerase tổng hợp mRNA theo chiều nào, và quá trình phiên mã kết thúc khi enzyme gặp tín hiệu kết thúc ở đâu?",
+   "options": [
+    "Chiều 3' → 5'; tín hiệu ở đầu 3' của mạch khuôn.",
+    "Chiều 5' → 3'; tín hiệu ở đầu 3' của mạch khuôn.",
+    "Chiều 5' → 3'; tín hiệu ở đầu 5' của mạch khuôn.",
+    "Chiều 3' → 5'; tín hiệu ở đầu 5' của mạch khuôn."
+   ],
+   "answer": 2,
+   "explain": "RNA polymerase tổng hợp mRNA theo chiều 5' → 3' dựa trên NTBS; phiên mã kết thúc khi RNA polymerase gặp tín hiệu kết thúc ở đầu 5' của mạch khuôn. <b>Bẫy:</b> hai vế đều có thể bị đảo.",
+   "id": "B02-014"
+  },
+  {
+   "type": "mcq",
+   "q": "Khi nói về sự hoàn thiện mRNA ở sinh vật nhân thực, đuôi poly A được gắn vào:",
+   "options": [
+    "đầu 5' của mRNA.",
+    "đầu 3' của mạch khuôn DNA.",
+    "giữa exon 1 và exon 2.",
+    "đầu 3' của mRNA."
+   ],
+   "answer": 3,
+   "explain": "Ở nhân thực, tiền mRNA được gắn nucleotide 7-methylguanine ở đầu 5' và chuỗi nucleotide loại adenine (đuôi poly A) ở đầu 3'. <b>Bẫy:</b> mũ 7-methylguanine mới ở đầu 5'.",
+   "id": "B02-015"
+  },
+  {
+   "type": "mcq",
+   "q": "Ở sinh vật nhân thực, tiền mRNA được hoàn thiện thành mRNA trưởng thành bằng cách:",
+   "options": [
+    "cắt bỏ các exon và nối các intron lại.",
+    "cắt bỏ các intron và nối các exon lại, thêm mũ 7-methylguanine ở đầu 5' và đuôi poly A ở đầu 3'.",
+    "chỉ thêm đuôi poly A.",
+    "nối trực tiếp tiền mRNA với ribosome."
+   ],
+   "answer": 1,
+   "explain": "Ở nhân thực, tiền mRNA bị loại bỏ intron, các exon được nối với nhau, thêm mũ 7-methylguanine và đuôi poly A để tạo mRNA trưởng thành. <b>Bẫy:</b> đổi exon ↔ intron (nói cắt bỏ exon, nối intron). Exon được dịch mã, intron thì không.",
+   "id": "B02-016"
+  },
+  {
+   "type": "mcq",
+   "q": "Loại RNA nào làm khuôn cho quá trình dịch mã?",
+   "options": [
+    "mRNA.",
+    "rRNA.",
+    "tRNA.",
+    "DNA."
+   ],
+   "answer": 0,
+   "explain": "mRNA làm khuôn cho quá trình dịch mã, truyền thông tin từ gene tới ribosome.",
+   "id": "B02-017"
+  },
+  {
+   "type": "mcq",
+   "q": "Phân tử tRNA liên kết với amino acid tại vị trí nào?",
+   "options": [
+    "Bộ ba đối mã (anticodon).",
+    "Thuỳ liên kết với protein của ribosome.",
+    "Đầu 3' của phân tử tRNA.",
+    "Đầu 5' của phân tử tRNA."
+   ],
+   "answer": 2,
+   "explain": "SGK: đầu 3' của tất cả các loại tRNA có cấu trúc giống nhau và là nơi liên kết với amino acid; bộ ba đối mã dùng để nhận ra codon trên mRNA. <b>Bẫy:</b> anticodon dùng để nhận biết codon, không phải để gắn amino acid.",
+   "id": "B02-018"
+  },
+  {
+   "type": "mcq",
+   "q": "Vì có 20 loại amino acid, mỗi loại có tRNA vận chuyển riêng nên tế bào phải có tối thiểu bao nhiêu loại tRNA?",
+   "options": [
+    "61.",
+    "20.",
+    "64.",
+    "3."
+   ],
+   "answer": 1,
+   "explain": "Có 20 loại amino acid, mỗi loại có tRNA vận chuyển riêng nên tế bào phải có tối thiểu 20 loại tRNA (hầu hết tế bào có 30–40 loại). <b>Bẫy:</b> 61 và 64 là số bộ ba, không phải số loại amino acid.",
+   "id": "B02-019"
+  },
+  {
+   "type": "mcq",
+   "q": "rRNA có chức năng:",
+   "options": [
+    "mang thông tin di truyền từ DNA tới ribosome.",
+    "vận chuyển amino acid tới ribosome.",
+    "cắt intron khỏi tiền mRNA.",
+    "là thành phần cấu tạo nên ribosome."
+   ],
+   "answer": 3,
+   "explain": "Tất cả các loại rRNA đều là thành phần cấu tạo nên ribosome; mRNA mang thông tin, tRNA vận chuyển amino acid.",
+   "id": "B02-020"
+  },
+  {
+   "type": "mcq",
+   "q": "Phiên mã ngược là quá trình:",
+   "options": [
+    "tổng hợp DNA dựa trên mạch khuôn là RNA nhờ enzyme phiên mã ngược.",
+    "tổng hợp RNA dựa trên khuôn DNA theo chiều 3' → 5'.",
+    "dịch mã mRNA theo chiều 3' → 5'.",
+    "tổng hợp protein dựa trên khuôn RNA."
+   ],
+   "answer": 0,
+   "explain": "Phiên mã ngược là quá trình tổng hợp DNA dựa trên mạch khuôn là RNA nhờ enzyme phiên mã ngược. <b>Bẫy:</b> \"ngược\" ở đây là ngược hướng truyền thông tin (RNA → DNA), không phải ngược chiều 3' → 5'.",
+   "id": "B02-021"
+  },
+  {
+   "type": "mcq",
+   "q": "Ở tế bào sinh giao tử của cơ thể nhân thực, enzyme telomerase có vai trò:",
+   "options": [
+    "nối các đoạn Okazaki.",
+    "cắt đầu mút NST.",
+    "dùng một mạch RNA có sẵn trong enzyme làm khuôn để tổng hợp mạch DNA gắn vào đầu mút NST, phục hồi đoạn bị ngắn đi khi nhân đôi.",
+    "phiên mã gene ở đầu mút NST."
+   ],
+   "answer": 2,
+   "explain": "Telomerase dùng một mạch RNA có sẵn trong enzyme làm khuôn tổng hợp mạch DNA gắn vào đoạn DNA ở đầu mút NST, nhờ đó đoạn bị ngắn đi khi nhân đôi được phục hồi ở các giao tử.",
+   "id": "B02-022"
+  },
+  {
+   "type": "mcq",
+   "q": "DNA bổ sung (cDNA) tổng hợp từ mRNA trưởng thành thường được dùng trong công nghệ gene để:",
+   "options": [
+    "chuyển gene không còn intron của sinh vật nhân thực vào tế bào vi khuẩn.",
+    "chuyển gene chứa nhiều intron vào tế bào vi khuẩn.",
+    "tổng hợp RNA từ protein.",
+    "tạo mRNA từ DNA."
+   ],
+   "answer": 0,
+   "explain": "Vi khuẩn không có khả năng cắt intron, nên cDNA (không còn intron) tổng hợp từ mRNA trưởng thành được dùng để chuyển gene của sinh vật nhân thực vào tế bào vi khuẩn. <b>Bẫy:</b> vi khuẩn không có khả năng cắt intron, nên cần gene không còn intron.",
+   "id": "B02-023"
+  },
+  {
+   "type": "mcq",
+   "q": "Tính chất \"nhiều bộ ba khác nhau cùng quy định một amino acid\" của mã di truyền gọi là:",
+   "options": [
+    "tính đặc hiệu.",
+    "tính phổ biến.",
+    "tính liên tục.",
+    "tính thoái hoá."
+   ],
+   "answer": 3,
+   "explain": "Tính thoái hoá: nhiều bộ ba khác nhau cùng quy định một amino acid (ví dụ alanine do 4 bộ ba khác nhau quy định). <b>Bẫy:</b> đặc hiệu = mỗi bộ ba chỉ mã hoá một amino acid.",
+   "id": "B02-024"
+  },
+  {
+   "type": "mcq",
+   "q": "Bộ ba kết thúc trên mRNA là:",
+   "options": [
+    "AUG, UGG, UAA.",
+    "UAA, UAG, UGA.",
+    "UAA, UGG, UAG.",
+    "AUG, UAG, UGA."
+   ],
+   "answer": 1,
+   "explain": "Ba bộ ba kết thúc là UAA, UAG, UGA; chúng không mã hoá amino acid. <b>Bẫy:</b> UGG mã hoá Trp, AUG là bộ ba mở đầu (mã hoá Met).",
+   "id": "B02-025"
+  },
+  {
+   "type": "mcq",
+   "q": "Trong dịch mã, ribosome dịch chuyển trên mRNA theo chiều:",
+   "options": [
+    "3' → 5'.",
+    "cả hai chiều xen kẽ.",
+    "tuỳ từng mRNA.",
+    "5' → 3'."
+   ],
+   "answer": 3,
+   "explain": "Ribosome dịch chuyển trên mRNA theo chiều 5' → 3', từ bộ ba này sang bộ ba kế tiếp.",
+   "id": "B02-026"
+  },
+  {
+   "type": "mcq",
+   "q": "Bộ ba 5'–GGU–3' trên mRNA khớp bổ sung với bộ ba đối mã (anticodon) nào của tRNA?",
+   "options": [
+    "3'–CCA–5'.",
+    "5'–CCA–3'.",
+    "3'–GGU–5'.",
+    "3'–CCU–5'."
+   ],
+   "answer": 0,
+   "explain": "Anticodon bổ sung và đối song song với codon: codon 5'–GGU–3' ↔ anticodon 3'–CCA–5'. <b>Bẫy:</b> quên đối song song (5'–CCA–3'), quên thay A–U (3'–CCU–5').",
+   "id": "B02-027"
+  },
+  {
+   "type": "tf",
+   "q": "Xét tính đúng/sai của mỗi phát biểu sau về cấu trúc gene ở sinh vật nhân thực.",
+   "items": [
+    {
+     "t": "Vùng điều hoà nằm ở đầu 3' trên mạch khuôn.",
+     "a": true
+    },
+    {
+     "t": "Vùng mã hoá chứa thông tin quy định trình tự các nucleotide trong phân tử RNA.",
+     "a": true
+    },
+    {
+     "t": "Vùng kết thúc nằm ở đầu 5' trên mạch khuôn.",
+     "a": true
+    },
+    {
+     "t": "Vùng mã hoá của phần lớn gene gồm exon và intron xen kẽ.",
+     "a": true
+    }
+   ],
+   "explain": "Ý đúng: a, b, c, d. Không có ý sai. Cả bốn phát biểu đều đúng. <b>Bẫy:</b> đáp án \"chọn hết\" — đừng nghi ngờ vô cớ khi đã kiểm từng ý.",
+   "id": "B02-028"
+  },
+  {
+   "type": "tf",
+   "q": "Mỗi chất sau có phải là một loại RNA được tạo ra từ quá trình phiên mã hay không? (Đúng = có phải)",
+   "items": [
+    {
+     "t": "mRNA.",
+     "a": true
+    },
+    {
+     "t": "tRNA.",
+     "a": true
+    },
+    {
+     "t": "rRNA.",
+     "a": true
+    },
+    {
+     "t": "Chuỗi polypeptide.",
+     "a": false
+    }
+   ],
+   "explain": "Ý đúng: a, b, c. Ý sai: d. Chuỗi polypeptide là sản phẩm của dịch mã.",
+   "id": "B02-029"
+  },
+  {
+   "type": "tf",
+   "q": "Mỗi thành phần sau có tham gia TRỰC TIẾP vào quá trình dịch mã hay không? (Đúng = có tham gia)",
+   "items": [
+    {
+     "t": "mRNA.",
+     "a": true
+    },
+    {
+     "t": "tRNA mang amino acid.",
+     "a": true
+    },
+    {
+     "t": "Ribosome.",
+     "a": true
+    },
+    {
+     "t": "Mạch khuôn DNA của gene.",
+     "a": false
+    }
+   ],
+   "explain": "Ý đúng: a, b, c. Ý sai: d. DNA không tham gia trực tiếp vào dịch mã.",
+   "id": "B02-030"
+  },
+  {
+   "type": "tf",
+   "q": "Xét tính đúng/sai của mỗi phát biểu sau về mã di truyền.",
+   "items": [
+    {
+     "t": "Mã di truyền là mã bộ ba, được đọc theo từng bộ ba liên tiếp, không gối lên nhau.",
+     "a": true
+    },
+    {
+     "t": "Có 61 bộ ba mã hoá amino acid và 3 bộ ba kết thúc.",
+     "a": true
+    },
+    {
+     "t": "Mã di truyền có tính thoái hoá và tính đặc hiệu.",
+     "a": true
+    },
+    {
+     "t": "Mã di truyền có tính phổ biến nhưng vẫn có một số trường hợp ngoại lệ.",
+     "a": true
+    }
+   ],
+   "explain": "Mã di truyền là mã bộ ba, đọc liên tiếp, có tính thoái hoá, đặc hiệu, phổ biến (có ngoại lệ); 64 bộ ba gồm 61 bộ ba mã hoá amino acid và 3 bộ ba kết thúc. Ý đúng: a, b, c, d. Không có ý sai.",
+   "id": "B02-031"
+  },
+  {
+   "type": "mcq",
+   "q": "Khi nói về quá trình phiên mã, có bao nhiêu phát biểu đúng?<br>a. RNA polymerase tổng hợp mRNA theo chiều 5' → 3'.<br>b. Nucleotide G của môi trường liên kết bổ sung với nucleotide C của mạch khuôn.<br>c. Phiên mã diễn ra đồng thời trên cả hai mạch của gene.<br>d. Nucleotide U của môi trường liên kết bổ sung với nucleotide G của mạch khuôn.",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 1,
+   "explain": "Xét từng phát biểu: a, b đúng. c sai: chỉ mạch khuôn được phiên mã. d sai: U–A.",
+   "id": "B02-032",
+   "noShuffle": true
+  },
+  {
+   "type": "mcq",
+   "q": "Khi nói về các loại RNA, có bao nhiêu phát biểu SAI?<br>a. mRNA mang thông tin quy định trình tự amino acid.<br>b. tRNA có bộ ba đối mã bổ sung với bộ ba mã hoá trên mRNA.<br>c. rRNA là thành phần cấu tạo ribosome.<br>d. Mọi loại mRNA đều có cấu trúc mạch kép.",
+   "options": [
+    "0",
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 1,
+   "explain": "Xét từng phát biểu: d sai. mRNA có cấu trúc mạch đơn, dạng thẳng.",
+   "id": "B02-033",
+   "noShuffle": true
+  },
+  {
+   "type": "mcq",
+   "q": "Khi nói về phiên mã ngược, có bao nhiêu phát biểu đúng?<br>a. Là quá trình tổng hợp DNA dựa trên mạch khuôn RNA.<br>b. Thường gặp ở một số loại virus có vật chất di truyền là RNA, ví dụ HIV.<br>c. Telomerase dùng một mạch RNA có sẵn trong enzyme làm khuôn để kéo dài đầu mút NST.<br>d. DNA tổng hợp từ virus có thể được tích hợp vào hệ gene của tế bào chủ.",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 3,
+   "explain": "Phiên mã ngược là tổng hợp DNA dựa trên khuôn RNA; thường gặp ở virus có vật chất di truyền là RNA (như HIV), telomerase là ví dụ ở tế bào sinh giao tử. Xét từng phát biểu: cả 4 đúng.",
+   "id": "B02-034",
+   "noShuffle": true
+  },
+  {
+   "type": "mcq",
+   "q": "Về dịch mã, có bao nhiêu phát biểu SAI?<br>a. Giai đoạn khởi đầu: tiểu phần nhỏ của ribosome liên kết với bộ ba mở đầu AUG trên mRNA.<br>b. tRNA mang amino acid mở đầu liên kết với bộ ba mở đầu rồi tiểu phần lớn mới gắn vào.<br>c. Khi ribosome gặp bộ ba kết thúc, có tRNA đặc hiệu mang amino acid cuối cùng tới.<br>d. Nhiều ribosome có thể cùng dịch mã trên một mRNA (polyribosome).",
+   "options": [
+    "0",
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 1,
+   "explain": "Xét từng phát biểu: c sai. Bộ ba kết thúc không có tRNA nào liên kết; yếu tố giải phóng làm tách chuỗi polypeptide.",
+   "id": "B02-035",
+   "noShuffle": true
+  },
+  {
+   "type": "tf",
+   "q": "Khi nói về cấu trúc gene ở sinh vật nhân sơ, xét tính đúng/sai:",
+   "items": [
+    {
+     "t": "Các gene có liên quan về chức năng thường tồn tại thành nhóm với các vùng mã hoá liền kề nhau.",
+     "a": true
+    },
+    {
+     "t": "Một nhóm gene như vậy có chung một vùng điều hoà và một vùng kết thúc.",
+     "a": true
+    },
+    {
+     "t": "Vùng mã hoá của gene nhân sơ gồm exon và intron xen kẽ.",
+     "a": false
+    },
+    {
+     "t": "Vùng điều hoà nằm ở đầu 5' trên mạch khuôn.",
+     "a": false
+    }
+   ],
+   "explain": "Ý đúng: a, b. Ý sai: c, d. c sai (gene nhân sơ không phân mảnh); d sai (vùng điều hoà ở đầu 3').",
+   "id": "B02-036"
+  },
+  {
+   "type": "tf",
+   "q": "Một đoạn mRNA có trình tự 5'–AUGGUUGCC–3'. Xét tính đúng/sai:",
+   "items": [
+    {
+     "t": "Mã di truyền được đọc theo từng bộ ba: AUG – GUU – GCC.",
+     "a": true
+    },
+    {
+     "t": "Bộ ba AUG vừa là tín hiệu mở đầu dịch mã vừa mã hoá amino acid (Met).",
+     "a": true
+    },
+    {
+     "t": "Bộ ba GCC và bộ ba GCA mã hoá cùng một amino acid (Ala), chứng tỏ mã di truyền có tính thoái hoá.",
+     "a": true
+    },
+    {
+     "t": "Nếu bộ ba UGG mã hoá hai loại amino acid khác nhau thì mã di truyền vẫn có tính đặc hiệu.",
+     "a": false
+    }
+   ],
+   "explain": "Ý đúng: a, b, c. Ý sai: d. d sai, đặc hiệu là mỗi bộ ba chỉ mã hoá một amino acid; UGG chỉ mã hoá Trp.",
+   "id": "B02-037"
+  },
+  {
+   "type": "tf",
+   "q": "Khi nói về giai đoạn kéo dài chuỗi polypeptide, xét tính đúng/sai:",
+   "items": [
+    {
+     "t": "tRNA mang amino acid tiến vào vị trí A của ribosome.",
+     "a": true
+    },
+    {
+     "t": "Liên kết peptide được hình thành giữa amino acid ở vị trí A và amino acid ở vị trí P.",
+     "a": true
+    },
+    {
+     "t": "Sau mỗi bước, ribosome dịch chuyển trên mRNA theo chiều 3' → 5'.",
+     "a": false
+    },
+    {
+     "t": "tRNA đã giải phóng amino acid sẽ rời ribosome qua vị trí E.",
+     "a": true
+    }
+   ],
+   "explain": "Ý đúng: a, b, d. Ý sai: c. c sai vì ribosome dịch chuyển 5' → 3'.",
+   "id": "B02-038"
+  },
+  {
+   "type": "tf",
+   "q": "Khi nói về hệ gene người, xét tính đúng/sai:",
+   "items": [
+    {
+     "t": "Hệ gene người được giải trình tự (gần hoàn chỉnh) năm 2004.",
+     "a": true
+    },
+    {
+     "t": "Số gene mã hoá protein ước tính khoảng 21 300.",
+     "a": true
+    },
+    {
+     "t": "Intron chiếm khoảng 1,5% hệ gene.",
+     "a": false
+    },
+    {
+     "t": "Giải trình tự hệ gene giúp tìm thủ phạm trong các vụ án hoặc xác định quan hệ họ hàng.",
+     "a": true
+    }
+   ],
+   "explain": "Ý đúng: a, b, d. Ý sai: c. c sai: intron ≈ 20%; 1,5% là tổng exon cộng vùng mã hoá rRNA, tRNA.",
+   "id": "B02-039"
+  },
+  {
+   "type": "short",
+   "q": "Một mRNA có trình tự 5'–AUG GAU CCA AGU GCG GUU GCA UAA GUA GGA–3' được dịch mã. Chuỗi polypeptide vừa tổng hợp xong (tính cả amino acid mở đầu) có bao nhiêu amino acid?",
+   "answer": "7",
+   "explain": "Đọc từ AUG: AUG, GAU, CCA, AGU, GCG, GUU, GCA = 7 bộ ba; gặp UAA thì dừng, UAA không mã hoá amino acid.",
+   "id": "B02-040"
+  },
+  {
+   "type": "short",
+   "q": "Một phân tử mRNA có 900 nucleotide, tính cả bộ ba mở đầu và bộ ba kết thúc. Chuỗi polypeptide vừa dịch mã xong (tính cả amino acid mở đầu) có bao nhiêu amino acid?",
+   "answer": "299",
+   "explain": "900 : 3 = 300 bộ ba, trừ 1 bộ ba kết thúc = 299. <b>Bẫy:</b> quên trừ bộ ba kết thúc (300), hoặc trừ cả amino acid mở đầu (298).",
+   "id": "B02-041"
+  },
+  {
+   "type": "short",
+   "q": "Từ hai loại nucleotide A và G, có thể tạo ra tối đa bao nhiêu loại bộ ba mRNA mã hoá amino acid?",
+   "answer": "8",
+   "explain": "2<sup>3</sup> = 8 loại bộ ba (AAA, AAG, AGA, AGG, GAA, GAG, GGA, GGG), không bộ ba nào là bộ ba kết thúc (UAA, UAG, UGA đều chứa U).",
+   "id": "B02-042"
+  }
+ ]
+}

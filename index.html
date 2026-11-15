@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<!-- viewport-fit=cover: cho Android/iOS vẽ sát mép màn hình, CSS tự chừa safe-area -->
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#061816">
+<title>Ôn tập sinh 12</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<!-- #app: mọi màn hình (danh sách bài / làm bài / kết quả) được app.js vẽ vào đây -->
+<div id="app"></div>
+<!-- #sheet: bảng chọn bài. PC = modal giữa màn, Android = bottom sheet vuốt xuống để đóng -->
+<div id="sheet" class="sheet-wrap" hidden></div>
+<!-- #dlg: hộp thoại xác nhận (nộp bài / rời bài làm), tự vẽ thay cho confirm() của trình duyệt -->
+<div id="dlg" class="sheet-wrap dlg" hidden></div>
+<!-- THỨ TỰ NẠP: validate.js (kiểm tra câu hỏi, dùng chung với kiem-tra.html) trước, app.js sau.
+     Câu hỏi nằm trong data/*.json và được nạp bằng fetch => phải mở qua Live Server hoặc GitHub Pages (file:// bị trình duyệt chặn) -->
+<script src="validate.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

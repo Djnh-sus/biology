@@ -1,0 +1,624 @@
+{
+ "questions": [
+  {
+   "id": "B08-001",
+   "type": "mcq",
+   "q": "Gregor Johann Mendel (1822 – 1884) là:",
+   "options": [
+    "một nhà hoá học người Pháp.",
+    "một nhà sinh học người Anh chuyên nghiên cứu ruồi giấm.",
+    "một nhà giáo, nhà khoa học tự nhiên người Czech đam mê công tác chọn giống thực vật.",
+    "một nhà vật lí người Đức."
+   ],
+   "answer": 2,
+   "explain": "Đáp án đúng: một nhà giáo, nhà khoa học tự nhiên người Czech đam mê công tác chọn giống thực vật. <b>Bẫy:</b> ruồi giấm là đối tượng của Morgan (Bài 10)."
+  },
+  {
+   "id": "B08-002",
+   "type": "mcq",
+   "q": "Vào những năm đầu của thế kỉ XIX, nhiều nhà sinh học tin vào học thuyết nào về sự di truyền?",
+   "options": [
+    "Thuyết di truyền hạt.",
+    "Thuyết di truyền pha trộn.",
+    "Thuyết tiến hoá tổng hợp.",
+    "Thuyết tế bào."
+   ],
+   "answer": 1,
+   "explain": "Đáp án đúng: Thuyết di truyền pha trộn."
+  },
+  {
+   "id": "B08-003",
+   "type": "mcq",
+   "q": "Theo thuyết di truyền pha trộn, vật chất di truyền:",
+   "options": [
+    "tồn tại dưới dạng chất lỏng như máu nên ở đời con có sự pha trộn vật chất di truyền của bố và mẹ.",
+    "được truyền nguyên vẹn từ thế hệ này sang thế hệ khác.",
+    "không có ở sinh vật.",
+    "chỉ được truyền qua mẹ."
+   ],
+   "answer": 0,
+   "explain": "Đáp án đúng: tồn tại dưới dạng chất lỏng như máu nên ở đời con có sự pha trộn vật chất di truyền của bố và mẹ."
+  },
+  {
+   "id": "B08-004",
+   "type": "mcq",
+   "q": "Mendel nhận thấy thuyết di truyền pha trộn chưa đúng vì:",
+   "options": [
+    "thuyết này giải thích được mọi hiện tượng.",
+    "nhiều đặc điểm của sinh vật được truyền một cách nguyên vẹn từ thế hệ này sang thế hệ khác mà không hoà trộn với nhau ở đời con.",
+    "con cái luôn giống hệt bố mẹ.",
+    "ông không có số liệu nào."
+   ],
+   "answer": 1,
+   "explain": "Một tính trạng không biểu hiện ở thế hệ con vẫn có thể xuất hiện lại ở thế hệ cháu."
+  },
+  {
+   "id": "B08-005",
+   "type": "mcq",
+   "q": "Phương pháp nghiên cứu độc đáo giúp Mendel phát hiện ra các quy luật di truyền là:",
+   "options": [
+    "chỉ quan sát mô tả bằng mắt thường.",
+    "tiến hành các phân tích định lượng, dùng cỡ mẫu lớn và toán xác suất để giải thích kết quả.",
+    "dùng kính hiển vi điện tử.",
+    "giải trình tự DNA."
+   ],
+   "answer": 1,
+   "explain": "Nhờ biết lựa chọn đối tượng nghiên cứu thích hợp, quan sát, đề xuất giả thuyết, làm thí nghiệm kiểm chứng và sử dụng toán xác suất."
+  },
+  {
+   "id": "B08-006",
+   "type": "mcq",
+   "q": "Đối tượng nghiên cứu chính của Mendel là:",
+   "options": [
+    "hoa mõm chó.",
+    "ruồi giấm.",
+    "đậu Hà Lan (Pisum sativum).",
+    "ong mật."
+   ],
+   "answer": 2,
+   "explain": "Đáp án đúng: đậu Hà Lan (Pisum sativum)."
+  },
+  {
+   "id": "B08-007",
+   "type": "mcq",
+   "q": "Mendel chọn đậu Hà Lan làm đối tượng nghiên cứu vì đậu Hà Lan:",
+   "options": [
+    "là loài tự thụ phấn, thời gian thế hệ ngắn, có nhiều giống thuần chủng với các đặc điểm khác biệt, một cây cho ra nhiều hạt.",
+    "là loài giao phấn bắt buộc.",
+    "có thời gian thế hệ rất dài.",
+    "mỗi cây chỉ cho một hạt."
+   ],
+   "answer": 0,
+   "explain": "Đáp án đúng: là loài tự thụ phấn, thời gian thế hệ ngắn, có nhiều giống thuần chủng với các đặc điểm khác biệt, một cây cho ra nhiều hạt."
+  },
+  {
+   "id": "B08-008",
+   "type": "mcq",
+   "q": "Mendel đã tiến hành bảy phép lai một tính trạng, trong đó:",
+   "options": [
+    "các tính trạng đều quy định màu hoa.",
+    "mỗi tính trạng có bảy đặc tính.",
+    "mỗi tính trạng chỉ có một đặc tính.",
+    "mỗi tính trạng đều có hai đặc tính khác biệt nhau (ví dụ hoa tím và hoa trắng)."
+   ],
+   "answer": 3,
+   "explain": "Đáp án đúng: mỗi tính trạng đều có hai đặc tính khác biệt nhau (ví dụ hoa tím và hoa trắng)."
+  },
+  {
+   "id": "B08-009",
+   "type": "mcq",
+   "q": "Trước khi lai, Mendel đã tạo các dòng thuần chủng về từng đặc tính của mỗi tính trạng bằng cách:",
+   "options": [
+    "nuôi cấy mô.",
+    "lai các cây khác loài.",
+    "chiếu tia phóng xạ vào hạt.",
+    "cho các cây có đặc tính riêng (ví dụ hoa tím) tự thụ phấn qua nhiều thế hệ."
+   ],
+   "answer": 3,
+   "explain": "Đáp án đúng: cho các cây có đặc tính riêng (ví dụ hoa tím) tự thụ phấn qua nhiều thế hệ."
+  },
+  {
+   "id": "B08-010",
+   "type": "mcq",
+   "q": "Trình tự đúng các bước trong phương pháp nghiên cứu di truyền của Mendel là:",
+   "options": [
+    "đề xuất giả thuyết → thống kê → tạo dòng thuần chủng → lai → chứng minh.",
+    "thí nghiệm chứng minh → tạo dòng thuần chủng → lai.",
+    "lai F1 với F2 → tạo dòng thuần chủng → thống kê.",
+    "chọn và tạo dòng thuần chủng → lai hai dòng thuần chủng khác nhau thu F1 → cho F1 tự thụ phấn thu F2 → thống kê số liệu, đưa ra giả thuyết → thí nghiệm chứng minh giả thuyết."
+   ],
+   "answer": 3,
+   "explain": "Đáp án đúng: chọn và tạo dòng thuần chủng → lai hai dòng thuần chủng khác nhau thu F1 → cho F1 tự thụ phấn thu F2 → thống kê số liệu, đưa ra giả thuyết → thí nghiệm chứng minh giả thuyết. <b>Bẫy:</b> phải có dòng thuần chủng trước khi lai; giả thuyết được đề xuất sau khi thống kê số liệu và rồi mới kiểm chứng."
+  },
+  {
+   "id": "B08-011",
+   "type": "mcq",
+   "q": "Phép lai thuận nghịch là phép lai:",
+   "options": [
+    "giữa hai cây cùng kiểu hình.",
+    "♀ cây hoa tím × ♂ cây hoa trắng và ♀ cây hoa trắng × ♂ cây hoa tím.",
+    "giữa F1 với bố mẹ.",
+    "giữa hai cây khác loài."
+   ],
+   "answer": 1,
+   "explain": "Đổi vai trò bố mẹ trong hai phép lai."
+  },
+  {
+   "id": "B08-012",
+   "type": "mcq",
+   "q": "Khi lai hai cây đậu Hà Lan thuần chủng hoa tím và hoa trắng, F1 có kết quả:",
+   "options": [
+    "50% hoa tím : 50% hoa trắng.",
+    "100% cây hoa trắng.",
+    "75% hoa tím : 25% hoa trắng.",
+    "100% cây hoa tím."
+   ],
+   "answer": 3,
+   "explain": "Đáp án đúng: 100% cây hoa tím."
+  },
+  {
+   "id": "B08-013",
+   "type": "mcq",
+   "q": "Cho các cây F1 hoa tím tự thụ phấn, F2 có tỉ lệ kiểu hình:",
+   "options": [
+    "100% cây hoa tím.",
+    "75% cây hoa tím : 25% cây hoa trắng.",
+    "50% hoa tím : 50% hoa trắng.",
+    "25% hoa tím : 75% hoa trắng."
+   ],
+   "answer": 1,
+   "explain": "Đáp án đúng: 75% cây hoa tím : 25% cây hoa trắng."
+  },
+  {
+   "id": "B08-014",
+   "type": "mcq",
+   "q": "Cho các cây F2 hoa tím tự thụ phấn thu F3. Kết quả là:",
+   "options": [
+    "1/3 số cây F2 hoa tím cho đời con toàn hoa tím; 2/3 số cây F2 hoa tím cho đời con phân li 3 tím : 1 trắng.",
+    "tất cả cây F2 hoa tím đều cho đời con toàn hoa tím.",
+    "tất cả cây F2 hoa tím đều cho đời con phân li 3 : 1.",
+    "tất cả cây F2 hoa tím cho đời con toàn hoa trắng."
+   ],
+   "answer": 0,
+   "explain": "Điều này cho thấy 1/3 số cây F2 hoa tím thuần chủng, 2/3 có cấu trúc di truyền như F1 (dị hợp). <b>Bẫy:</b> đảo hai phân số 1/3 và 2/3."
+  },
+  {
+   "id": "B08-015",
+   "type": "mcq",
+   "q": "Xét về cấu trúc di truyền (kiểu gene), đời F2 trong thí nghiệm lai một tính trạng có tỉ lệ:",
+   "options": [
+    "1 AA : 2 Aa : 1 aa.",
+    "3 AA : 1 aa.",
+    "1 Aa : 1 aa.",
+    "9 : 3 : 3 : 1."
+   ],
+   "answer": 0,
+   "explain": "Tỉ lệ kiểu gene 1/4 trội thuần chủng : 2/4 dị hợp : 1/4 lặn thuần chủng; kiểu hình là 3 : 1. <b>Bẫy:</b> tỉ lệ kiểu hình (3 : 1) khác tỉ lệ kiểu gene (1 : 2 : 1)."
+  },
+  {
+   "id": "B08-016",
+   "type": "mcq",
+   "q": "Giả thuyết của Mendel để giải thích kết quả lai một tính trạng là:",
+   "options": [
+    "mỗi tính trạng do một cặp nhân tố di truyền quy định; các nhân tố tồn tại riêng rẽ, không pha trộn với nhau và được truyền nguyên vẹn từ bố mẹ qua giao tử sang con.",
+    "mỗi tính trạng do nhiều gene hoà trộn quy định.",
+    "các nhân tố di truyền hoà trộn với nhau trong cơ thể con.",
+    "mỗi giao tử chứa cả hai nhân tố của cặp."
+   ],
+   "answer": 0,
+   "explain": "Đáp án đúng: mỗi tính trạng do một cặp nhân tố di truyền quy định; các nhân tố tồn tại riêng rẽ, không pha trộn với nhau và được truyền nguyên vẹn từ bố mẹ qua giao tử sang con."
+  },
+  {
+   "id": "B08-017",
+   "type": "mcq",
+   "q": "Mendel kiểm chứng giả thuyết của mình bằng phép lai nào?",
+   "options": [
+    "Tự thụ phấn cây hoa trắng.",
+    "Phép lai giữa hai cây F2 hoa trắng.",
+    "Phép lai giữa hai cây hoa tím thuần chủng.",
+    "Phép lai kiểm nghiệm (lai phân tích): lai cây F1 hoa tím với cây hoa trắng thuần chủng."
+   ],
+   "answer": 3,
+   "explain": "Kết quả cho tỉ lệ kiểu hình ở đời con là 1/2 hoa tím : 1/2 hoa trắng, chứng tỏ F1 tạo hai loại giao tử với tỉ lệ bằng nhau."
+  },
+  {
+   "id": "B08-018",
+   "type": "mcq",
+   "q": "Nội dung quy luật phân li của Mendel là:",
+   "options": [
+    "các cặp nhân tố di truyền phân li độc lập với nhau.",
+    "mỗi tính trạng đều do một cặp nhân tố di truyền quy định, một có nguồn gốc từ bố, một từ mẹ; khi hình thành giao tử, các nhân tố di truyền phân li nhau về giao tử nên mỗi giao tử chỉ chứa một nhân tố.",
+    "mỗi giao tử chứa cả hai nhân tố của cặp.",
+    "các nhân tố di truyền hoà trộn vào nhau trong cơ thể."
+   ],
+   "answer": 1,
+   "explain": "Đáp án đúng: mỗi tính trạng đều do một cặp nhân tố di truyền quy định, một có nguồn gốc từ bố, một từ mẹ; khi hình thành giao tử, các nhân tố di truyền phân li nhau về giao tử nên mỗi giao tử chỉ chứa một nhân tố. <b>Bẫy:</b> phân li độc lập là quy luật thứ hai (các CẶP nhân tố khác nhau)."
+  },
+  {
+   "id": "B08-019",
+   "type": "mcq",
+   "q": "Cơ sở tế bào học của quy luật phân li là:",
+   "options": [
+    "sự tổ hợp ngẫu nhiên của các giao tử trong thụ tinh.",
+    "sự nhân đôi của NST ở kì trung gian.",
+    "sự phân li của cặp NST kép tương đồng trong giảm phân I và sự phân li của các chromatid trong giảm phân II, dẫn đến mỗi giao tử chỉ chứa một trong hai nhân tố di truyền.",
+    "sự trao đổi chéo giữa các chromatid."
+   ],
+   "answer": 2,
+   "explain": "Đáp án đúng: sự phân li của cặp NST kép tương đồng trong giảm phân I và sự phân li của các chromatid trong giảm phân II, dẫn đến mỗi giao tử chỉ chứa một trong hai nhân tố di truyền."
+  },
+  {
+   "id": "B08-020",
+   "type": "mcq",
+   "q": "Trong thí nghiệm lai hai tính trạng, Mendel lai cây hạt vàng, vỏ trơn thuần chủng với cây hạt xanh, vỏ nhăn thuần chủng. F2 phân li kiểu hình theo tỉ lệ:",
+   "options": [
+    "9 : 3 : 3 : 1.",
+    "3 : 1.",
+    "1 : 1 : 1 : 1.",
+    "9 : 7."
+   ],
+   "answer": 0,
+   "explain": "Đáp án đúng: 9 : 3 : 3 : 1."
+  },
+  {
+   "id": "B08-021",
+   "type": "mcq",
+   "q": "Mendel giải thích tỉ lệ phân li kiểu hình 9 : 3 : 3 : 1 ở đời F2 là do:",
+   "options": [
+    "hai cặp nhân tố di truyền phân li không độc lập.",
+    "hai cặp nhân tố di truyền quy định hai tính trạng phân li độc lập với nhau về các giao tử nên mỗi cây F1 tạo ra 4 loại giao tử với tỉ lệ ngang nhau; sự kết hợp ngẫu nhiên của các giao tử tạo 16 tổ hợp.",
+    "mỗi cây F1 tạo ra 2 loại giao tử.",
+    "nhân tố trội và nhân tố lặn hoà trộn thành một nhân tố mới."
+   ],
+   "answer": 1,
+   "explain": "Đáp án đúng: hai cặp nhân tố di truyền quy định hai tính trạng phân li độc lập với nhau về các giao tử nên mỗi cây F1 tạo ra 4 loại giao tử với tỉ lệ ngang nhau; sự kết hợp ngẫu nhiên của các giao tử tạo 16 tổ hợp."
+  },
+  {
+   "id": "B08-022",
+   "type": "mcq",
+   "q": "Ở F2 của phép lai hai tính trạng, mỗi tổ hợp nhân tố di truyền có xác suất bằng nhau là:",
+   "options": [
+    "1/9.",
+    "1/8.",
+    "1/4.",
+    "1/16."
+   ],
+   "answer": 3,
+   "explain": "Có 16 tổ hợp với xác suất bằng nhau 1/16."
+  },
+  {
+   "id": "B08-023",
+   "type": "mcq",
+   "q": "Phép lai kiểm nghiệm giữa cá thể F1 hạt vàng, vỏ trơn với cá thể thuần chủng hạt xanh, vỏ nhăn thu được đời con có tỉ lệ kiểu hình:",
+   "options": [
+    "9 : 3 : 3 : 1.",
+    "3 : 1.",
+    "1 : 1 : 1 : 1.",
+    "1 : 1."
+   ],
+   "answer": 2,
+   "explain": "Mỗi kiểu hình chiếm 1/4."
+  },
+  {
+   "id": "B08-024",
+   "type": "mcq",
+   "q": "Quy luật phân li độc lập của Mendel được phát biểu: \"Các cặp nhân tố di truyền quy định các cặp tính trạng:\"",
+   "options": [
+    "hoà trộn với nhau trong hợp tử.",
+    "luôn đi cùng nhau trong quá trình hình thành giao tử.",
+    "phân li độc lập với nhau trong quá trình hình thành giao tử.",
+    "không phân li trong giảm phân."
+   ],
+   "answer": 2,
+   "explain": "Đáp án đúng: phân li độc lập với nhau trong quá trình hình thành giao tử. <b>Bẫy:</b> đổi \"phân li độc lập\" thành \"luôn đi cùng nhau\" là sai bản chất."
+  },
+  {
+   "id": "B08-025",
+   "type": "mcq",
+   "q": "Cơ sở tế bào học của quy luật phân li độc lập là:",
+   "options": [
+    "sự trao đổi chéo.",
+    "sự phân li của chỉ một cặp NST.",
+    "sự phân li độc lập và tổ hợp tự do của các cặp NST tương đồng khác nhau trong giảm phân dẫn đến sự phân li độc lập và tổ hợp tự do của các cặp allele tương ứng.",
+    "sự nhân đôi DNA."
+   ],
+   "answer": 2,
+   "explain": "Đáp án đúng: sự phân li độc lập và tổ hợp tự do của các cặp NST tương đồng khác nhau trong giảm phân dẫn đến sự phân li độc lập và tổ hợp tự do của các cặp allele tương ứng."
+  },
+  {
+   "id": "B08-026",
+   "type": "mcq",
+   "q": "Các nhà di truyền học coi Mendel là người đặt nền móng cho di truyền học hiện đại vì các công trình nghiên cứu hiện đại:",
+   "options": [
+    "chứng minh vật chất di truyền là protein.",
+    "bác bỏ hoàn toàn các kết quả của Mendel.",
+    "đều khẳng định nhân tố di truyền chính là gene; mỗi cặp allele quy định tính trạng tương ứng với một cặp nhân tố của Mendel.",
+    "chứng minh di truyền pha trộn đúng."
+   ],
+   "answer": 2,
+   "explain": "Đáp án đúng: đều khẳng định nhân tố di truyền chính là gene; mỗi cặp allele quy định tính trạng tương ứng với một cặp nhân tố của Mendel."
+  },
+  {
+   "id": "B08-027",
+   "type": "mcq",
+   "q": "Điều kiện nào sau đây KHÔNG cần thiết để các quy luật di truyền của Mendel nghiệm đúng?",
+   "options": [
+    "Các gene nằm cùng trên một cặp NST và luôn di truyền cùng nhau.",
+    "Mỗi gene quy định một tính trạng, các cặp allele nằm trên các cặp NST tương đồng khác nhau.",
+    "Tính trạng trội phải trội hoàn toàn.",
+    "Bố mẹ thuần chủng, số lượng cá thể lai đủ lớn."
+   ],
+   "answer": 0,
+   "explain": "Phân li độc lập chỉ đúng khi các cặp allele nằm trên các cặp NST tương đồng khác nhau. <b>Bẫy:</b> câu hỏi \"KHÔNG cần thiết\" — chọn phương án đối lập với điều kiện nghiệm đúng."
+  },
+  {
+   "id": "B08-028",
+   "type": "mcq",
+   "q": "Về thí nghiệm lai một tính trạng của Mendel, có bao nhiêu phát biểu đúng?<br>a. Mendel chọn đậu Hà Lan vì là loài tự thụ phấn và có thời gian thế hệ ngắn.<br>b. F1 đồng tính, biểu hiện tính trạng trội.<br>c. F2 phân li kiểu hình theo tỉ lệ 1 : 2 : 1.<br>d. Lai cây hoa tím F1 (Aa) với cây hoa trắng cho tỉ lệ 1 tím : 1 trắng.",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 2,
+   "noShuffle": true,
+   "explain": "Ý đúng: a, b, d; ý sai: c. c sai: kiểu hình F2 là 3 : 1 (1 : 2 : 1 là tỉ lệ kiểu gene)."
+  },
+  {
+   "id": "B08-029",
+   "type": "mcq",
+   "q": "Về phương pháp nghiên cứu của Mendel, có bao nhiêu phát biểu SAI?<br>a. Mendel làm cả phép lai thuận và phép lai nghịch.<br>b. Mendel tạo dòng thuần chủng bằng cách cho tự thụ phấn qua nhiều thế hệ.<br>c. Mendel ủng hộ thuyết di truyền pha trộn.<br>d. Mendel sử dụng toán xác suất để giải thích kết quả.",
+   "options": [
+    "0",
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 1,
+   "noShuffle": true,
+   "explain": "Ý sai: c. Đáp án đúng: 1"
+  },
+  {
+   "id": "B08-030",
+   "type": "mcq",
+   "q": "Về thí nghiệm lai hai tính trạng của Mendel, có bao nhiêu phát biểu đúng?<br>a. Cây F1 dị hợp hai cặp gene tạo ra 4 loại giao tử với tỉ lệ ngang nhau.<br>b. F2 có 8 tổ hợp nhân tố di truyền.<br>c. F2 có 6 loại kiểu gene.<br>d. F2 có 4 loại kiểu hình.",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 1,
+   "noShuffle": true,
+   "explain": "Ý đúng: a, d; ý sai: b, c. F2 có 16 tổ hợp, 9 loại kiểu gene, 4 loại kiểu hình."
+  },
+  {
+   "id": "B08-031",
+   "type": "mcq",
+   "q": "Về cơ sở tế bào học và ý nghĩa, có bao nhiêu phát biểu SAI?<br>a. Cơ sở tế bào học của quy luật phân li là sự phân li của cặp NST tương đồng trong giảm phân.<br>b. Cơ sở tế bào học của quy luật phân li độc lập là sự phân li độc lập và tổ hợp tự do của các cặp NST tương đồng khác nhau.<br>c. Quy luật Mendel nghiệm đúng khi các gene nằm trên cùng một cặp NST.<br>d. Mendel khẳng định nhân tố di truyền chính là NST.",
+   "options": [
+    "0",
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 2,
+   "noShuffle": true,
+   "explain": "Ý sai: c, d. d sai: nghiên cứu hiện đại khẳng định nhân tố di truyền là gene."
+  },
+  {
+   "id": "B08-032",
+   "type": "tf",
+   "q": "Xét tính đúng/sai về bối cảnh ra đời thí nghiệm của Mendel:",
+   "items": [
+    {
+     "t": "Mendel là người Czech.",
+     "a": true
+    },
+    {
+     "t": "Thuyết di truyền pha trộn cho rằng vật chất di truyền tồn tại như chất lỏng, hoà trộn ở đời con.",
+     "a": true
+    },
+    {
+     "t": "Mendel ủng hộ thuyết di truyền pha trộn.",
+     "a": false
+    },
+    {
+     "t": "Kết quả thí nghiệm cho phép Mendel bác bỏ thuyết pha trộn và đề xuất học thuyết di truyền hạt.",
+     "a": true
+    }
+   ],
+   "explain": "Mendel nhận thấy thuyết pha trộn chưa đúng và bác bỏ nó."
+  },
+  {
+   "id": "B08-033",
+   "type": "tf",
+   "q": "Xét tính đúng/sai về lí do Mendel chọn đậu Hà Lan:",
+   "items": [
+    {
+     "t": "Là loài tự thụ phấn.",
+     "a": true
+    },
+    {
+     "t": "Thời gian thế hệ ngắn.",
+     "a": true
+    },
+    {
+     "t": "Có nhiều giống thuần chủng với các đặc điểm khác biệt dễ theo dõi.",
+     "a": true
+    },
+    {
+     "t": "Mỗi cây chỉ cho một hạt nên dễ đếm.",
+     "a": false
+    }
+   ],
+   "explain": "một cây có thể cho ra nhiều hạt."
+  },
+  {
+   "id": "B08-034",
+   "type": "tf",
+   "q": "Xét tính đúng/sai về lai một tính trạng (màu hoa) ở đậu Hà Lan:",
+   "items": [
+    {
+     "t": "F1 có 100% cây hoa tím.",
+     "a": true
+    },
+    {
+     "t": "F2 có 75% cây hoa tím và 25% cây hoa trắng.",
+     "a": true
+    },
+    {
+     "t": "Trong số các cây F2 hoa tím, 1/3 số cây có kiểu gene thuần chủng.",
+     "a": true
+    },
+    {
+     "t": "Các cây F2 hoa trắng tự thụ phấn cho F3 100% hoa tím.",
+     "a": false
+    }
+   ],
+   "explain": "cây hoa trắng (aa) thuần chủng tự thụ cho 100% hoa trắng."
+  },
+  {
+   "id": "B08-035",
+   "type": "tf",
+   "q": "Xét tính đúng/sai về giả thuyết của Mendel:",
+   "items": [
+    {
+     "t": "Mỗi tính trạng do một cặp nhân tố di truyền quy định.",
+     "a": true
+    },
+    {
+     "t": "Các nhân tố di truyền tồn tại riêng rẽ, không pha trộn với nhau.",
+     "a": true
+    },
+    {
+     "t": "Mỗi giao tử chứa cả hai nhân tố của cặp.",
+     "a": false
+    },
+    {
+     "t": "Mỗi cây F1 tạo ra hai loại giao tử với tỉ lệ bằng nhau.",
+     "a": true
+    }
+   ],
+   "explain": "mỗi giao tử chỉ chứa một trong hai nhân tố của cặp."
+  },
+  {
+   "id": "B08-036",
+   "type": "tf",
+   "q": "Xét tính đúng/sai về phép lai kiểm nghiệm (lai phân tích) lai cây F1 hoa tím với cây hoa trắng thuần chủng:",
+   "items": [
+    {
+     "t": "Đời con có 1/2 số cây hoa tím và 1/2 số cây hoa trắng.",
+     "a": true
+    },
+    {
+     "t": "Kết quả chứng tỏ cây F1 tạo hai loại giao tử với tỉ lệ bằng nhau.",
+     "a": true
+    },
+    {
+     "t": "Mendel đã làm phép lai kiểm nghiệm với 6 tính trạng khác và cho kết quả tương tự.",
+     "a": true
+    },
+    {
+     "t": "Mendel chỉ thực hiện phép lai kiểm nghiệm với tính trạng màu hoa.",
+     "a": false
+    }
+   ],
+   "explain": "ông tiến hành phép lai kiểm nghiệm với cả 6 tính trạng khác cho kết quả tương tự."
+  },
+  {
+   "id": "B08-037",
+   "type": "tf",
+   "q": "Xét tính đúng/sai về thí nghiệm lai hai tính trạng:",
+   "items": [
+    {
+     "t": "P thuần chủng: hạt vàng, vỏ trơn × hạt xanh, vỏ nhăn.",
+     "a": true
+    },
+    {
+     "t": "F1 100% hạt vàng, vỏ trơn.",
+     "a": true
+    },
+    {
+     "t": "F2 phân li kiểu hình theo tỉ lệ 9 : 3 : 3 : 1.",
+     "a": true
+    },
+    {
+     "t": "Mỗi cây F1 chỉ tạo ra 2 loại giao tử.",
+     "a": false
+    }
+   ],
+   "explain": "F1 dị hợp hai cặp gene tạo 4 loại giao tử với tỉ lệ ngang nhau."
+  },
+  {
+   "id": "B08-038",
+   "type": "tf",
+   "q": "Xét tính đúng/sai về giải thích kết quả lai hai tính trạng:",
+   "items": [
+    {
+     "t": "Hai cặp nhân tố di truyền quy định hai tính trạng phân li độc lập với nhau về các giao tử.",
+     "a": true
+    },
+    {
+     "t": "Mỗi cây F1 tạo ra 4 loại giao tử với tỉ lệ ngang nhau.",
+     "a": true
+    },
+    {
+     "t": "Sự kết hợp ngẫu nhiên của các giao tử tạo ra 16 tổ hợp với xác suất mỗi tổ hợp là 1/16.",
+     "a": true
+    },
+    {
+     "t": "Tỉ lệ 9 : 3 : 3 : 1 xuất hiện vì nhân tố trội và nhân tố lặn hoà trộn với nhau.",
+     "a": false
+    }
+   ],
+   "explain": "do nhân tố di truyền trội lấn át sự biểu hiện của nhân tố lặn nên kiểu hình chỉ là 9 : 3 : 3 : 1, không hoà trộn."
+  },
+  {
+   "id": "B08-039",
+   "type": "tf",
+   "q": "Cho phép lai AaBb × aabb (hai cặp gene phân li độc lập, trội hoàn toàn). Xét tính đúng/sai:",
+   "items": [
+    {
+     "t": "Cơ thể AaBb tạo ra 4 loại giao tử với tỉ lệ bằng nhau.",
+     "a": true
+    },
+    {
+     "t": "Đời con có 4 loại kiểu gene với tỉ lệ bằng nhau.",
+     "a": true
+    },
+    {
+     "t": "Đời con có 4 loại kiểu hình với tỉ lệ 1 : 1 : 1 : 1.",
+     "a": true
+    },
+    {
+     "t": "Kiểu gene aabb chiếm 1/2 ở đời con.",
+     "a": false
+    }
+   ],
+   "explain": "aabb chiếm 1/4."
+  },
+  {
+   "id": "B08-040",
+   "type": "short",
+   "q": "Cơ thể có kiểu gene AaBbCcDd (các cặp gene phân li độc lập) giảm phân bình thường tạo ra tối đa bao nhiêu loại giao tử?",
+   "answer": "16",
+   "explain": "2<sup>4</sup> = 16 loại giao tử."
+  },
+  {
+   "id": "B08-041",
+   "type": "short",
+   "q": "Cho cây AaBbDd tự thụ phấn (các cặp gene phân li độc lập). Đời con có tối đa bao nhiêu loại kiểu gene?",
+   "answer": "27",
+   "explain": "Mỗi cặp dị hợp tự thụ cho 3 loại kiểu gene: 3 × 3 × 3 = 27."
+  },
+  {
+   "id": "B08-042",
+   "type": "short",
+   "q": "Cho cây AaBb tự thụ phấn (các cặp gene phân li độc lập). Tỉ lệ cây có kiểu gene AaBb ở đời con là bao nhiêu (viết dạng phân số tối giản)?",
+   "answer": "1/4",
+   "explain": "Aa chiếm 1/2 và Bb chiếm 1/2, nên AaBb = 1/2 × 1/2 = 1/4 (4/16)."
+  }
+ ]
+}

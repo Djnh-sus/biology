@@ -1,0 +1,45 @@
+{
+  "app": {
+    "title": "Ôn tập sinh 12",
+    "intro": "Luyện trắc nghiệm theo từng bài: chọn bài, chọn số câu và thời gian, nộp xong xem đáp án kèm giải thích từng câu.",
+    "sub": "Sinh học 12 · Kết nối tri thức · Ôn giữa kì"
+  },
+  "lessons": [
+    {
+      "id": "bai-1",
+      "title": "DNA và cơ chế tái bản DNA"
+    },
+    {
+      "id": "bai-2",
+      "title": "Gene, quá trình truyền đạt thông tin di truyền và hệ gene"
+    },
+    {
+      "id": "bai-3",
+      "title": "Điều hoà biểu hiện gene"
+    },
+    {
+      "id": "bai-4",
+      "title": "Đột biến gene"
+    },
+    {
+      "id": "bai-5",
+      "title": "Công nghệ gene"
+    },
+    {
+      "id": "bai-7",
+      "title": "Cấu trúc và chức năng của nhiễm sắc thể"
+    },
+    {
+      "id": "bai-8",
+      "title": "Học thuyết di truyền của Mendel"
+    },
+    {
+      "id": "bai-9",
+      "title": "Mở rộng học thuyết của Mendel"
+    },
+    {
+      "id": "bai-10",
+      "title": "Di truyền giới tính và di truyền liên kết với giới tính"
+    }
+  ]
+}
