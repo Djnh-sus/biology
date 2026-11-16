@@ -1,0 +1,624 @@
+{
+ "questions": [
+  {
+   "id": "B09-001",
+   "type": "mcq",
+   "q": "Trội không hoàn toàn là hiện tượng:",
+   "options": [
+    "hai gene khác nhau cùng quy định một tính trạng.",
+    "cả hai allele cùng biểu hiện kiểu hình riêng.",
+    "allele trội át hoàn toàn allele lặn.",
+    "allele trội không át chế hoàn toàn sự biểu hiện của allele lặn, dẫn đến thể dị hợp có kiểu hình trung gian giữa hai dạng bố mẹ."
+   ],
+   "answer": 3,
+   "explain": "Đáp án đúng: allele trội không át chế hoàn toàn sự biểu hiện của allele lặn, dẫn đến thể dị hợp có kiểu hình trung gian giữa hai dạng bố mẹ. <b>Bẫy:</b> phương án \"cả hai allele cùng biểu hiện kiểu hình riêng\" là đồng trội."
+  },
+  {
+   "id": "B09-002",
+   "type": "mcq",
+   "q": "Khi lai hai cây hoa mõm chó thuần chủng hoa đỏ (A<sub>1</sub>A<sub>1</sub>) và hoa trắng (A<sub>2</sub>A<sub>2</sub>), F1 gồm:",
+   "options": [
+    "toàn cây hoa đỏ.",
+    "toàn cây hoa hồng.",
+    "toàn cây hoa trắng.",
+    "1 hoa đỏ : 1 hoa trắng."
+   ],
+   "answer": 1,
+   "explain": "Hoa hồng là kiểu hình trung gian giữa hai dạng bố mẹ."
+  },
+  {
+   "id": "B09-003",
+   "type": "mcq",
+   "q": "Cho các cây hoa mõm chó F1 hoa hồng (A<sub>1</sub>A<sub>2</sub>) tự thụ phấn, F2 có tỉ lệ kiểu hình:",
+   "options": [
+    "1 hoa đỏ : 2 hoa hồng : 1 hoa trắng.",
+    "3 hoa đỏ : 1 hoa trắng.",
+    "1 hoa đỏ : 1 hoa trắng.",
+    "100% hoa hồng."
+   ],
+   "answer": 0,
+   "explain": "Tỉ lệ kiểu hình trùng với tỉ lệ kiểu gene 1 : 2 : 1. <b>Bẫy:</b> nhầm với 3 : 1 của trội hoàn toàn."
+  },
+  {
+   "id": "B09-004",
+   "type": "mcq",
+   "q": "Trong trường hợp trội không hoàn toàn (một gene hai allele), số loại kiểu gene và số loại kiểu hình ở F2 là:",
+   "options": [
+    "2 kiểu gene và 2 kiểu hình.",
+    "3 kiểu gene và 2 kiểu hình.",
+    "3 kiểu gene và 3 kiểu hình.",
+    "4 kiểu gene và 3 kiểu hình."
+   ],
+   "answer": 2,
+   "explain": "Mỗi kiểu gene có một kiểu hình riêng (đỏ, hồng, trắng)."
+  },
+  {
+   "id": "B09-005",
+   "type": "mcq",
+   "q": "Vì sao cây F1 hoa hồng (A<sub>1</sub>A<sub>2</sub>) có kiểu hình trung gian?",
+   "options": [
+    "Vì sản phẩm của allele này không đủ để lấn át sự biểu hiện của allele kia.",
+    "Vì cây F1 mang hai loại gene khác nhau.",
+    "Vì cây F1 bị đột biến.",
+    "Vì gene quy định màu hoa nằm ngoài nhân."
+   ],
+   "answer": 0,
+   "explain": "Đáp án đúng: Vì sản phẩm của allele này không đủ để lấn át sự biểu hiện của allele kia."
+  },
+  {
+   "id": "B09-006",
+   "type": "mcq",
+   "q": "Hiện tượng đồng trội là hiện tượng:",
+   "options": [
+    "hai gene khác nhau tương tác với nhau.",
+    "allele trội át hoàn toàn allele lặn.",
+    "kiểu hình dị hợp trung gian giữa hai dạng bố mẹ.",
+    "cả hai allele khác nhau của cùng một gene đều biểu hiện kiểu hình riêng trên kiểu hình cơ thể."
+   ],
+   "answer": 3,
+   "explain": "Đáp án đúng: cả hai allele khác nhau của cùng một gene đều biểu hiện kiểu hình riêng trên kiểu hình cơ thể. <b>Bẫy:</b> đồng trội ≠ trội không hoàn toàn (không có kiểu hình \"trung gian\")."
+  },
+  {
+   "id": "B09-007",
+   "type": "mcq",
+   "q": "Hệ nhóm máu ABO ở người do một gene có mấy allele quy định?",
+   "options": [
+    "3 allele: I<sup>A</sup>, I<sup>B</sup> và I<sup>O</sup>.",
+    "2 allele: I<sup>A</sup> và I<sup>B</sup>.",
+    "4 allele.",
+    "1 allele."
+   ],
+   "answer": 0,
+   "explain": "Đáp án đúng: 3 allele: I<sup>A</sup>, I<sup>B</sup> và I<sup>O</sup>."
+  },
+  {
+   "id": "B09-008",
+   "type": "mcq",
+   "q": "Trong hệ nhóm máu ABO, allele I<sup>O</sup> có đặc điểm:",
+   "options": [
+    "quy định cả kháng nguyên A và B.",
+    "quy định kháng nguyên O trên bề mặt hồng cầu.",
+    "không có khả năng quy định kháng nguyên A và B.",
+    "là allele trội hoàn toàn so với I<sup>A</sup>."
+   ],
+   "answer": 2,
+   "explain": "Đáp án đúng: không có khả năng quy định kháng nguyên A và B. <b>Bẫy:</b> không có \"kháng nguyên O\" — nhóm O là nhóm không có kháng nguyên A, B."
+  },
+  {
+   "id": "B09-009",
+   "type": "mcq",
+   "q": "Người có kiểu gene dị hợp I<sup>A</sup>I<sup>B</sup> có nhóm máu AB vì:",
+   "options": [
+    "allele I<sup>A</sup> lấn át I<sup>B</sup>.",
+    "cả hai allele đồng trội, đều biểu hiện nên trên bề mặt hồng cầu có cả hai loại kháng nguyên A và B.",
+    "allele I<sup>B</sup> lấn át I<sup>A</sup>.",
+    "cả hai allele đều không biểu hiện."
+   ],
+   "answer": 1,
+   "explain": "Đáp án đúng: cả hai allele đồng trội, đều biểu hiện nên trên bề mặt hồng cầu có cả hai loại kháng nguyên A và B."
+  },
+  {
+   "id": "B09-010",
+   "type": "mcq",
+   "q": "Người có nhóm máu A có thể có kiểu gene:",
+   "options": [
+    "I<sup>A</sup>I<sup>B</sup>.",
+    "chỉ I<sup>A</sup>I<sup>A</sup>.",
+    "I<sup>A</sup>I<sup>A</sup> hoặc I<sup>A</sup>I<sup>O</sup>.",
+    "I<sup>O</sup>I<sup>O</sup>."
+   ],
+   "answer": 2,
+   "explain": "Đáp án đúng: I<sup>A</sup>I<sup>A</sup> hoặc I<sup>A</sup>I<sup>O</sup>. <b>Bẫy:</b> quên rằng I<sup>A</sup>I<sup>O</sup> cũng là nhóm A (I<sup>O</sup> là allele lặn)."
+  },
+  {
+   "id": "B09-011",
+   "type": "mcq",
+   "q": "Người có nhóm máu O có kiểu gene:",
+   "options": [
+    "I<sup>A</sup>I<sup>O</sup>.",
+    "I<sup>O</sup>I<sup>O</sup>.",
+    "I<sup>B</sup>I<sup>O</sup>.",
+    "I<sup>A</sup>I<sup>B</sup>."
+   ],
+   "answer": 1,
+   "explain": "Đáp án đúng: I<sup>O</sup>I<sup>O</sup>."
+  },
+  {
+   "id": "B09-012",
+   "type": "mcq",
+   "q": "Quan hệ giữa hai allele I<sup>A</sup> và I<sup>B</sup> là:",
+   "options": [
+    "trội hoàn toàn.",
+    "đồng trội.",
+    "trội không hoàn toàn.",
+    "lặn hoàn toàn."
+   ],
+   "answer": 1,
+   "explain": "Đáp án đúng: đồng trội."
+  },
+  {
+   "id": "B09-013",
+   "type": "mcq",
+   "q": "Gene đa allele là gene:",
+   "options": [
+    "chi phối nhiều tính trạng.",
+    "có nhiều hơn hai allele khác nhau.",
+    "nằm trên NST giới tính.",
+    "không có allele nào."
+   ],
+   "answer": 1,
+   "explain": "Ví dụ gene quy định màu mắt ruồi giấm có các allele w<sup>+</sup> (đỏ dại), w<sup>bl</sup> (đỏ máu), w<sup>ch</sup> (đỏ cherry), w (trắng)... <b>Bẫy:</b> \"chi phối nhiều tính trạng\" là tác động đa hiệu."
+  },
+  {
+   "id": "B09-014",
+   "type": "mcq",
+   "q": "Trong một quần thể, một gene có 3 allele; mỗi cá thể lưỡng bội chỉ mang tối đa:",
+   "options": [
+    "4 allele của gene đó.",
+    "3 allele của gene đó.",
+    "1 allele của gene đó.",
+    "2 allele của gene đó."
+   ],
+   "answer": 3,
+   "explain": "Cá thể lưỡng bội có hai NST tương đồng, mỗi NST mang một allele."
+  },
+  {
+   "id": "B09-015",
+   "type": "mcq",
+   "q": "Tác động đa hiệu của gene là hiện tượng:",
+   "options": [
+    "nhiều gene cùng quy định một tính trạng.",
+    "một gene chi phối sự biểu hiện của nhiều tính trạng.",
+    "một gene có nhiều allele.",
+    "các allele của một gene tương tác với nhau."
+   ],
+   "answer": 1,
+   "explain": "Đáp án đúng: một gene chi phối sự biểu hiện của nhiều tính trạng."
+  },
+  {
+   "id": "B09-016",
+   "type": "mcq",
+   "q": "Ví dụ nào sau đây minh hoạ cho tác động đa hiệu của gene?",
+   "options": [
+    "Màu vỏ ốc do hai gene quy định.",
+    "Màu da người do nhiều gene quy định.",
+    "Hệ nhóm máu ABO.",
+    "Gene quy định chuỗi β-hemoglobin bị đột biến (HbS) gây bệnh hồng cầu hình lưỡi liềm dẫn đến nhiều rối loạn bệnh lí khác nhau."
+   ],
+   "answer": 3,
+   "explain": "Đáp án đúng: Gene quy định chuỗi β-hemoglobin bị đột biến (HbS) gây bệnh hồng cầu hình lưỡi liềm dẫn đến nhiều rối loạn bệnh lí khác nhau."
+  },
+  {
+   "id": "B09-017",
+   "type": "mcq",
+   "q": "Tương tác giữa các allele thuộc các gene khác nhau có thể xảy ra khi sản phẩm của các gene:",
+   "options": [
+    "cùng tham gia cấu tạo nên protein hình thành một tính trạng, hoặc cùng tham gia vào một con đường chuyển hoá hay con đường truyền tín hiệu.",
+    "nằm ở hai tế bào khác nhau.",
+    "không được phiên mã.",
+    "là DNA."
+   ],
+   "answer": 0,
+   "explain": "Đáp án đúng: cùng tham gia cấu tạo nên protein hình thành một tính trạng, hoặc cùng tham gia vào một con đường chuyển hoá hay con đường truyền tín hiệu."
+  },
+  {
+   "id": "B09-018",
+   "type": "mcq",
+   "q": "Tương tác gián tiếp giữa các gene là trường hợp:",
+   "options": [
+    "sản phẩm của các gene gắn trực tiếp với nhau.",
+    "các gene nằm trên cùng một NST.",
+    "sản phẩm của các gene là các enzyme xúc tác cho các phản ứng khác nhau trong một con đường chuyển hoá tạo ra sản phẩm quy định tính trạng.",
+    "một gene quy định nhiều tính trạng."
+   ],
+   "answer": 2,
+   "explain": "Đáp án đúng: sản phẩm của các gene là các enzyme xúc tác cho các phản ứng khác nhau trong một con đường chuyển hoá tạo ra sản phẩm quy định tính trạng. <b>Bẫy:</b> \"gián tiếp\" nghĩa là sản phẩm của hai gene KHÔNG trực tiếp tương tác với nhau."
+  },
+  {
+   "id": "B09-019",
+   "type": "mcq",
+   "q": "Ở ốc Physa heterostropha, vỏ có màu nâu khi:",
+   "options": [
+    "không có enzyme nào.",
+    "chỉ có enzyme A.",
+    "chỉ có enzyme B.",
+    "có đủ cả hai enzyme A và B (do allele trội của hai gene A và B quy định) hoạt động."
+   ],
+   "answer": 3,
+   "explain": "Hai gene quy định enzyme xúc tác cho các phản ứng chuyển hoá chất tiền thân không màu (màu trắng) thành sản phẩm làm vỏ ốc có màu nâu."
+  },
+  {
+   "id": "B09-020",
+   "type": "mcq",
+   "q": "Ở ốc Physa, nếu một trong hai gene bị đột biến lặn mất chức năng hoặc cả hai gene đều bị đột biến mất chức năng thì:",
+   "options": [
+    "ốc chết.",
+    "ốc có vỏ màu nâu.",
+    "ốc có vỏ màu trắng.",
+    "ốc có vỏ hai màu."
+   ],
+   "answer": 2,
+   "explain": "Không có nguyên liệu để tạo sản phẩm tiếp theo nên không tạo được màu nâu."
+  },
+  {
+   "id": "B09-021",
+   "type": "mcq",
+   "q": "Ốc Physa kiểu gene aaBB có vỏ trắng vì:",
+   "options": [
+    "có quá nhiều enzyme B.",
+    "không có enzyme B nên không tạo màu nâu.",
+    "không có enzyme A nên chất I không chuyển hoá thành chất II và không có nguyên liệu cho enzyme B tạo màu nâu.",
+    "allele a quy định vỏ nâu."
+   ],
+   "answer": 2,
+   "explain": "Đáp án đúng: không có enzyme A nên chất I không chuyển hoá thành chất II và không có nguyên liệu cho enzyme B tạo màu nâu."
+  },
+  {
+   "id": "B09-022",
+   "type": "mcq",
+   "q": "Tương tác cộng gộp là kiểu tương tác trong đó:",
+   "options": [
+    "mỗi allele trội của một gene quy định một \"đơn vị\" nhỏ sản phẩm, góp phần cùng sản phẩm của các gene khác tạo nên kiểu hình chung.",
+    "allele trội át hoàn toàn allele lặn.",
+    "một gene quy định nhiều tính trạng.",
+    "hai allele cùng biểu hiện riêng."
+   ],
+   "answer": 0,
+   "explain": "Đáp án đúng: mỗi allele trội của một gene quy định một \"đơn vị\" nhỏ sản phẩm, góp phần cùng sản phẩm của các gene khác tạo nên kiểu hình chung."
+  },
+  {
+   "id": "B09-023",
+   "type": "mcq",
+   "q": "Các tính trạng nào sau đây là tính trạng số lượng, thường do nhiều gene tương tác cộng gộp quy định?",
+   "options": [
+    "Chiều cao, màu da, tốc độ sinh trưởng, năng suất, cân nặng.",
+    "Nhóm máu ABO.",
+    "Màu mắt ruồi giấm.",
+    "Bệnh hồng cầu hình lưỡi liềm."
+   ],
+   "answer": 0,
+   "explain": "Đáp án đúng: Chiều cao, màu da, tốc độ sinh trưởng, năng suất, cân nặng. <b>Bẫy:</b> nhóm máu ABO là đồng trội, một gene."
+  },
+  {
+   "id": "B09-024",
+   "type": "mcq",
+   "q": "Trong tương tác cộng gộp quy định màu da người (ba cặp gene AaBbDd), người có kiểu gene nào có màu da sẫm nhất, người có kiểu gene nào có màu da trắng nhất?",
+   "options": [
+    "AaBbDd sẫm nhất; AABBDD trắng nhất.",
+    "aabbdd sẫm nhất; AABBDD trắng nhất.",
+    "AABBDD sẫm nhất; aabbdd trắng nhất.",
+    "AABBDD sẫm nhất; AaBbDd trắng nhất."
+   ],
+   "answer": 2,
+   "explain": "Càng nhiều allele trội thì càng nhiều sắc tố nên da càng sẫm. <b>Bẫy:</b> allele trội ở đây góp \"sắc tố\" nên nhiều allele trội thì sẫm hơn."
+  },
+  {
+   "id": "B09-025",
+   "type": "mcq",
+   "q": "Hai người có kiểu gene AaBbDd lấy nhau (ba cặp gene nằm trên ba cặp NST tương đồng khác nhau) sẽ tạo ra ở đời con số nhóm kiểu hình về màu da và tỉ lệ của chúng là:",
+   "options": [
+    "8 nhóm kiểu hình theo tỉ lệ 1 : 1 : 1 : 1 : 1 : 1 : 1 : 1.",
+    "4 nhóm kiểu hình theo tỉ lệ 9 : 3 : 3 : 1.",
+    "3 nhóm kiểu hình theo tỉ lệ 1 : 2 : 1.",
+    "7 nhóm kiểu hình theo tỉ lệ 1 : 6 : 15 : 20 : 15 : 6 : 1."
+   ],
+   "answer": 3,
+   "explain": "Có 64 tổ hợp gene và 7 nhóm kiểu hình ứng với 0 đến 6 allele trội."
+  },
+  {
+   "id": "B09-026",
+   "type": "mcq",
+   "q": "Người có kiểu gene AaBbDd (tương tác cộng gộp màu da) có màu da:",
+   "options": [
+    "mức trung bình giữa hai kiểu gene AABBDD và aabbdd.",
+    "sẫm nhất.",
+    "trắng nhất.",
+    "không có sắc tố."
+   ],
+   "answer": 0,
+   "explain": "Người có 3 allele trội trên tổng 6 allele."
+  },
+  {
+   "id": "B09-027",
+   "type": "mcq",
+   "q": "Phát biểu nào sau đây về mối quan hệ giữa gene và tính trạng là đúng?",
+   "options": [
+    "Mỗi tính trạng chỉ do một gene quy định.",
+    "Một tính trạng có thể do nhiều gene quy định, và một gene cũng có thể chi phối nhiều tính trạng.",
+    "Mỗi gene chỉ quy định một tính trạng.",
+    "Gene và tính trạng không liên quan."
+   ],
+   "answer": 1,
+   "explain": "Mendel chỉ xét trường hợp đơn giản một gene — một tính trạng."
+  },
+  {
+   "id": "B09-028",
+   "type": "mcq",
+   "q": "Về tương tác giữa các allele của cùng một gene, có bao nhiêu phát biểu đúng?<br>a. Trội không hoàn toàn: thể dị hợp có kiểu hình trung gian.<br>b. F2 của hoa mõm chó (trội không hoàn toàn) có tỉ lệ kiểu hình 3 : 1.<br>c. Đồng trội: cả hai allele khác nhau đều biểu hiện kiểu hình riêng.<br>d. I<sup>A</sup> và I<sup>O</sup> có quan hệ đồng trội.",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 1,
+   "noShuffle": true,
+   "explain": "Ý đúng: a, c; ý sai: b, d. b sai: tỉ lệ kiểu hình là 1 : 2 : 1; d sai: I<sup>A</sup> trội hoàn toàn so với I<sup>O</sup>."
+  },
+  {
+   "id": "B09-029",
+   "type": "mcq",
+   "q": "Về hệ nhóm máu ABO, có bao nhiêu phát biểu SAI?<br>a. I<sup>A</sup>I<sup>B</sup> có nhóm máu AB.<br>b. Nhóm máu O có kiểu gene I<sup>O</sup>I<sup>O</sup>.<br>c. Nhóm máu A chỉ có kiểu gene I<sup>A</sup>I<sup>A</sup>.<br>d. Allele I<sup>O</sup> không quy định kháng nguyên A và B.",
+   "options": [
+    "0",
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 1,
+   "noShuffle": true,
+   "explain": "Ý sai: c. Nhóm máu A gồm cả I<sup>A</sup>I<sup>A</sup> và I<sup>A</sup>I<sup>O</sup>."
+  },
+  {
+   "id": "B09-030",
+   "type": "mcq",
+   "q": "Có bao nhiêu phát biểu đúng?<br>a. Gene đa allele là gene có nhiều hơn hai allele.<br>b. Tác động đa hiệu là một gene chi phối nhiều tính trạng.<br>c. Tương tác cộng gộp là một gene chi phối nhiều tính trạng.<br>d. Tính trạng số lượng thường do nhiều gene tương tác cộng gộp quy định.",
+   "options": [
+    "1",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 2,
+   "noShuffle": true,
+   "explain": "Ý đúng: a, b, d; ý sai: c. c sai: đó là tác động đa hiệu."
+  },
+  {
+   "id": "B09-031",
+   "type": "mcq",
+   "q": "Về tương tác giữa các gene, có bao nhiêu phát biểu SAI?<br>a. Ở ốc Physa, hai gene tương tác gián tiếp qua các enzyme trong một con đường chuyển hoá.<br>b. Ốc có vỏ màu nâu khi có allele trội của cả hai gene.<br>c. Chỉ cần một gene mất chức năng thì ốc vẫn có vỏ màu nâu.<br>d. Tương tác gián tiếp có nghĩa là hai gene luôn nằm trên cùng một NST.",
+   "options": [
+    "0",
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": 2,
+   "noShuffle": true,
+   "explain": "Ý sai: c, d. Đáp án đúng: 2"
+  },
+  {
+   "id": "B09-032",
+   "type": "tf",
+   "q": "Hoa mõm chó: P thuần chủng hoa đỏ (A<sub>1</sub>A<sub>1</sub>) × hoa trắng (A<sub>2</sub>A<sub>2</sub>). Xét tính đúng/sai:",
+   "items": [
+    {
+     "t": "F1 100% cây hoa hồng.",
+     "a": true
+    },
+    {
+     "t": "Kiểu gene của F1 là A<sub>1</sub>A<sub>2</sub>.",
+     "a": true
+    },
+    {
+     "t": "Cây A<sub>1</sub>A<sub>2</sub> có kiểu hình giống hệt cây A<sub>1</sub>A<sub>1</sub>.",
+     "a": false
+    },
+    {
+     "t": "F2 có 3 loại kiểu gene và 3 loại kiểu hình.",
+     "a": true
+    }
+   ],
+   "explain": "cây A<sub>1</sub>A<sub>2</sub> có kiểu hình trung gian (hoa hồng)."
+  },
+  {
+   "id": "B09-033",
+   "type": "tf",
+   "q": "Hệ nhóm máu ABO ở người. Xét tính đúng/sai:",
+   "items": [
+    {
+     "t": "Hai allele I<sup>A</sup> và I<sup>B</sup> đồng trội với nhau.",
+     "a": true
+    },
+    {
+     "t": "Allele I<sup>O</sup> không quy định kháng nguyên A và B.",
+     "a": true
+    },
+    {
+     "t": "Người I<sup>A</sup>I<sup>B</sup> có cả hai loại kháng nguyên trên bề mặt hồng cầu.",
+     "a": true
+    },
+    {
+     "t": "Người có nhóm máu O có kiểu gene I<sup>A</sup>I<sup>O</sup>.",
+     "a": false
+    }
+   ],
+   "explain": "nhóm máu O chỉ có kiểu gene I<sup>O</sup>I<sup>O</sup>."
+  },
+  {
+   "id": "B09-034",
+   "type": "tf",
+   "q": "Xét tính đúng/sai về gene đa allele:",
+   "items": [
+    {
+     "t": "Một gene có thể có nhiều hơn hai allele.",
+     "a": true
+    },
+    {
+     "t": "Gene quy định màu mắt ruồi giấm có nhiều allele như w<sup>+</sup>, w<sup>bl</sup>, w<sup>ch</sup>, w.",
+     "a": true
+    },
+    {
+     "t": "Một gene có 3 allele thì cá thể lưỡng bội có tối đa 6 kiểu gene về gene đó.",
+     "a": true
+    },
+    {
+     "t": "Mỗi cá thể lưỡng bội mang đồng thời cả ba allele của gene đó.",
+     "a": false
+    }
+   ],
+   "explain": "mỗi cá thể lưỡng bội chỉ mang tối đa 2 allele của một gene."
+  },
+  {
+   "id": "B09-035",
+   "type": "tf",
+   "q": "Xét tính đúng/sai về tác động đa hiệu:",
+   "items": [
+    {
+     "t": "Là hiện tượng một gene chi phối sự biểu hiện của nhiều tính trạng.",
+     "a": true
+    },
+    {
+     "t": "Gene HbA đột biến thành HbS gây bệnh hồng cầu hình lưỡi liềm với nhiều rối loạn bệnh lí.",
+     "a": true
+    },
+    {
+     "t": "Ở ruồi giấm, một gene gây đột biến làm cánh cụt kèm thân ngắn, lông cứng, đẻ ít trứng.",
+     "a": true
+    },
+    {
+     "t": "Tác động đa hiệu là nhiều gene cùng quy định một tính trạng.",
+     "a": false
+    }
+   ],
+   "explain": "nhiều gene cùng quy định một tính trạng là tương tác giữa các gene (ví dụ cộng gộp)."
+  },
+  {
+   "id": "B09-036",
+   "type": "tf",
+   "q": "Màu vỏ ốc Physa do hai gene A và B quy định. Xét tính đúng/sai:",
+   "items": [
+    {
+     "t": "Allele A và B quy định các enzyme tham gia một con đường chuyển hoá tạo màu nâu.",
+     "a": true
+    },
+    {
+     "t": "Ốc vỏ nâu khi cả hai enzyme A và B hoạt động.",
+     "a": true
+    },
+    {
+     "t": "Nếu một trong hai gene bị đột biến lặn mất chức năng thì ốc có vỏ trắng.",
+     "a": true
+    },
+    {
+     "t": "Sản phẩm của hai gene gắn trực tiếp với nhau để tạo màu nâu.",
+     "a": false
+    }
+   ],
+   "explain": "đây là tương tác gián tiếp: sản phẩm của hai gene không trực tiếp tương tác với nhau."
+  },
+  {
+   "id": "B09-037",
+   "type": "tf",
+   "q": "Xét tính đúng/sai về tương tác cộng gộp:",
+   "items": [
+    {
+     "t": "Mỗi allele trội góp một \"đơn vị\" sản phẩm vào kiểu hình chung.",
+     "a": true
+    },
+    {
+     "t": "Chiều cao, màu da, tốc độ sinh trưởng thường là các tính trạng số lượng.",
+     "a": true
+    },
+    {
+     "t": "Kiểu gene AABBDD quy định màu da sẫm nhất.",
+     "a": true
+    },
+    {
+     "t": "Kiểu gene aabbdd quy định màu da sẫm nhất.",
+     "a": false
+    }
+   ],
+   "explain": "aabbdd không có allele trội nên da trắng nhất."
+  },
+  {
+   "id": "B09-038",
+   "type": "tf",
+   "q": "Hai người AaBbDd (tương tác cộng gộp, ba cặp gene phân li độc lập) lấy nhau. Xét tính đúng/sai:",
+   "items": [
+    {
+     "t": "Có 64 tổ hợp gene ở đời con.",
+     "a": true
+    },
+    {
+     "t": "Có 7 nhóm kiểu hình về màu da.",
+     "a": true
+    },
+    {
+     "t": "Tỉ lệ các nhóm kiểu hình là 1 : 6 : 15 : 20 : 15 : 6 : 1.",
+     "a": true
+    },
+    {
+     "t": "Nhóm kiểu hình có 3 allele trội chiếm 15/64.",
+     "a": false
+    }
+   ],
+   "explain": "nhóm có 3 allele trội chiếm 20/64."
+  },
+  {
+   "id": "B09-039",
+   "type": "tf",
+   "q": "Hai cây hoa mõm chó hoa hồng (A<sub>1</sub>A<sub>2</sub>) giao phấn với nhau. Xét tính đúng/sai về đời con:",
+   "items": [
+    {
+     "t": "1/4 số cây hoa đỏ.",
+     "a": true
+    },
+    {
+     "t": "1/2 số cây hoa hồng.",
+     "a": true
+    },
+    {
+     "t": "1/4 số cây hoa trắng.",
+     "a": true
+    },
+    {
+     "t": "100% số cây hoa hồng.",
+     "a": false
+    }
+   ],
+   "explain": "A<sub>1</sub>A<sub>2</sub> × A<sub>1</sub>A<sub>2</sub> → 1/4 A<sub>1</sub>A<sub>1</sub> : 1/2 A<sub>1</sub>A<sub>2</sub> : 1/4 A<sub>2</sub>A<sub>2</sub>."
+  },
+  {
+   "id": "B09-040",
+   "type": "short",
+   "q": "Một gene có 3 allele I<sup>A</sup>, I<sup>B</sup>, I<sup>O</sup>. Ở người, tối đa có bao nhiêu kiểu gene khác nhau về gene này?",
+   "answer": "6",
+   "explain": "I<sup>A</sup>I<sup>A</sup>, I<sup>B</sup>I<sup>B</sup>, I<sup>O</sup>I<sup>O</sup>, I<sup>A</sup>I<sup>B</sup>, I<sup>A</sup>I<sup>O</sup>, I<sup>B</sup>I<sup>O</sup>."
+  },
+  {
+   "id": "B09-041",
+   "type": "short",
+   "q": "Có bao nhiêu kiểu gene quy định nhóm máu A ở người?",
+   "answer": "2",
+   "explain": "I<sup>A</sup>I<sup>A</sup> và I<sup>A</sup>I<sup>O</sup>."
+  },
+  {
+   "id": "B09-042",
+   "type": "short",
+   "q": "Hai người AaBbDd (tương tác cộng gộp, ba cặp gene phân li độc lập) lấy nhau. Tỉ lệ đời con có đúng 3 allele trội là bao nhiêu (viết dạng phân số tối giản)?",
+   "answer": "5/16",
+   "explain": "Số tổ hợp có 3 allele trội trong 6 allele là C(6,3) = 20 trên 64 tổ hợp, tức 20/64 = 5/16."
+  }
+ ]
+}
